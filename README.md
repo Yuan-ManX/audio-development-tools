@@ -7,6 +7,8 @@ This is a list of sound, audio processing tools which contains machine learning,
 * [librosa](https://librosa.org/doc/latest/index.html)  Librosa is a python package for music and audio analysis. It provides the building blocks necessary to create music information retrieval systems.
 * [IPython](https://ipython.readthedocs.io/en/stable/index.html)  IPython provides a rich toolkit to help you make the most of using Python interactively.
 * [torchaudio](https://github.com/pytorch/audio)  an audio library for PyTorch. Data manipulation and transformation for audio signal processing, powered by PyTorch.
+* [praudio](https://github.com/musikalkemist/praudio)  Audio preprocessing framework for Deep Learning audio applications.
+* [nnAudio](https://github.com/KinWaiCheuk/nnAudio)  nnAudio is an audio processing toolbox using PyTorch convolutional neural network as its backend. By doing so, spectrograms can be generated from audio on-the-fly during neural network training and the Fourier kernels (e.g. or CQT kernels) can be trained.
 
 ## Audio Signal Processing (ASP)
 
@@ -18,6 +20,9 @@ This is a list of sound, audio processing tools which contains machine learning,
 * [PortAudio](http://www.portaudio.com/)  PortAudio is a free, cross-platform, [open-source](http://www.portaudio.com/license.html), audio I/O library.  It lets you write simple audio programs in 'C' or C++ that will compile and run on many platforms including Windows, Macintosh OS X, and Unix (OSS/ALSA). It is intended to promote the exchange of audio software between developers on different platforms. Many [applications](http://www.portaudio.com/apps.html) use PortAudio for Audio I/O.
 * [sounddevice](https://pypi.org/project/sounddevice/)  This [Python](https://www.python.org/) module provides bindings for the [PortAudio](http://www.portaudio.com/) library and a few convenience functions to play and record [NumPy](https://numpy.org/) arrays containing audio signals.
 * [Pydub](https://github.com/jiaaro/pydub)  Manipulate audio with a simple and easy high level interface.
+* [TarsosDSP](https://github.com/JorenSix/TarsosDSP)  TarsosDSP is a Java library for audio processing. Its aim is to provide an easy-to-use interface to practical music processing algorithms implemented, as simply as possible, in pure Java and without any other external dependencies.
+* [Q](https://cycfi.github.io/q/)  Q is a cross-platform C++ library for Audio Digital Signal Processing. Aptly named after the “Q factor”, a dimensionless parameter that describes the quality of a resonant circuit, the Q DSP Library is designed to be simple and elegant, as the simplicity of its name suggests, and efficient enough to run on small microcontrollers.
+* [BasicDSP](https://github.com/trcwm/BasicDSP)  BasicDSP - A tool for processing audio / experimenting with signal processing.
 
 ## Sound Synthesis (SS)
 
@@ -27,7 +32,13 @@ This is a list of sound, audio processing tools which contains machine learning,
 
 * [spaudiopy](https://spaudiopy.readthedocs.io/en/latest/index.html)  Spatial Audio Python Package. The focus (so far) is on spatial audio encoders and decoders. The package includes e.g. spherical harmonics processing and (binaural renderings of) loudspeaker decoders, such as VBAP and AllRAD.
 
+## Web Audio Processing (WAP)
+
+* [WebRTC Audio Processing](https://github.com/xiongyihui/python-webrtc-audio-processing)  Python binding of WebRTC Audio Processing.
+
 ## Music Information Retrieval (MIR)
+
+* [Madmom](https://madmom.readthedocs.io/en/latest/index.html)  Madmom is an audio signal processing library written in Python with a strong focus on music information retrieval (MIR) tasks.
 
 ## Music Generation (MG)
 
