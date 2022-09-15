@@ -29,18 +29,24 @@ This is a list of sound, audio processing tools which contains machine learning,
 * [Q](https://cycfi.github.io/q/)  Q is a cross-platform C++ library for Audio Digital Signal Processing. Aptly named after the “Q factor”, a dimensionless parameter that describes the quality of a resonant circuit, the Q DSP Library is designed to be simple and elegant, as the simplicity of its name suggests, and efficient enough to run on small microcontrollers.
 * [BasicDSP](https://github.com/trcwm/BasicDSP)  BasicDSP - A tool for processing audio / experimenting with signal processing.
 * [Speech Signal Processing Toolkit (SPTK)](http://sp-tk.sourceforge.net/)  The Speech Signal Processing Toolkit (SPTK) is a suite of speech signal processing tools for UNIX environments, e.g., LPC analysis, PARCOR analysis, LSP analysis, PARCOR synthesis filter, LSP synthesis filter, vector quantization techniques, and other extended versions of them.
+<<<<<<< HEAD
 * [eDSP](https://mohabouje.github.io/edsp-docs/)  *eDSP* (easy Digital Signal Processing) is a digital signal processing framework written in modern C++ that implements some of the common functions and algorithms frequently used in digital signal processing, audio engineering & telecommunications systems.
 * [KFR](https://www.kfrlib.com/)  KFR is an open source C++ DSP framework that focuses on high performance. Fast, modern C++ DSP framework, FFT, Sample Rate Conversion, FIR/IIR/Biquad Filters (SSE, AVX, AVX-512, ARM NEON).
 * [MWEngine](https://github.com/igorski/MWEngine)  Audio engine and DSP for Android, written in C++ providing low latency performance within a musical context, while providing a Java/Kotlin API. Supports both OpenSL and AAudio.
+=======
+>>>>>>> afb0e5581583283ea673879796635f038fb910e6
 
 ## Sound Synthesis (SS)
 
 * [pyo-tools](https://github.com/belangeo/pyo-tools)  Repository of ready-to-use python classes for building audio effects and synths with pyo.
 * [AudioKit](https://github.com/AudioKit/AudioKit)  AudioKit is an audio synthesis, processing, and analysis platform for iOS, macOS (including Catalyst), and tvOS.
 * [Twang](https://github.com/AldaronLau/twang)  Library for pure Rust advanced audio synthesis.
+<<<<<<< HEAD
 * [Gensound](https://github.com/Quefumas/gensound)  Pythonic audio processing and generation framework. The Python way to audio processing & synthesis.
 * [OTTO](https://bitfieldaudio.com/)  The OTTO is a digital hardware groovebox, with synths, samplers, effects and a sequencer with an audio looper. The interface is flat, modular and easy to use, but most of all, it aims to encourage experimentation.
 * [Loris](https://github.com/tractal/loris)  Loris is a library for sound analysis, synthesis, and morphing, developed by Kelly Fitz and Lippold Haken at the CERL Sound Group. Loris includes a C++ class library, Python module, C-linkable interface, command line utilities, and documentation.
+=======
+>>>>>>> afb0e5581583283ea673879796635f038fb910e6
 
 ## Spatial Audio (SA)
 
@@ -54,8 +60,11 @@ This is a list of sound, audio processing tools which contains machine learning,
 
 * [WebRTC Audio Processing](https://github.com/xiongyihui/python-webrtc-audio-processing)  Python binding of WebRTC Audio Processing.
 * [MIDI.js](https://galactic.ink/midi-js/)  🎹 Making life easy to create a MIDI-app on the web. Includes a library to program synesthesia into your app for memory recognition or for creating trippy effects. Convert soundfonts for Guitar, Bass, Drums, ect. into code that can be read by the browser. **[MIDI.js](https://github.com/mudcube/MIDI.js)** ties together, and builds upon frameworks that bring MIDI to the browser. Combine it with [jasmid](https://github.com/gasman/jasmid) to create a web-radio MIDI stream similar to this demo, or with [Three.js](https://github.com/mrdoob/three.js/), [Sparks.js](https://github.com/zz85/sparks.js/), or [GLSL](http://glslsandbox.com/) to create Audio/visual experiments.
+<<<<<<< HEAD
 * [Web Voice Processor](https://github.com/Picovoice/web-voice-processor)  A library for real-time voice processing in web browsers.
 * [Tone.js](https://tonejs.github.io/)  Tone.js is a Web Audio framework for creating interactive music in the browser. The architecture of Tone.js aims to be familiar to both musicians and audio programmers creating web-based audio applications. On the high-level, Tone offers common DAW (digital audio workstation) features like a global transport for synchronizing and scheduling events as well as prebuilt synths and effects. Additionally, Tone provides high-performance building blocks to create your own synthesizers, effects, and complex control signals.
+=======
+>>>>>>> afb0e5581583283ea673879796635f038fb910e6
 
 ## Music Information Retrieval (MIR)
 
@@ -69,8 +78,11 @@ This is a list of sound, audio processing tools which contains machine learning,
 * [Mozart](https://github.com/aashrafh/Mozart)  An optical music recognition (OMR) system. Converts sheet music to a machine-readable version. The aim of this project is to develop a sheet music reader. This is called Optical Music Recognition (OMR). Its objective is to convert sheet music to a machine-readable version. We take a simplified version where we convert an image of sheet music to a textual representation that can be further processed to produce midi files or audio files like wav or mp3.
 * [MidiTok](https://github.com/Natooz/MidiTok)  A convenient MIDI / symbolic music tokenizer for Deep Learning networks, with multiple strategies .🎶
 * [SCAMP](http://scamp.marcevanstein.com/#)  SCAMP is an computer-assisted composition framework in Python designed to act as a hub, flexibly connecting the composer-programmer to a wide variety of resources for playback and notation. SCAMP allows the user to manage the flow of musical time, play notes either using [FluidSynth](http://www.fluidsynth.org/) or via MIDI or OSC messages to an external synthesizer, and ultimately quantize and export the result to music notation in the form of MusicXML or Lilypond. Overall, the framework aims to address pervasive technical challenges while imposing as little as possible on the aesthetic choices of the composer-programmer.
+<<<<<<< HEAD
 * [Facet](https://github.com/mjcella/facet)  Facet is an open-source live coding system for algorithmic music. With a code editor in the browser and a NodeJS server running locally on your machine, Facet can generate and sequence audio and MIDI data in real-time.Facet is a live coding system for algorithmic music.
 * [Mingus](https://github.com/bspaans/python-mingus)  Mingus is a music package for Python. Mingus is a package for Python used by programmers, musicians, composers and researchers to make and analyse music.
+=======
+>>>>>>> afb0e5581583283ea673879796635f038fb910e6
 
 ## Speech Recognition (ASR)
 
