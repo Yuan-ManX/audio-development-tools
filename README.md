@@ -108,6 +108,7 @@ This is a list of sound, audio processing tools which contains machine learning,
 * [Julius](https://github.com/julius-speech/julius)  Open-Source Large Vocabulary Continuous Speech Recognition Engine. "Julius" is a high-performance, small-footprint large vocabulary continuous speech recognition (LVCSR) decoder software for speech-related researchers and developers. The main platform is Linux and other Unix-based system, as well as Windows, Mac, Androids and other platforms.
 * [audino](https://github.com/midas-research/audino)  audino is an open source audio annotation tool. It provides features such as transcription and labeling which enables annotation for Voice Activity Detection (VAD), Diarization, Speaker Identification, Automated Speech Recognition, Emotion Recognition tasks and more.
 * [Wenet](https://wenet.org.cn/wenet/)  Wenet is an tansformer-based end-to-end ASR toolkit.
+* [SpeechBrain](https://speechbrain.github.io/)  SpeechBrain is an **open-source** and **all-in-one** conversational AI toolkit based on PyTorch. The goal is to create a  **single** ,  **flexible** , and **user-friendly** toolkit that can be used to easily develop  **state-of-the-art speech technologies** , including systems for  **speech recognition** ,  **speaker recognition** ,  **speech enhancement** ,  **speech separation** ,  **language identification** ,  **multi-microphone signal processing** , and many others.
 
 ## Speech Synthesis (TTS)
 
