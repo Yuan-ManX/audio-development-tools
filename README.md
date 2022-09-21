@@ -119,6 +119,7 @@ This is a list of sound, audio processing tools which contains machine learning,
 * [mxml](https://github.com/Reinvent-Archived-Projects/mxml) - MusicXML parsing and layout library. **mxml** is a C++ parser and layout generator for [MusicXML](http://www.musicxml.com/) files.
 * [Open-Unmix](https://sigsep.github.io/open-unmix/) - Open-Unmix, Music Source Separation for PyTorch. **Open-Unmix** , is a deep neural network reference implementation for music source separation, applicable for researchers, audio engineers and artists. **Open-Unmix** provides ready-to-use models that allow users to separate pop music into four stems:  **vocals** ,  **drums** , **bass** and the remaining **other** instruments.
 * [Spleeter](https://research.deezer.com/projects/spleeter.html) - **Spleeter** is [Deezer](https://www.deezer.com/) source separation library with pretrained models written in [Python](https://www.python.org/) and uses [Tensorflow](https://tensorflow.org/). It makes it easy to train source separation model (assuming you have a dataset of isolated sources), and provides already trained state of the art model for performing various flavour of separation.
+* [AMPACT](https://ampact.tumblr.com/) - Automatic Music Performance Analysis and Comparison Toolkit. 
 
 ## Music Generation (MG)
 
@@ -147,6 +148,8 @@ This is a list of sound, audio processing tools which contains machine learning,
 * [ESPnet](https://espnet.github.io/espnet/) - ESPnet is an end-to-end speech processing toolkit, mainly focuses on end-to-end speech recognition and end-to-end text-to-speech. ESPnet is an end-to-end speech processing toolkit covering end-to-end speech recognition, text-to-speech, speech translation, speech enhancement, speaker diarization, spoken language understanding, and so on. ESPnet uses [pytorch](http://pytorch.org/) as a deep learning engine and also follows [Kaldi](http://kaldi-asr.org/) style data processing, feature extraction/format, and recipes to provide a complete setup for various speech processing experiments.
 * [Leon](https://getleon.ai/) - 🧠 Leon is your open-source personal assistant.
 * [DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
+* [annyang](https://www.talater.com/annyang/) - annyang is a tiny javascript library that lets your visitors control your site with voice commands. annyang supports multiple languages, has no dependencies, weighs just 2kb and is free to use.
+* [PocketSphinx](https://github.com/cmusphinx/pocketsphinx) - This is PocketSphinx, one of Carnegie Mellon University's open source large vocabulary, speaker-independent continuous speech recognition engines.
 
 ## Speech Synthesis (TTS)
 
