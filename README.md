@@ -109,6 +109,7 @@ This is a list of sound, audio processing tools which contains machine learning,
 * [p5.sound](https://p5js.org/reference/#/libraries/p5.sound) - p5.sound extends p5 with [Web Audio](http://caniuse.com/audio-api) functionality including audio input, playback, analysis and synthesis.
 * [Sound.js](https://github.com/kittykatattack/sound.js) - "Sound.js" is micro-library that lets you load, play, and generate sound effects and music for games and interactive applications. It's very small: less than 800 lines of code and no dependencies. [Click here to try an interactive demo](https://cdn.rawgit.com/kittykatattack/sound.js/master/index.html). You can use it as-as, or integrate it into your existing framework.
 * [tuna](https://github.com/Theodeus/tuna) - An audio effects library for the Web Audio API.
+* [XSound](https://xsound.jp/) - XSound gives Web Developers Powerful Audio Features Easily !
 
 ## Music Information Retrieval (MIR)
 
