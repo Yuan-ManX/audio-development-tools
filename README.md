@@ -83,6 +83,7 @@ This is a list of sound, audio processing tools which contains machine learning,
 * [OpenMusic (OM)](http://repmus.ircam.fr/openmusic/home) - OpenMusic (OM) is a visual programming language based on [Lisp](http://www.gigamonkeys.com/book/introduction-why-lisp.html "http://www.gigamonkeys.com/book/introduction-why-lisp.html"). Visual programs are created by assembling and connecting icons representing functions and data structures. Most programming and operations are performed by dragging an icon from a particular place and dropping it to an other place. Built-in visual control structures (e.g. loops) are provided, that interface with Lisp ones. Existing CommonLisp/CLOS code can easily be used in OM, and new code can be developed in a visual way.
 * [ORCΛ](https://github.com/hundredrabbits/Orca) - Orca is an [esoteric programming language](https://en.wikipedia.org/wiki/Esoteric_programming_language) designed to quickly create procedural sequencers, in which every letter of the alphabet is an operation, where lowercase letters operate on bang, uppercase letters operate each frame.
 * [Overtone](http://overtone.github.io/) - Overtone is an open source audio environment designed to explore new musical ideas from synthesis and sampling to instrument building, live-coding and collaborative jamming. We combine the powerful [SuperCollider](http://supercollider.github.io/) audio engine, with [Clojure](http://clojure.org/), a state of-the-art lisp, to create an intoxicating interactive sonic experience.
+* [SEAM](https://grammaton.gitbook.io/seam/) - Sustained Electro-Acoustic Music - Base. *Sustained Electro-Acoustic Music* is a project inspired by [Alvise Vidolin and Nicola Bernardini](https://www.academia.edu/16348988/Sustainable_live_electro-acoustic_music).
 
 ## Spatial Audio (SA)
 
@@ -121,6 +122,7 @@ This is a list of sound, audio processing tools which contains machine learning,
 * [Open-Unmix](https://sigsep.github.io/open-unmix/) - Open-Unmix, Music Source Separation for PyTorch. **Open-Unmix** , is a deep neural network reference implementation for music source separation, applicable for researchers, audio engineers and artists. **Open-Unmix** provides ready-to-use models that allow users to separate pop music into four stems:  **vocals** ,  **drums** , **bass** and the remaining **other** instruments.
 * [Spleeter](https://research.deezer.com/projects/spleeter.html) - **Spleeter** is [Deezer](https://www.deezer.com/) source separation library with pretrained models written in [Python](https://www.python.org/) and uses [Tensorflow](https://tensorflow.org/). It makes it easy to train source separation model (assuming you have a dataset of isolated sources), and provides already trained state of the art model for performing various flavour of separation.
 * [AMPACT](https://ampact.tumblr.com/) - Automatic Music Performance Analysis and Comparison Toolkit.
+* [crema](https://github.com/bmcfee/crema) - convolutional and recurrent estimators for music analysis.
 
 ## Music Generation (MG)
 
@@ -153,6 +155,7 @@ This is a list of sound, audio processing tools which contains machine learning,
 * [DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 * [annyang](https://www.talater.com/annyang/) - annyang is a tiny javascript library that lets your visitors control your site with voice commands. annyang supports multiple languages, has no dependencies, weighs just 2kb and is free to use.
 * [PocketSphinx](https://github.com/cmusphinx/pocketsphinx) - This is PocketSphinx, one of Carnegie Mellon University's open source large vocabulary, speaker-independent continuous speech recognition engines.
+* [Kara](https://github.com/emileclarkb/Kara) - Open Source Voice Assistant. Simply put, Kara is a voice assistant that steals 0% of your data so you stay free! She is a actively maintained, modular, and designed to customize.
 
 ## Speech Synthesis (TTS)
 
