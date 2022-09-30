@@ -84,6 +84,7 @@ This is a list of sound, audio processing tools which contains machine learning,
 * [ORCΛ](https://github.com/hundredrabbits/Orca) - Orca is an [esoteric programming language](https://en.wikipedia.org/wiki/Esoteric_programming_language) designed to quickly create procedural sequencers, in which every letter of the alphabet is an operation, where lowercase letters operate on bang, uppercase letters operate each frame.
 * [Overtone](http://overtone.github.io/) - Overtone is an open source audio environment designed to explore new musical ideas from synthesis and sampling to instrument building, live-coding and collaborative jamming. We combine the powerful [SuperCollider](http://supercollider.github.io/) audio engine, with [Clojure](http://clojure.org/), a state of-the-art lisp, to create an intoxicating interactive sonic experience.
 * [SEAM](https://grammaton.gitbook.io/seam/) - Sustained Electro-Acoustic Music - Base. *Sustained Electro-Acoustic Music* is a project inspired by [Alvise Vidolin and Nicola Bernardini](https://www.academia.edu/16348988/Sustainable_live_electro-acoustic_music).
+* [Glicol](https://glicol.org/) - Glicol (an acronym for "graph-oriented live coding language") is a computer music language with both its language and audio engine written in [Rust programming language](https://www.rust-lang.org/), a modern alternative to C/C++. Given this low-level nature, Glicol can run on many different platforms such as browsers, VST plugins and Bela board. Glicol's synth-like syntax and powerful audio engine also make it possible to combine high-level synth or sequencer control with low-level sample-accurate audio synthesis, all in real-time.
 
 ## Spatial Audio (SA)
 
@@ -111,6 +112,7 @@ This is a list of sound, audio processing tools which contains machine learning,
 * [Sound.js](https://github.com/kittykatattack/sound.js) - "Sound.js" is micro-library that lets you load, play, and generate sound effects and music for games and interactive applications. It's very small: less than 800 lines of code and no dependencies. [Click here to try an interactive demo](https://cdn.rawgit.com/kittykatattack/sound.js/master/index.html). You can use it as-as, or integrate it into your existing framework.
 * [tuna](https://github.com/Theodeus/tuna) - An audio effects library for the Web Audio API.
 * [XSound](https://xsound.jp/) - XSound gives Web Developers Powerful Audio Features Easily !
+* [Pizzicato](https://alemangui.github.io/pizzicato/) - A web audio Javascript library. Pizzicato aims to simplify the way you create and manipulate sounds via the Web Audio API. Take a look at the [demo site here](https://alemangui.github.io/pizzicato/). Library to simplify the way you create and manipulate sounds with the Web Audio API.
 
 ## Music Information Retrieval (MIR)
 
