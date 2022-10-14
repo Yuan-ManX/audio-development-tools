@@ -1,6 +1,6 @@
-# Audio-Processing-Tools-List (APTL)
+# Audio-Development-Tools-List (ADTL)
 
-This is a list of sound, audio processing tools which contains machine learning, audio signal processing, sound synthesis, spatial audio, music information retrieval, music generation, speech recognition, speech synthesis and more.
+This is a list of sound, audio and music development tools which contains machine learning, audio signal processing, sound synthesis, spatial audio, music information retrieval, music generation, speech recognition, speech synthesis and more.
 
 ## Machine Learning (ML)
 
@@ -10,6 +10,7 @@ This is a list of sound, audio processing tools which contains machine learning,
 * [aubio](https://aubio.org/) - aubio is a tool designed for the extraction of annotations from audio signals. Its features include segmenting a sound file before each of its attacks, performing pitch detection, tapping the beat and producing midi streams from live audio.
 * [IPython](https://ipython.readthedocs.io/en/stable/index.html) - IPython provides a rich toolkit to help you make the most of using Python interactively.
 * [torchaudio](https://github.com/pytorch/audio) - an audio library for PyTorch. Data manipulation and transformation for audio signal processing, powered by PyTorch.
+* [torch-audiomentations](https://github.com/asteroid-team/torch-audiomentations) - Fast audio data augmentation in PyTorch. Inspired by audiomentations. Useful for deep learning. 
 * [Asteroid](https://asteroid-team.github.io/) - Asteroid is a Pytorch-based audio source separation toolkit that enables fast experimentation on common datasets. It comes with a source code that supports a large range of datasets and architectures, and a set of recipes to reproduce some important papers.
 * [Kapre](https://kapre.readthedocs.io/en/latest/#) - Kapre: Keras Audio Preprocessors. Keras Audio Preprocessors - compute STFT, InverseSTFT, Melspectrogram, and others on GPU real-time.
 * [praudio](https://github.com/musikalkemist/praudio) - Audio preprocessing framework for Deep Learning audio applications.
@@ -140,6 +141,7 @@ This is a list of sound, audio processing tools which contains machine learning,
 * [Mingus](https://github.com/bspaans/python-mingus) - Mingus is a music package for Python. Mingus is a package for Python used by programmers, musicians, composers and researchers to make and analyse music.
 * [Audeo](http://faculty.washington.edu/shlizee/audeo/) - ***Audeo*** is a novel system that gets as an input video frames of a musician playing the piano and generates the music for that video. Generation of music from visual cues is a challenging problem and it is not clear whether it is an attainable goal at all. Our main aim in this work is to explore the plausibility of such a transformation and to identify cues and components able to carry the association of sounds with visual events. To achieve the transformation we built a full pipeline named *Audeo* containing three components. We first translate the video frames of the keyboard and the musician hand movements into raw mechanical musical symbolic representation Piano-Roll (Roll) for each video frame which represents the keys pressed at each time step. We then adapt the Roll to be amenable for audio synthesis by including temporal correlations. This step turns out to be critical for meaningful audio generation. As a last step, we implement Midi synthesizers to generate realistic music. *Audeo* converts video to audio smoothly and clearly with only a few setup constraints.
 * [libatm](https://github.com/allthemusicllc/libatm) - `libatm` is a library for generating and working with MIDI files. It was purpose-built for All the Music, LLC to assist in its mission to enable musicians to make all of their music without the fear of frivolous copyright lawsuits. All code is released into the public domain via the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). If you're looking for a command line tool to generate and work with MIDI files, check out [the `atm-cli` project](https://github.com/allthemusicllc/atm-cli) that utilizes this library. For more information on All the Music, check out [allthemusic.info](http://allthemusic.info/). For more detailed library documentation, check out the crate documentation [here](https://allthemusicllc.github.io/libatm/libatm/index.html).
+* [Davidic](https://github.com/bendious/Davidic) - A minimalist procedural music creator. Randomly generate musical scale, MIDI instrument(s), chord progression, and rhythm, then lock-in what you like and regenerate to refine. Advanced controls: chord progressions and rhythms can be manually specified after selecting the Advanced Controls toggle, but UI support is minimal. Suggested usage is restricted to tweaking randomly-generated starting points.
 
 ## Speech Recognition (ASR)
 
