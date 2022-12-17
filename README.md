@@ -1,6 +1,6 @@
 # Audio-Development-Tools-List (ADTL)
 
-This is a list of sound, audio and music development tools which contains machine learning, audio signal processing, sound synthesis, spatial audio, music information retrieval, music generation, speech recognition, speech synthesis and more.
+This is a list of sound, audio and music development tools which contains machine learning, audio signal processing, sound synthesis, spatial audio, music information retrieval, music generation, speech recognition, speech synthesis, singing voice synthesis and more.
 
 ## Machine Learning (ML)
 
@@ -171,5 +171,15 @@ This is a list of sound, audio and music development tools which contains machin
 * [FastSpeech 2](https://github.com/ming024/FastSpeech2) - An implementation of Microsoft's "FastSpeech 2: Fast and High-Quality End-to-End Text to Speech".
 * [MelGAN](http://swpark.me/melgan/) - Generative Adversarial Networks for Conditional Waveform Synthesis.
 * [HiFi-GAN](https://github.com/jik876/hifi-gan) - HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis.
+
+## Singing Voice Synthesis (SVS)
+
+* [NNSVS](https://nnsvs.github.io/) - Neural network-based singing voice synthesis library for research.
+* [Muskit](https://github.com/SJTMusicTeam/Muskits) - Muskit is an open-source music processing toolkit. Currently we mostly focus on benchmarking the end-to-end singing voice synthesis and expect to extend more tasks in the future. Muskit employs [pytorch](http://pytorch.org/) as a deep learning engine and also follows [ESPnet](https://github.com/espnet/espnet) and [Kaldi](http://kaldi-asr.org/) style data processing, and recipes to provide a complete setup for various music processing experiments.
+* [OpenUtau](http://www.openutau.com/) - Open singing synthesis platform / Open source UTAU successor.
+* [Sinsy](http://sinsy.jp/) - Sinsy is an HMM/DNN-based singing voice synthesis system. You can generate a singing voice sample by uploading the musical score (MusicXML) to this website.
+* [DiffSinger](https://github.com/MoonInTheRiver/DiffSinger) - DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism.
+* [lessampler](https://www.gloomyghost.com/lessampler/#/) - lessampler is a Singing Voice Synthesizer. It provides complete pitch shifting, time stretching and other functions. Support multiple interface calls such as UTAU, Library, and Shine.
+* [Mellotron](https://github.com/NVIDIA/mellotron) - Mellotron: a multispeaker voice synthesis model based on Tacotron 2 GST that can make a voice emote and sing without emotive or singing training data.
 
 ## And more
