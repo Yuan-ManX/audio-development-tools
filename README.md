@@ -1,6 +1,6 @@
-# Audio-Development-Tools-List (ADTL)
+# Audio-Development-Tools (ADT)
 
-This is a list of sound, audio and music development tools which contains machine learning, audio signal processing, sound synthesis, spatial audio, music information retrieval, music generation, speech recognition, speech synthesis, singing voice synthesis and more.
+This is a list of sound, audio and music development tools which contains machine learning, audio generation, audio signal processing, sound synthesis, spatial audio, music information retrieval, music generation, speech recognition, speech synthesis, singing voice synthesis and more.
 
 ## Machine Learning (ML)
 
@@ -25,6 +25,14 @@ This is a list of sound, audio and music development tools which contains machin
 * [Matchering](https://github.com/sergree/matchering) - 🎚️ Open Source Audio Matching and Mastering. **[Matchering 2.0](https://github.com/sergree/matchering)** is a novel **[Containerized Web Application](https://github.com/sergree/matchering#docker-image---the-easiest-way)** and **[Python Library](https://pypi.org/project/matchering)** for audio matching and [mastering](https://en.wikipedia.org/wiki/Audio_mastering).
 * [TimeSide](https://github.com/Parisson/TimeSide) - TimeSide is a python framework enabling low and high level audio analysis, imaging, transcoding, streaming and labelling. Its high-level API is designed to enable complex processing on very large datasets of any audio or video assets with a plug-in architecture, a secure scalable backend and an extensible dynamic web frontend.
 * [Meyda](https://meyda.js.org/) - Meyda is a Javascript audio feature extraction library. Meyda supports both offline feature extraction as well as real-time feature extraction using the [Web Audio API](https://github.com/WebAudio/web-audio-api). We wrote a paper about it, which is available [here](https://wac.ircam.fr/pdf/wac15_submission_17.pdf).
+
+## Audio Generation (AG)
+
+* [ArchiSound](https://github.com/archinetai/audio-diffusion-pytorch) - Audio generation using diffusion models, in PyTorch.
+* [RAVE](https://github.com/acids-ircam/RAVE) - RAVE: Realtime Audio Variational autoEncoder. A variational autoencoder for fast and high-quality neural audio synthesis.
+* [AudioLDM](https://audioldm.github.io/) - AudioLDM: Text-to-Audio Generation with Latent Diffusion Models.
+* [Make-An-Audio](https://text-to-audio.github.io/) - Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models.
+* [Moûsai](https://anonymous0.notion.site/anonymous0/Mo-sai-Text-to-Audio-with-Long-Context-Latent-Diffusion-b43dbc71caf94b5898f9e8de714ab5dc) - Moûsai: Text-to-Audio with Long-Context Latent Diffusion.
 
 ## Audio Signal Processing (ASP)
 
@@ -133,6 +141,9 @@ This is a list of sound, audio and music development tools which contains machin
 * [isobar](https://github.com/ideoforms/isobar) - isobar is a Python library for creating and manipulating musical patterns, designed for use in algorithmic composition, generative music and sonification. It makes it quick and easy to express complex musical ideas, and can send and receive events from various different sources including MIDI, MIDI files, and OSC.
 * [MusPy](https://salu133445.github.io/muspy/) - MusPy is an open source Python library for symbolic music generation. It provides essential tools for developing a music generation system, including dataset management, data I/O, data preprocessing and model evaluation.
 * [music21](https://web.mit.edu/music21/) - music21 is a Toolkit for Computational Musicology.
+* [Msanii](https://kinyugo.github.io/msanii-demo/) - Msanii: High Fidelity Music Synthesis on a Shoestring Budget.
+* [MusicLM](https://google-research.github.io/seanet/musiclm/examples/) - MusicLM: Generating Music From Text.
+* [SingSong](https://storage.googleapis.com/sing-song/index.html) - SingSong: Generating musical accompaniments from singing.
 * [Mozart](https://github.com/aashrafh/Mozart) - An optical music recognition (OMR) system. Converts sheet music to a machine-readable version. The aim of this project is to develop a sheet music reader. This is called Optical Music Recognition (OMR). Its objective is to convert sheet music to a machine-readable version. We take a simplified version where we convert an image of sheet music to a textual representation that can be further processed to produce midi files or audio files like wav or mp3.
 * [Muzic](https://github.com/microsoft/muzic) - Muzic: Music Understanding and Generation with Artificial Intelligence. **Muzic** is a research project on AI music that empowers music understanding and generation with deep learning and artificial intelligence. Muzic is pronounced as [ˈmjuːzeik] and '谬贼客' (in Chinese).
 * [Jukebox](https://openai.com/blog/jukebox/) - Code for the paper "Jukebox: A Generative Model for Music". We’re introducing Jukebox, a neural net that generates music, including rudimentary singing, as raw audio in a variety of genres and artist styles. We’re releasing the model weights and code, along with a tool to explore the generated samples.
@@ -164,6 +175,7 @@ This is a list of sound, audio and music development tools which contains machin
 
 ## Speech Synthesis (TTS)
 
+* [VALL-E](https://valle-demo.github.io/) - VALL-E: Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.
 * [VITS](https://github.com/jaywalnut310/vits) - VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech. Several recent end-to-end text-to-speech (TTS) models enabling single-stage training and parallel sampling have been proposed, but their sample quality does not match that of two-stage TTS systems. In this work, we present a parallel end-to-end TTS method that generates more natural sounding audio than current two-stage models. Our method adopts variational inference augmented with normalizing flows and an adversarial training process, which improves the expressive power of generative modeling. We also propose a stochastic duration predictor to synthesize speech with diverse rhythms from input text.
 * [NeuralSpeech](https://github.com/microsoft/NeuralSpeech) - **NeuralSpeech** is a research project in Microsoft Research Asia focusing on neural network based speech processing, including automatic speech recognition (ASR), text to speech (TTS), etc.
 * [Real-Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time.  This repository is an implementation of [Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis](https://arxiv.org/pdf/1806.04558.pdf) (SV2TTS) with a vocoder that works in real-time. SV2TTS is a deep learning framework in three stages. In the first stage, one creates a digital representation of a voice from a few seconds of audio. In the second and third stages, this representation is used as reference to generate speech given arbitrary text.
