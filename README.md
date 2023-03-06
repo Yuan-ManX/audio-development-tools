@@ -36,6 +36,7 @@ This is a list of sound, audio and music development tools which contains machin
 
 ## Audio Signal Processing (ASP)
 
+* [SouPyX](https://github.com/Yuan-ManX/SouPyX) - SouPyX is a very colourful space for audio exploration, suitable for research and exploration in a variety of audio fields. In SouPyX you can carry out research and exploration in audio processing, sound synthesis, audio effects, spatial audio, audio visualisation, AI audio and much more.
 * [SoundFile](https://pysoundfile.readthedocs.io/en/latest/) - SoundFile is an audio library based on libsndfile, CFFI and NumPy.
 * [Audio DSPy](https://github.com/jatinchowdhury18/audio_dspy) - audio_dspy is a Python package for audio signal processing tools.
 * [pyAudioDspTools](https://pyaudiodsptools.readthedocs.io/en/latest/#) - pyAudioDspTools is a python 3 package for manipulating audio by just using numpy.
