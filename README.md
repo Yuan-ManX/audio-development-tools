@@ -2,7 +2,7 @@
 
 This is a list of sound, audio and music development tools which contains machine learning, audio generation, audio signal processing, sound synthesis, spatial audio, music information retrieval, music generation, speech recognition, speech synthesis, singing voice synthesis and more.
 
-* [Machine Learning (ML)](Machine Learning (ML))
+* `<a href=”#Machine Learning (ML)”>`Machine Learning (ML)
 * Audio Generation (AG)
 * Audio Signal Processing (ASP)
 * Sound Synthesis (SS)
