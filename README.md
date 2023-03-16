@@ -2,6 +2,18 @@
 
 This is a list of sound, audio and music development tools which contains machine learning, audio generation, audio signal processing, sound synthesis, spatial audio, music information retrieval, music generation, speech recognition, speech synthesis, singing voice synthesis and more.
 
+* [Machine Learning (ML)](Machine Learning (ML))
+* Audio Generation (AG)
+* Audio Signal Processing (ASP)
+* Sound Synthesis (SS)
+* Spatial Audio (SA)
+* Web Audio Processing (WAP)
+* Music Information Retrieval (MIR)
+* Music Generation (MG)
+* Speech Recognition (ASR)
+* Speech Synthesis (TTS)
+* Singing Voice Synthesis (SVS)
+
 ## Machine Learning (ML)
 
 * [librosa](https://librosa.org/doc/latest/index.html) - Librosa is a python package for music and audio analysis. It provides the building blocks necessary to create music information retrieval systems.
