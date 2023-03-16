@@ -3,16 +3,16 @@
 This is a list of sound, audio and music development tools which contains machine learning, audio generation, audio signal processing, sound synthesis, spatial audio, music information retrieval, music generation, speech recognition, speech synthesis, singing voice synthesis and more.
 
 * [Machine Learning (ML)](#ml)
-* Audio Generation (AG)
-* Audio Signal Processing (ASP)
-* Sound Synthesis (SS)
-* Spatial Audio (SA)
-* Web Audio Processing (WAP)
-* Music Information Retrieval (MIR)
-* Music Generation (MG)
-* Speech Recognition (ASR)
-* Speech Synthesis (TTS)
-* Singing Voice Synthesis (SVS)
+* [Audio Generation (AG)](#ag)
+* [Audio Signal Processing (ASP)](#asp)
+* [Sound Synthesis (SS)](#ss)
+* [Spatial Audio (SA)](#sa)
+* [Web Audio Processing (WAP)](#wap)
+* [Music Information Retrieval (MIR)](#mir)
+* [Music Generation (MG)](#mg)
+* [Speech Recognition (ASR)](#asr)
+* [Speech Synthesis (TTS)](#tts)
+* [Singing Voice Synthesis (SVS)](#svs)
 
 ## <span id="ml">Machine Learning (ML)</span>
 
@@ -38,7 +38,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [TimeSide](https://github.com/Parisson/TimeSide) - TimeSide is a python framework enabling low and high level audio analysis, imaging, transcoding, streaming and labelling. Its high-level API is designed to enable complex processing on very large datasets of any audio or video assets with a plug-in architecture, a secure scalable backend and an extensible dynamic web frontend.
 * [Meyda](https://meyda.js.org/) - Meyda is a Javascript audio feature extraction library. Meyda supports both offline feature extraction as well as real-time feature extraction using the [Web Audio API](https://github.com/WebAudio/web-audio-api). We wrote a paper about it, which is available [here](https://wac.ircam.fr/pdf/wac15_submission_17.pdf).
 
-## Audio Generation (AG)
+## <span id="ag">Audio Generation (AG)</span>
 
 * [ArchiSound](https://github.com/archinetai/audio-diffusion-pytorch) - Audio generation using diffusion models, in PyTorch.
 * [RAVE](https://github.com/acids-ircam/RAVE) - RAVE: Realtime Audio Variational autoEncoder. A variational autoencoder for fast and high-quality neural audio synthesis.
@@ -46,7 +46,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Make-An-Audio](https://text-to-audio.github.io/) - Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models.
 * [Moûsai](https://anonymous0.notion.site/anonymous0/Mo-sai-Text-to-Audio-with-Long-Context-Latent-Diffusion-b43dbc71caf94b5898f9e8de714ab5dc) - Moûsai: Text-to-Audio with Long-Context Latent Diffusion.
 
-## Audio Signal Processing (ASP)
+## <span id="asp">Audio Signal Processing (ASP)</span>
 
 * [SouPyX](https://github.com/Yuan-ManX/SouPyX) - SouPyX is a very colourful space for audio exploration, suitable for research and exploration in a variety of audio fields. In SouPyX you can carry out research and exploration in audio processing, sound synthesis, audio effects, spatial audio, audio visualisation, AI audio and much more.
 * [SoundFile](https://pysoundfile.readthedocs.io/en/latest/) - SoundFile is an audio library based on libsndfile, CFFI and NumPy.
@@ -70,7 +70,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [KFR](https://www.kfrlib.com/) - KFR is an open source C++ DSP framework that focuses on high performance. Fast, modern C++ DSP framework, FFT, Sample Rate Conversion, FIR/IIR/Biquad Filters (SSE, AVX, AVX-512, ARM NEON).
 * [MWEngine](https://github.com/igorski/MWEngine) - Audio engine and DSP for Android, written in C++ providing low latency performance within a musical context, while providing a Java/Kotlin API. Supports both OpenSL and AAudio.
 
-## Sound Synthesis (SS)
+## <span id="ss">Sound Synthesis (SS)</span>
 
 * [Csound](https://csound.com/) - Csound is a sound and music computing system which was originally developed by Barry Vercoe in 1985 at MIT Media Lab. Since the 90s, it has been developed by a group of core developers.
 * [Pure Data](https://puredata.info/) - **Pure Data** ( **Pd** ) is a [visual programming language](https://en.wikipedia.org/wiki/Visual_programming_language "Visual programming language") developed by [Miller Puckette](https://en.wikipedia.org/wiki/Miller_Puckette "Miller Puckette") in the 1990s for creating [interactive](https://en.wikipedia.org/wiki/Interaction "Interaction") [computer music](https://en.wikipedia.org/wiki/Computer_music "Computer music") and [multimedia](https://en.wikipedia.org/wiki/Multimedia "Multimedia") works. While Puckette is the main author of the program, Pd is an [open-source](https://en.wikipedia.org/wiki/Open-source_software "Open-source software") project with a large developer base working on new extensions. It is released under [BSD-3-Clause](https://en.wikipedia.org/wiki/BSD_licenses "BSD licenses"). It runs on [Linux](https://en.wikipedia.org/wiki/Linux "Linux"), [MacOS](https://en.wikipedia.org/wiki/MacOS "MacOS"), [iOS](https://en.wikipedia.org/wiki/IOS "IOS"), [Android](https://en.wikipedia.org/wiki/Android_(operating_system)) "Android (operating system)") and [Windows](https://en.wikipedia.org/wiki/Windows "Windows"). Ports exist for [FreeBSD](https://en.wikipedia.org/wiki/FreeBSD "FreeBSD") and [IRIX](https://en.wikipedia.org/wiki/IRIX "IRIX").
@@ -109,7 +109,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [SEAM](https://grammaton.gitbook.io/seam/) - Sustained Electro-Acoustic Music - Base. *Sustained Electro-Acoustic Music* is a project inspired by [Alvise Vidolin and Nicola Bernardini](https://www.academia.edu/16348988/Sustainable_live_electro-acoustic_music).
 * [Glicol](https://glicol.org/) - Glicol (an acronym for "graph-oriented live coding language") is a computer music language with both its language and audio engine written in [Rust programming language](https://www.rust-lang.org/), a modern alternative to C/C++. Given this low-level nature, Glicol can run on many different platforms such as browsers, VST plugins and Bela board. Glicol's synth-like syntax and powerful audio engine also make it possible to combine high-level synth or sequencer control with low-level sample-accurate audio synthesis, all in real-time.
 
-## Spatial Audio (SA)
+## <span id="sa">Spatial Audio (SA)</span>
 
 * [spaudiopy](https://spaudiopy.readthedocs.io/en/latest/index.html) - Spatial Audio Python Package. The focus (so far) is on spatial audio encoders and decoders. The package includes e.g. spherical harmonics processing and (binaural renderings of) loudspeaker decoders, such as VBAP and AllRAD.
 * [Spatial_Audio_Framework (SAF)](https://leomccormack.github.io/Spatial_Audio_Framework/) - The Spatial_Audio_Framework (SAF) is an open-source and cross-platform framework for developing spatial audio related algorithms and software in C/C++. Originally intended as a resource for researchers in the field, the framework has gradually grown into a rather large and well-documented codebase comprising a number of distinct [**modules**](https://github.com/leomccormack/Spatial_Audio_Framework/blob/master/framework/modules); with each module targeting a specific sub-field of spatial audio (e.g. Ambisonics encoding/decoding, spherical array processing, amplitude-panning, HRIR processing, room simulation, etc.).
@@ -119,7 +119,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Omnitone](https://googlechrome.github.io/omnitone/#home) - Omnitone: Spatial Audio Rendering on the Web. Omnitone is a robust implementation of [ambisonic](https://en.wikipedia.org/wiki/Ambisonics) decoding and binaural rendering written in Web Audio API. Its rendering process is powered by the fast native features from Web Audio API (GainNode and Convolver), ensuring the optimum performance. The implementation of Omnitone is based on the [Google spatial media](https://github.com/google/spatial-media) specification and [SADIE&#39;s binaural filters](https://www.york.ac.uk/sadie-project/GoogleVRSADIE.html). It also powers [Resonance Audio SDK](https://github.com/resonance-audio/resonance-audio-web-sdk) for web.
 * [Mach1 Spatial](https://www.mach1.tech/) - Mach1 Spatial SDK includes APIs to allow developers to design applications that can encode or pan to a spatial audio render from audio streams and/or playback and decode Mach1Spatial 8channel spatial audio mixes with orientation to decode the correct stereo output sum of the user's current orientation. Additionally the Mach1 Spatial SDK allows users to safely convert surround/spatial audio mixes to and from the Mach1Spatial or Mach1Horizon **VVBP** formats.
 
-## Web Audio Processing (WAP)
+## <span id="wap">Web Audio Processing (WAP)</span>
 
 * [WebRTC Audio Processing](https://github.com/xiongyihui/python-webrtc-audio-processing) - Python binding of WebRTC Audio Processing.
 * [MIDI.js](https://galactic.ink/midi-js/) - 🎹 Making life easy to create a MIDI-app on the web. Includes a library to program synesthesia into your app for memory recognition or for creating trippy effects. Convert soundfonts for Guitar, Bass, Drums, ect. into code that can be read by the browser. **[MIDI.js](https://github.com/mudcube/MIDI.js)** ties together, and builds upon frameworks that bring MIDI to the browser. Combine it with [jasmid](https://github.com/gasman/jasmid) to create a web-radio MIDI stream similar to this demo, or with [Three.js](https://github.com/mrdoob/three.js/), [Sparks.js](https://github.com/zz85/sparks.js/), or [GLSL](http://glslsandbox.com/) to create Audio/visual experiments.
@@ -137,7 +137,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [XSound](https://xsound.jp/) - XSound gives Web Developers Powerful Audio Features Easily !
 * [Pizzicato](https://alemangui.github.io/pizzicato/) - A web audio Javascript library. Pizzicato aims to simplify the way you create and manipulate sounds via the Web Audio API. Take a look at the [demo site here](https://alemangui.github.io/pizzicato/). Library to simplify the way you create and manipulate sounds with the Web Audio API.
 
-## Music Information Retrieval (MIR)
+## <span id="mir">Music Information Retrieval (MIR)</span>
 
 * [Madmom](https://madmom.readthedocs.io/en/latest/index.html) - Madmom is an audio signal processing library written in Python with a strong focus on music information retrieval (MIR) tasks.
 * [Beets](https://beets.io/) - Beets is the media library management system for obsessive music geeks. music library manager and MusicBrainz tagger.
@@ -149,7 +149,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [AMPACT](https://ampact.tumblr.com/) - Automatic Music Performance Analysis and Comparison Toolkit.
 * [crema](https://github.com/bmcfee/crema) - convolutional and recurrent estimators for music analysis.
 
-## Music Generation (MG)
+## <span id="mg">Music Generation (MG)</span>
 
 * [isobar](https://github.com/ideoforms/isobar) - isobar is a Python library for creating and manipulating musical patterns, designed for use in algorithmic composition, generative music and sonification. It makes it quick and easy to express complex musical ideas, and can send and receive events from various different sources including MIDI, MIDI files, and OSC.
 * [MusPy](https://salu133445.github.io/muspy/) - MusPy is an open source Python library for symbolic music generation. It provides essential tools for developing a music generation system, including dataset management, data I/O, data preprocessing and model evaluation.
@@ -168,7 +168,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [libatm](https://github.com/allthemusicllc/libatm) - `libatm` is a library for generating and working with MIDI files. It was purpose-built for All the Music, LLC to assist in its mission to enable musicians to make all of their music without the fear of frivolous copyright lawsuits. All code is released into the public domain via the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). If you're looking for a command line tool to generate and work with MIDI files, check out [the `atm-cli` project](https://github.com/allthemusicllc/atm-cli) that utilizes this library. For more information on All the Music, check out [allthemusic.info](http://allthemusic.info/). For more detailed library documentation, check out the crate documentation [here](https://allthemusicllc.github.io/libatm/libatm/index.html).
 * [Davidic](https://github.com/bendious/Davidic) - A minimalist procedural music creator. Randomly generate musical scale, MIDI instrument(s), chord progression, and rhythm, then lock-in what you like and regenerate to refine. Advanced controls: chord progressions and rhythms can be manually specified after selecting the Advanced Controls toggle, but UI support is minimal. Suggested usage is restricted to tweaking randomly-generated starting points.
 
-## Speech Recognition (ASR)
+## <span id="asr">Speech Recognition (ASR)</span>
 
 * [Kaldi](http://kaldi-asr.org/) - Kaldi is a toolkit for speech recognition, intended for use by speech recognition researchers and professionals.
 * [PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA/Streaming ASR with punctuation, influential TTS with text frontend, Speaker Verification System, End-to-End Speech Translation and Keyword Spotting.
@@ -186,7 +186,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [PocketSphinx](https://github.com/cmusphinx/pocketsphinx) - This is PocketSphinx, one of Carnegie Mellon University's open source large vocabulary, speaker-independent continuous speech recognition engines.
 * [Kara](https://github.com/emileclarkb/Kara) - Open Source Voice Assistant. Simply put, Kara is a voice assistant that steals 0% of your data so you stay free! She is a actively maintained, modular, and designed to customize.
 
-## Speech Synthesis (TTS)
+## <span id="tts">Speech Synthesis (TTS)</span>
 
 * [VALL-E](https://valle-demo.github.io/) - VALL-E: Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.
 * [VITS](https://github.com/jaywalnut310/vits) - VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech. Several recent end-to-end text-to-speech (TTS) models enabling single-stage training and parallel sampling have been proposed, but their sample quality does not match that of two-stage TTS systems. In this work, we present a parallel end-to-end TTS method that generates more natural sounding audio than current two-stage models. Our method adopts variational inference augmented with normalizing flows and an adversarial training process, which improves the expressive power of generative modeling. We also propose a stochastic duration predictor to synthesize speech with diverse rhythms from input text.
@@ -197,7 +197,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [MelGAN](http://swpark.me/melgan/) - Generative Adversarial Networks for Conditional Waveform Synthesis.
 * [HiFi-GAN](https://github.com/jik876/hifi-gan) - HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis.
 
-## Singing Voice Synthesis (SVS)
+## <span id="svs">Singing Voice Synthesis (SVS)</span>
 
 * [NNSVS](https://nnsvs.github.io/) - Neural network-based singing voice synthesis library for research.
 * [Muskit](https://github.com/SJTMusicTeam/Muskits) - Muskit is an open-source music processing toolkit. Currently we mostly focus on benchmarking the end-to-end singing voice synthesis and expect to extend more tasks in the future. Muskit employs [pytorch](http://pytorch.org/) as a deep learning engine and also follows [ESPnet](https://github.com/espnet/espnet) and [Kaldi](http://kaldi-asr.org/) style data processing, and recipes to provide a complete setup for various music processing experiments.
