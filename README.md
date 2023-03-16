@@ -2,7 +2,7 @@
 
 This is a list of sound, audio and music development tools which contains machine learning, audio generation, audio signal processing, sound synthesis, spatial audio, music information retrieval, music generation, speech recognition, speech synthesis, singing voice synthesis and more.
 
-* [Machine Learning (ML)](ml)
+* [Machine Learning (ML)](#ml)
 * Audio Generation (AG)
 * Audio Signal Processing (ASP)
 * Sound Synthesis (SS)
@@ -14,7 +14,7 @@ This is a list of sound, audio and music development tools which contains machin
 * Speech Synthesis (TTS)
 * Singing Voice Synthesis (SVS)
 
-## `<h2><a id="ml"></a>Machine Learning (ML)</h2>`
+## `<span id="ml">Machine Learning (ML)</span>`
 
 * [librosa](https://librosa.org/doc/latest/index.html) - Librosa is a python package for music and audio analysis. It provides the building blocks necessary to create music information retrieval systems.
 * [Essentia](http://essentia.upf.edu/) - Essentia is an open-source C++ library for audio analysis and audio-based music information retrieval released under the Affero GPLv3 license. It contains an extensive collection of reusable algorithms which implement audio input/output functionality, standard digital signal processing blocks, statistical characterization of data, and a large set of spectral, temporal, tonal and high-level music descriptors. C++ library for audio and music analysis, description and synthesis, including Python bindings.
