@@ -198,6 +198,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [FastSpeech 2](https://github.com/ming024/FastSpeech2) - An implementation of Microsoft's "FastSpeech 2: Fast and High-Quality End-to-End Text to Speech".
 * [MelGAN](http://swpark.me/melgan/) - Generative Adversarial Networks for Conditional Waveform Synthesis.
 * [HiFi-GAN](https://github.com/jik876/hifi-gan) - HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis.
+* [edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python (without needing Microsoft Edge/Windows or an API key).
 
 ## <span id="svs">Singing Voice Synthesis (SVS)</span>
 
