@@ -41,6 +41,7 @@ This is a list of sound, audio and music development tools which contains machin
 ## <span id="ag">Audio Generation (AG)</span>
 
 * [ArchiSound](https://github.com/archinetai/audio-diffusion-pytorch) - Audio generation using diffusion models, in PyTorch.
+* [NeuralSound](https://github.com/hellojxt/NeuralSound) - Learning-based Modal Sound Synthesis with Acoustic Transfer.
 * [RAVE](https://github.com/acids-ircam/RAVE) - RAVE: Realtime Audio Variational autoEncoder. A variational autoencoder for fast and high-quality neural audio synthesis.
 * [AudioLDM](https://audioldm.github.io/) - AudioLDM: Text-to-Audio Generation with Latent Diffusion Models.
 * [Make-An-Audio](https://text-to-audio.github.io/) - Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models.
