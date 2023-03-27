@@ -153,6 +153,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Spleeter](https://research.deezer.com/projects/spleeter.html) - **Spleeter** is [Deezer](https://www.deezer.com/) source separation library with pretrained models written in [Python](https://www.python.org/) and uses [Tensorflow](https://tensorflow.org/). It makes it easy to train source separation model (assuming you have a dataset of isolated sources), and provides already trained state of the art model for performing various flavour of separation.
 * [AMPACT](https://ampact.tumblr.com/) - Automatic Music Performance Analysis and Comparison Toolkit.
 * [crema](https://github.com/bmcfee/crema) - convolutional and recurrent estimators for music analysis.
+* [MIDIcontroller](https://github.com/joshnishikawa/MIDIcontroller) - A library for creating Teensy MIDI controllers with support for hold or latch buttons, potentiometers, encoders, capacitive sensors, Piezo transducers and other velocity sensitive inputs with aftertouch.
 
 ## <span id="mg">Music Generation (MG)</span>
 
