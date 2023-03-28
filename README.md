@@ -140,6 +140,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [tuna](https://github.com/Theodeus/tuna) - An audio effects library for the Web Audio API.
 * [XSound](https://xsound.jp/) - XSound gives Web Developers Powerful Audio Features Easily !
 * [Pizzicato](https://alemangui.github.io/pizzicato/) - A web audio Javascript library. Pizzicato aims to simplify the way you create and manipulate sounds via the Web Audio API. Take a look at the [demo site here](https://alemangui.github.io/pizzicato/). Library to simplify the way you create and manipulate sounds with the Web Audio API.
+* [AudioMass](https://github.com/pkalogiros/AudioMass) - Free full-featured web-based audio & waveform editing tool.
 
 ## <span id="mir">Music Information Retrieval (MIR)</span>
 
