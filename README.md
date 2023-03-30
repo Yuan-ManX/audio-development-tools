@@ -198,6 +198,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [annyang](https://www.talater.com/annyang/) - annyang is a tiny javascript library that lets your visitors control your site with voice commands. annyang supports multiple languages, has no dependencies, weighs just 2kb and is free to use.
 * [PocketSphinx](https://github.com/cmusphinx/pocketsphinx) - This is PocketSphinx, one of Carnegie Mellon University's open source large vocabulary, speaker-independent continuous speech recognition engines.
 * [Kara](https://github.com/emileclarkb/Kara) - Open Source Voice Assistant. Simply put, Kara is a voice assistant that steals 0% of your data so you stay free! She is a actively maintained, modular, and designed to customize.
+* [Voice Lab](https://github.com/Voice-Lab/VoiceLab) - Voice Lab is an automated voice analysis software. What this software does is allow you to measure, manipulate, and visualize many voices at once, without messing with analysis parameters. You can also save all of your data, analysis parameters, manipulated voices, and full colour spectrograms and power spectra, with the press of one button.
 
 ## <span id="tts">Speech Synthesis (TTS)</span>
 
