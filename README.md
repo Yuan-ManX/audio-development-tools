@@ -210,6 +210,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [MelGAN](http://swpark.me/melgan/) - Generative Adversarial Networks for Conditional Waveform Synthesis.
 * [HiFi-GAN](https://github.com/jik876/hifi-gan) - HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis.
 * [edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python (without needing Microsoft Edge/Windows or an API key).
+* [Vocode](https://docs.vocode.dev/) - Vocode is an open-source library for building voice-based LLM applications.
 
 ## <span id="svs">Singing Voice Synthesis (SVS)</span>
 
