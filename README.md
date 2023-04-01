@@ -117,6 +117,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [SEAM](https://grammaton.gitbook.io/seam/) - Sustained Electro-Acoustic Music - Base. *Sustained Electro-Acoustic Music* is a project inspired by [Alvise Vidolin and Nicola Bernardini](https://www.academia.edu/16348988/Sustainable_live_electro-acoustic_music).
 * [Glicol](https://glicol.org/) - Glicol (an acronym for "graph-oriented live coding language") is a computer music language with both its language and audio engine written in [Rust programming language](https://www.rust-lang.org/), a modern alternative to C/C++. Given this low-level nature, Glicol can run on many different platforms such as browsers, VST plugins and Bela board. Glicol's synth-like syntax and powerful audio engine also make it possible to combine high-level synth or sequencer control with low-level sample-accurate audio synthesis, all in real-time.
 * [PaperSynth](https://github.com/Ashvala/PaperSynth) - Handwritten text to synths! PaperSynth is a project that aims to read keywords you've written on a piece of paper and convert it into synthesizers you can play on the phone.
+* [Neural Resonator VST](https://github.com/rodrigodzf/NeuralResonatorVST) - This is a VST plugin that uses a neural network to generate filters based on arbitrary 2D shapes and materials. It is possible to use midi to trigger simple impulses to excite these filters. Additionally any audio signal can be used as input to the filters.
 
 ## <span id="sa">Spatial Audio (SA)</span>
 
