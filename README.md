@@ -119,6 +119,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [PaperSynth](https://github.com/Ashvala/PaperSynth) - Handwritten text to synths! PaperSynth is a project that aims to read keywords you've written on a piece of paper and convert it into synthesizers you can play on the phone.
 * [Neural Resonator VST](https://github.com/rodrigodzf/NeuralResonatorVST) - This is a VST plugin that uses a neural network to generate filters based on arbitrary 2D shapes and materials. It is possible to use midi to trigger simple impulses to excite these filters. Additionally any audio signal can be used as input to the filters.
 * [Scyclone](https://github.com/Torsion-Audio/Scyclone) - Scyclone is an audio plugin that utilizes neural timbre transfer technology to offer a new approach to audio production. The plugin builds upon RAVE methodology, a realtime audio variational auto encoder, facilitating neural timbre transfer in both single and couple inference mode.
+* [mlinmax](https://github.com/estine/mlinmax) - ML for sound generation and processing in Cycling '74's Max programming language.
 
 ## <span id="sa">Spatial Audio (SA)</span>
 
