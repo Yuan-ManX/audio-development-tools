@@ -77,6 +77,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [KFR](https://www.kfrlib.com/) - KFR is an open source C++ DSP framework that focuses on high performance. Fast, modern C++ DSP framework, FFT, Sample Rate Conversion, FIR/IIR/Biquad Filters (SSE, AVX, AVX-512, ARM NEON).
 * [MWEngine](https://github.com/igorski/MWEngine) - Audio engine and DSP for Android, written in C++ providing low latency performance within a musical context, while providing a Java/Kotlin API. Supports both OpenSL and AAudio.
 * [LabSound](https://github.com/LabSound/LabSound) - LabSound is a C++ graph-based audio engine. The engine is packaged as a batteries-included static library meant for integration in many types of software: games, visualizers, interactive installations, live coding environments, VST plugins, audio editing/sequencing applications, and more.
+* [Gist](https://github.com/adamstark/Gist) - Gist is a C++ based audio analysis library.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
