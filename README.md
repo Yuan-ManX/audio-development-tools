@@ -78,6 +78,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [MWEngine](https://github.com/igorski/MWEngine) - Audio engine and DSP for Android, written in C++ providing low latency performance within a musical context, while providing a Java/Kotlin API. Supports both OpenSL and AAudio.
 * [LabSound](https://github.com/LabSound/LabSound) - LabSound is a C++ graph-based audio engine. The engine is packaged as a batteries-included static library meant for integration in many types of software: games, visualizers, interactive installations, live coding environments, VST plugins, audio editing/sequencing applications, and more.
 * [Gist](https://github.com/adamstark/Gist) - Gist is a C++ based audio analysis library.
+* [Realtime_PyAudio_FFT](https://github.com/aiXander/Realtime_PyAudio_FFT) - Realtime audio analysis in Python, using PyAudio and Numpy to extract and visualize FFT features from streaming audio.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
