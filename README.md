@@ -157,6 +157,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Pizzicato](https://alemangui.github.io/pizzicato/) - A web audio Javascript library. Pizzicato aims to simplify the way you create and manipulate sounds via the Web Audio API. Take a look at the [demo site here](https://alemangui.github.io/pizzicato/). Library to simplify the way you create and manipulate sounds with the Web Audio API.
 * [AudioMass](https://github.com/pkalogiros/AudioMass) - Free full-featured web-based audio & waveform editing tool.
 * [WebPd](https://github.com/sebpiq/WebPd) - Run your Pure Data patches on the web. WebPd is a compiler for the Pure Data audio programming language allowing to run .pd patches in web pages.
+* [DX7 Synth JS](https://github.com/mmontag/dx7-synth-js) - DX7 FM synthesis using the Web Audio and Web MIDI API. Works in Chrome and Firefox. Use a MIDI or QWERTY keyboard to play the synth.
 
 ## <span id="mir">Music Information Retrieval (MIR)</span>
 
