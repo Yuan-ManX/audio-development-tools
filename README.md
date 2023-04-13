@@ -26,6 +26,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [IPython](https://ipython.readthedocs.io/en/stable/index.html) - IPython provides a rich toolkit to help you make the most of using Python interactively.
 * [torchaudio](https://github.com/pytorch/audio) - an audio library for PyTorch. Data manipulation and transformation for audio signal processing, powered by PyTorch.
 * [torch-audiomentations](https://github.com/asteroid-team/torch-audiomentations) - Fast audio data augmentation in PyTorch. Inspired by audiomentations. Useful for deep learning.
+* [PyTorch Audio Augmentations](https://github.com/Spijkervet/torchaudio-augmentations) - Audio data augmentations library for PyTorch for audio in the time-domain. 
 * [Asteroid](https://asteroid-team.github.io/) - Asteroid is a Pytorch-based audio source separation toolkit that enables fast experimentation on common datasets. It comes with a source code that supports a large range of datasets and architectures, and a set of recipes to reproduce some important papers.
 * [Kapre](https://kapre.readthedocs.io/en/latest/#) - Kapre: Keras Audio Preprocessors. Keras Audio Preprocessors - compute STFT, InverseSTFT, Melspectrogram, and others on GPU real-time.
 * [praudio](https://github.com/musikalkemist/praudio) - Audio preprocessing framework for Deep Learning audio applications.
