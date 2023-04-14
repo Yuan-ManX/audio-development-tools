@@ -45,6 +45,7 @@ This is a list of sound, audio and music development tools which contains machin
 
 ## <span id="ag">Audio Generation (AG)</span>
 
+* [Bark](https://github.com/suno-ai/bark) - Bark is a transformer-based text-to-audio model created by Suno. Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects. 
 * [ArchiSound](https://github.com/archinetai/audio-diffusion-pytorch) - Audio generation using diffusion models, in PyTorch.
 * [NeuralSound](https://github.com/hellojxt/NeuralSound) - Learning-based Modal Sound Synthesis with Acoustic Transfer.
 * [RAVE](https://github.com/acids-ircam/RAVE) - RAVE: Realtime Audio Variational autoEncoder. A variational autoencoder for fast and high-quality neural audio synthesis.
@@ -164,7 +165,7 @@ This is a list of sound, audio and music development tools which contains machin
 
 ## <span id="mir">Music Information Retrieval (MIR)</span>
 
-* [Madmom](https://madmom.readthedocs.io/en/latest/index.html) - Madmom is an audio signal processing library written in Python with a strong focus on music information retrieval (MIR) tasks.
+* [Madmom](https://github.com/CPJKU/madmom) - Madmom is an audio signal processing library written in Python with a strong focus on music information retrieval (MIR) tasks.
 * [Beets](https://beets.io/) - Beets is the media library management system for obsessive music geeks. music library manager and MusicBrainz tagger.
 * [Mido](https://github.com/mido/mido) - MIDI Objects for Python. Mido is a library for working with MIDI messages and ports.
 * [Midifile](https://midifile.sapp.org/) - C++ classes for reading/writing Standard MIDI Files.
