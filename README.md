@@ -179,6 +179,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [AMPACT](https://ampact.tumblr.com/) - Automatic Music Performance Analysis and Comparison Toolkit.
 * [crema](https://github.com/bmcfee/crema) - convolutional and recurrent estimators for music analysis.
 * [MIDIcontroller](https://github.com/joshnishikawa/MIDIcontroller) - A library for creating Teensy MIDI controllers with support for hold or latch buttons, potentiometers, encoders, capacitive sensors, Piezo transducers and other velocity sensitive inputs with aftertouch.
+* [MIDI Explorer](https://github.com/EMATech/midiexplorer) - Yet another MIDI monitor, analyzer, debugger and manipulation tool.
 
 ## <span id="mg">Music Generation (MG)</span>
 
