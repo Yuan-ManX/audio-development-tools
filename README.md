@@ -174,6 +174,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Madmom](https://github.com/CPJKU/madmom) - Madmom is an audio signal processing library written in Python with a strong focus on music information retrieval (MIR) tasks.
 * [Beets](https://beets.io/) - Beets is the media library management system for obsessive music geeks. music library manager and MusicBrainz tagger.
 * [Mido](https://github.com/mido/mido) - MIDI Objects for Python. Mido is a library for working with MIDI messages and ports.
+* [mirdata](https://github.com/mir-dataset-loaders/mirdata) - Python library for working with Music Information Retrieval (MIR) datasets.
 * [Midifile](https://midifile.sapp.org/) - C++ classes for reading/writing Standard MIDI Files.
 * [MSAF](https://msaf.readthedocs.io/en/latest/#) - Music Structure Analysis Framework. A Python framework to analyze music structure. MSAF is a python package for the analysis of music structural segmentation algorithms. It includes a set of features, algorithms, evaluation metrics, and datasets to experiment with.
 * [mxml](https://github.com/Reinvent-Archived-Projects/mxml) - MusicXML parsing and layout library. **mxml** is a C++ parser and layout generator for [MusicXML](http://www.musicxml.com/) files.
