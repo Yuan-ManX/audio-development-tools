@@ -239,6 +239,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [HiFi-GAN](https://github.com/jik876/hifi-gan) - HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis.
 * [edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python (without needing Microsoft Edge/Windows or an API key).
 * [Vocode](https://docs.vocode.dev/) - Vocode is an open-source library for building voice-based LLM applications.
+* [TTS-dataset-tools](https://github.com/youmebangbang/TTS-dataset-tools) - Automatically generates TTS dataset using audio and associated text. Make cuts under a custom length. Uses Google Speech to text API to perform diarization and transcription or aeneas to force align text to audio.
 
 ## <span id="svs">Singing Voice Synthesis (SVS)</span>
 
