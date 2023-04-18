@@ -130,6 +130,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [mlinmax](https://github.com/estine/mlinmax) - ML for sound generation and processing in Cycling '74's Max programming language.
 * [ADLplug](https://github.com/jpcima/ADLplug) - FM Chip Synthesizer — OPL & OPN — VST/LV2/Standalone.
 * [Surge](https://github.com/surge-synthesizer/surge) - Synthesizer plug-in (previously released as Vember Audio Surge). 
+* [cStop](https://github.com/calgoheen/cStop) - cStop is a tape stop audio effect plugin available in AU & VST3 for Mac (Windows coming soon).
 
 ## <span id="sa">Spatial Audio (SA)</span>
 
