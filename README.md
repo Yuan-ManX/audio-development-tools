@@ -208,6 +208,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Davidic](https://github.com/bendious/Davidic) - A minimalist procedural music creator. Randomly generate musical scale, MIDI instrument(s), chord progression, and rhythm, then lock-in what you like and regenerate to refine. Advanced controls: chord progressions and rhythms can be manually specified after selecting the Advanced Controls toggle, but UI support is minimal. Suggested usage is restricted to tweaking randomly-generated starting points.
 * [PyMusicLooper](https://github.com/arkrow/PyMusicLooper) - A script for creating seamless music loops, with play/export support.
 * [ChatGPT2midi](https://github.com/spcoughlin/ChatGPT2midi) - CLI Program for generating chord progressions with ChatGPT.
+* [linuxwave](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux 🐧🎵
 
 ## <span id="asr">Speech Recognition (ASR)</span>
 
