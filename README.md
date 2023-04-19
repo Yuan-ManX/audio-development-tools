@@ -85,6 +85,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Gist](https://github.com/adamstark/Gist) - Gist is a C++ based audio analysis library.
 * [Realtime_PyAudio_FFT](https://github.com/aiXander/Realtime_PyAudio_FFT) - Realtime audio analysis in Python, using PyAudio and Numpy to extract and visualize FFT features from streaming audio.
 * [Spectrum](https://github.com/cokelaer/spectrum) - Spectral Analysis in Python. Spectrum is a Python library that contains tools to estimate Power Spectral Densities based on Fourier transform, Parametric methods or eigenvalues analysis. The Fourier methods are based upon correlogram, periodogram and Welch estimates. Standard tapering windows (Hann, Hamming, Blackman) and more exotic ones are available (DPSS, Taylor, …).
+* [tidstream](https://github.com/mitmedialab/tidstream) - Tools for generating and manipulating live Vorbis and Opus streams.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
