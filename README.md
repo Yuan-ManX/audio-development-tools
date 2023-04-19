@@ -168,6 +168,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [WebPd](https://github.com/sebpiq/WebPd) - Run your Pure Data patches on the web. WebPd is a compiler for the Pure Data audio programming language allowing to run .pd patches in web pages.
 * [DX7 Synth JS](https://github.com/mmontag/dx7-synth-js) - DX7 FM synthesis using the Web Audio and Web MIDI API. Works in Chrome and Firefox. Use a MIDI or QWERTY keyboard to play the synth.
 * [WEBMIDI.js](https://github.com/djipco/webmidi) - WEBMIDI.js makes it easy to interact with MIDI instruments directly from a web browser or from Node.js. It simplifies the control of physical or virtual MIDI instruments with user-friendly functions such as playNote(), sendPitchBend() or sendControlChange(). It also allows reacting to inbound MIDI messages by adding listeners for events such as "noteon", "pitchbend" or "programchange".
+* [web-audio-beat-detector](https://github.com/chrisguttandin/web-audio-beat-detector) - A beat detection utility which is using the Web Audio API.
 
 ## <span id="mir">Music Information Retrieval (MIR)</span>
 
