@@ -86,6 +86,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Realtime_PyAudio_FFT](https://github.com/aiXander/Realtime_PyAudio_FFT) - Realtime audio analysis in Python, using PyAudio and Numpy to extract and visualize FFT features from streaming audio.
 * [Spectrum](https://github.com/cokelaer/spectrum) - Spectral Analysis in Python. Spectrum is a Python library that contains tools to estimate Power Spectral Densities based on Fourier transform, Parametric methods or eigenvalues analysis. The Fourier methods are based upon correlogram, periodogram and Welch estimates. Standard tapering windows (Hann, Hamming, Blackman) and more exotic ones are available (DPSS, Taylor, …).
 * [tidstream](https://github.com/mitmedialab/tidstream) - Tools for generating and manipulating live Vorbis and Opus streams.
+* [AudioTraits](https://github.com/Sidelobe/AudioTraits) - AudioTraits is an abstraction designed to make testing of audio processing more convenient and readable. An 'Audio Trait' analyzes a given audio signal (some or all of its channels) and checks for a certain property. The result of this check is boolean, which allows this to be easily integrated in any unit test framework.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
