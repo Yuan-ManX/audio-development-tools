@@ -253,6 +253,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [TTS-dataset-tools](https://github.com/youmebangbang/TTS-dataset-tools) - Automatically generates TTS dataset using audio and associated text. Make cuts under a custom length. Uses Google Speech to text API to perform diarization and transcription or aeneas to force align text to audio.
 * [Elevenlabs](https://github.com/elevenlabs/elevenlabs-python) - The official Python API for ElevenLabs text-to-speech software. Eleven brings the most compelling, rich and lifelike voices to creators and developers in just a few lines of code.
 * [NaturalSpeech 2](https://speechresearch.github.io/naturalspeech2/) - NaturalSpeech 2: Latent Diffusion Models are Natural and Zero-Shot Speech and Singing Synthesizers.
+* [TorToiSe](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality.
 
 ## <span id="svs">Singing Voice Synthesis (SVS)</span>
 
