@@ -137,6 +137,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Surge](https://github.com/surge-synthesizer/surge) - Synthesizer plug-in (previously released as Vember Audio Surge). 
 * [cStop](https://github.com/calgoheen/cStop) - cStop is a tape stop audio effect plugin available in AU & VST3 for Mac (Windows coming soon).
 * [CompuFart](https://github.com/alexmfink/compufart) - Fart sound synthesizer and algorithm in Cmajor.
+* [py-js](https://github.com/shakfu/py-js) - Python3 externals for Max / MSP.
 
 ## <span id="sa">Spatial Audio (SA)</span>
 
