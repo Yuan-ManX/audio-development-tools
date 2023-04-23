@@ -45,6 +45,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Audiomentations](https://github.com/iver56/audiomentations) - A Python library for audio data augmentation. Inspired by albumentations. Useful for deep learning. Runs on CPU. Supports mono audio and multichannel audio. Can be integrated in training pipelines in e.g. Tensorflow/Keras or Pytorch. Has helped people get world-class results in Kaggle competitions. Is used by companies making next-generation audio products.
 * [soundata](https://github.com/soundata/soundata) - Python library for downloading, loading & working with sound datasets.
 * [auraloss](https://github.com/csteinmetz1/auraloss) - A collection of audio-focused loss functions in PyTorch.
+* [Neutone](https://neutone.space/) - AI audio plugin & community. Bridging the gap between AI research and creativity 🚀
 
 ## <span id="ag">Audio Generation (AG)</span>
 
