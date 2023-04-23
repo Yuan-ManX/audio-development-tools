@@ -90,6 +90,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [tidstream](https://github.com/mitmedialab/tidstream) - Tools for generating and manipulating live Vorbis and Opus streams.
 * [AudioTraits](https://github.com/Sidelobe/AudioTraits) - AudioTraits is an abstraction designed to make testing of audio processing more convenient and readable. An 'Audio Trait' analyzes a given audio signal (some or all of its channels) and checks for a certain property. The result of this check is boolean, which allows this to be easily integrated in any unit test framework.
 * [genMDM Editor](https://github.com/2xAA/genmdm-editor) - A web-based interface for genMDM, a MIDI controller for the Sega Mega Drive and Genesis. Also supports Mega Drive MIDI Interface.
+* [3DAudioVisualizers](https://github.com/TimArt/3DAudioVisualizers) - An OpenGL Audio Visualizer suite in C++ using JUCE for Audio and GUI. 
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
