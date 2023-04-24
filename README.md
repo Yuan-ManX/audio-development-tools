@@ -50,6 +50,7 @@ This is a list of sound, audio and music development tools which contains machin
 ## <span id="ag">Audio Generation (AG)</span>
 
 * [Bark](https://github.com/suno-ai/bark) - Bark is a transformer-based text-to-audio model created by Suno. Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects. 
+* [TANGO](https://github.com/declare-lab/tango) - TANGO is a latent diffusion model (LDM) for text-to-audio (TTA) generation. TANGO can generate realistic audios including human sounds, animal sounds, natural and artificial sounds and sound effects from textual prompts.  
 * [ArchiSound](https://github.com/archinetai/audio-diffusion-pytorch) - Audio generation using diffusion models, in PyTorch.
 * [NeuralSound](https://github.com/hellojxt/NeuralSound) - Learning-based Modal Sound Synthesis with Acoustic Transfer.
 * [RAVE](https://github.com/acids-ircam/RAVE) - RAVE: Realtime Audio Variational autoEncoder. A variational autoencoder for fast and high-quality neural audio synthesis.
