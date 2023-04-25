@@ -59,6 +59,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Moûsai](https://anonymous0.notion.site/anonymous0/Mo-sai-Text-to-Audio-with-Long-Context-Latent-Diffusion-b43dbc71caf94b5898f9e8de714ab5dc) - Moûsai: Text-to-Audio with Long-Context Latent Diffusion.
 * [Im2Wav](https://github.com/RoySheffer/im2wav) - Image Guided Audio Generation. We propose Im2Wav, an image guided open-domain audio generation system. Given an input image or a sequence of images, Im2Wav generates a semantically relevant sound.
 * [Oobleck](https://github.com/Harmonai-org/oobleck) - open soundstream-ish VAE codecs for downstream neural audio synthesis.
+* [Waveformer](https://github.com/vb000/Waveformer) - An efficient architecture for real-time target sound extraction.
 
 ## <span id="asp">Audio Signal Processing (ASP)</span>
 
