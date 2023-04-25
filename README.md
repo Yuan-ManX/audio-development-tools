@@ -46,6 +46,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [soundata](https://github.com/soundata/soundata) - Python library for downloading, loading & working with sound datasets.
 * [auraloss](https://github.com/csteinmetz1/auraloss) - A collection of audio-focused loss functions in PyTorch.
 * [Neutone](https://neutone.space/) - AI audio plugin & community. Bridging the gap between AI research and creativity 🚀
+* [Waveformer](https://github.com/vb000/Waveformer) - An efficient architecture for real-time target sound extraction.
 
 ## <span id="ag">Audio Generation (AG)</span>
 
@@ -59,7 +60,6 @@ This is a list of sound, audio and music development tools which contains machin
 * [Moûsai](https://anonymous0.notion.site/anonymous0/Mo-sai-Text-to-Audio-with-Long-Context-Latent-Diffusion-b43dbc71caf94b5898f9e8de714ab5dc) - Moûsai: Text-to-Audio with Long-Context Latent Diffusion.
 * [Im2Wav](https://github.com/RoySheffer/im2wav) - Image Guided Audio Generation. We propose Im2Wav, an image guided open-domain audio generation system. Given an input image or a sequence of images, Im2Wav generates a semantically relevant sound.
 * [Oobleck](https://github.com/Harmonai-org/oobleck) - open soundstream-ish VAE codecs for downstream neural audio synthesis.
-* [Waveformer](https://github.com/vb000/Waveformer) - An efficient architecture for real-time target sound extraction.
 
 ## <span id="asp">Audio Signal Processing (ASP)</span>
 
@@ -182,6 +182,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [DX7 Synth JS](https://github.com/mmontag/dx7-synth-js) - DX7 FM synthesis using the Web Audio and Web MIDI API. Works in Chrome and Firefox. Use a MIDI or QWERTY keyboard to play the synth.
 * [WEBMIDI.js](https://github.com/djipco/webmidi) - WEBMIDI.js makes it easy to interact with MIDI instruments directly from a web browser or from Node.js. It simplifies the control of physical or virtual MIDI instruments with user-friendly functions such as playNote(), sendPitchBend() or sendControlChange(). It also allows reacting to inbound MIDI messages by adding listeners for events such as "noteon", "pitchbend" or "programchange".
 * [web-audio-beat-detector](https://github.com/chrisguttandin/web-audio-beat-detector) - A beat detection utility which is using the Web Audio API.
+* [Beep.js](https://github.com/stewdio/beep.js) - Beep is a JavaScript toolkit for building browser-based synthesizers.
 
 ## <span id="mir">Music Information Retrieval (MIR)</span>
 
