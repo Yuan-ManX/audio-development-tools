@@ -47,6 +47,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [auraloss](https://github.com/csteinmetz1/auraloss) - A collection of audio-focused loss functions in PyTorch.
 * [Neutone](https://neutone.space/) - AI audio plugin & community. Bridging the gap between AI research and creativity 🚀
 * [Waveformer](https://github.com/vb000/Waveformer) - An efficient architecture for real-time target sound extraction.
+* [EfficientAT](https://github.com/fschmid56/EfficientAT) - Efficient Large-Scale Audio Tagging. We provide AudioSet pre-trained models ready for downstream training and extraction of audio embeddings.
 
 ## <span id="ag">Audio Generation (AG)</span>
 
