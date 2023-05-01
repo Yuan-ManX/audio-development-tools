@@ -99,6 +99,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [genMDM Editor](https://github.com/2xAA/genmdm-editor) - A web-based interface for genMDM, a MIDI controller for the Sega Mega Drive and Genesis. Also supports Mega Drive MIDI Interface.
 * [3DAudioVisualizers](https://github.com/TimArt/3DAudioVisualizers) - An OpenGL Audio Visualizer suite in C++ using JUCE for Audio and GUI. 
 * [Pro Tools Scripting SDK](https://developer.avid.com/audio/) - The Pro Tools Scripting SDK allows you to script Pro Tools using a language-independent API to create new automated workflows in Pro Tools. 
+* [voodoohop-ableton-tools](https://github.com/voodoohop/voodoohop-ableton-tools) - Ableton Live Harmony and Tempo Tools. Augments Ableton Live with an intuitive visualization of musical harmony as well as allowing a track’s tempo dynamics to control the master tempo in real-time. 
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
