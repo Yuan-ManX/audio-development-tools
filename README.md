@@ -206,6 +206,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [MIDIcontroller](https://github.com/joshnishikawa/MIDIcontroller) - A library for creating Teensy MIDI controllers with support for hold or latch buttons, potentiometers, encoders, capacitive sensors, Piezo transducers and other velocity sensitive inputs with aftertouch.
 * [MIDI Explorer](https://github.com/EMATech/midiexplorer) - Yet another MIDI monitor, analyzer, debugger and manipulation tool.
 * [Music Exploration](https://github.com/MTG/music-explore) - App to explore latent spaces of music collections.
+* [LooPy](https://loopy4edm.com/) - A data framework for music information retrieval focusing on electronic music.
 
 ## <span id="mg">Music Generation (MG)</span>
 
