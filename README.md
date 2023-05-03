@@ -232,6 +232,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [ChatGPT2midi](https://github.com/spcoughlin/ChatGPT2midi) - CLI Program for generating chord progressions with ChatGPT.
 * [linuxwave](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux 🐧🎵
 * [Chord2Melody](https://github.com/tanreinama/chord2melody) - Automatic Music Generation AI.
+* [symbolic music diffusion](https://github.com/magenta/symbolic-music-diffusion) - Symbolic Music Generation with Diffusion Models.
 
 ## <span id="asr">Speech Recognition (ASR)</span>
 
