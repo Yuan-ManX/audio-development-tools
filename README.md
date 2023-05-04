@@ -207,6 +207,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [MIDI Explorer](https://github.com/EMATech/midiexplorer) - Yet another MIDI monitor, analyzer, debugger and manipulation tool.
 * [Music Exploration](https://github.com/MTG/music-explore) - App to explore latent spaces of music collections.
 * [LooPy](https://loopy4edm.com/) - A data framework for music information retrieval focusing on electronic music.
+* [Automatic Music Transcription (AMT) Tools](https://github.com/cwitkowitz/amt-tools) - Machine learning tools and framework for automatic music transcription.
 
 ## <span id="mg">Music Generation (MG)</span>
 
