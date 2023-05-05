@@ -104,6 +104,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [SwiftAudio](https://github.com/doublesymmetry/SwiftAudioEx) - SwiftAudioEx is an iOS audio player written in Swift, making it simpler to work with audio playback from streams and files.
 * [WaveTools](https://github.com/djehuti/WaveTools) - WaveTools is a framework for manipulating audio files; WAVE files (.wav) in particular.
 * [SimplyCoreAudio](https://github.com/rnine/SimplyCoreAudio) - 🔊 A Swift framework that aims to make Core Audio use less tedious in macOS.
+* [Radium](https://github.com/kmatheussen/radium) - A graphical music editor. A next generation tracker.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
