@@ -101,6 +101,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Pro Tools Scripting SDK](https://developer.avid.com/audio/) - The Pro Tools Scripting SDK allows you to script Pro Tools using a language-independent API to create new automated workflows in Pro Tools. 
 * [voodoohop-ableton-tools](https://github.com/voodoohop/voodoohop-ableton-tools) - Ableton Live Harmony and Tempo Tools. Augments Ableton Live with an intuitive visualization of musical harmony as well as allowing a track’s tempo dynamics to control the master tempo in real-time. 
 * [AudioStretchy](https://github.com/twardoch/audiostretchy) - AudioStretchy is a Python library that allows you to time-stretch audio signals without changing their pitch. 
+* [SwiftAudio](https://github.com/doublesymmetry/SwiftAudioEx) - SwiftAudioEx is an iOS audio player written in Swift, making it simpler to work with audio playback from streams and files.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
