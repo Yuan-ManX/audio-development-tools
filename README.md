@@ -102,6 +102,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [voodoohop-ableton-tools](https://github.com/voodoohop/voodoohop-ableton-tools) - Ableton Live Harmony and Tempo Tools. Augments Ableton Live with an intuitive visualization of musical harmony as well as allowing a track’s tempo dynamics to control the master tempo in real-time. 
 * [AudioStretchy](https://github.com/twardoch/audiostretchy) - AudioStretchy is a Python library that allows you to time-stretch audio signals without changing their pitch. 
 * [SwiftAudio](https://github.com/doublesymmetry/SwiftAudioEx) - SwiftAudioEx is an iOS audio player written in Swift, making it simpler to work with audio playback from streams and files.
+* [WaveTools](https://github.com/djehuti/WaveTools) - WaveTools is a framework for manipulating audio files; WAVE files (.wav) in particular.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
