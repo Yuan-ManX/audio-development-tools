@@ -211,6 +211,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [LooPy](https://loopy4edm.com/) - A data framework for music information retrieval focusing on electronic music.
 * [Automatic Music Transcription (AMT) Tools](https://github.com/cwitkowitz/amt-tools) - Machine learning tools and framework for automatic music transcription.
 * [carat](https://github.com/mrocamora/carat) - Computer-aided rhythm analysis toolbox.
+* [miditoolkit](https://github.com/YatingMusic/miditoolkit) - A python package for working with MIDI data.
 
 ## <span id="mg">Music Generation (MG)</span>
 
