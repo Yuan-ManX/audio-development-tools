@@ -50,6 +50,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Waveformer](https://github.com/vb000/Waveformer) - An efficient architecture for real-time target sound extraction.
 * [EfficientAT](https://github.com/fschmid56/EfficientAT) - Efficient Large-Scale Audio Tagging. We provide AudioSet pre-trained models ready for downstream training and extraction of audio embeddings.
 * [VAD-python](https://github.com/marsbroshok/VAD-python) - Voice Activity Detector in Python. Python code to apply voice activity detector to wave file. Voice activity detector based on ration between energy in speech band and total energy.
+* [Diffsynth](https://github.com/hyakuchiki/diffsynth) - A Differentiable Musical Synthesizer in PyTorch.
 
 ## <span id="ag">Audio Generation (AG)</span>
 
