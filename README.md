@@ -194,6 +194,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [WEBMIDI.js](https://github.com/djipco/webmidi) - WEBMIDI.js makes it easy to interact with MIDI instruments directly from a web browser or from Node.js. It simplifies the control of physical or virtual MIDI instruments with user-friendly functions such as playNote(), sendPitchBend() or sendControlChange(). It also allows reacting to inbound MIDI messages by adding listeners for events such as "noteon", "pitchbend" or "programchange".
 * [web-audio-beat-detector](https://github.com/chrisguttandin/web-audio-beat-detector) - A beat detection utility which is using the Web Audio API.
 * [Beep.js](https://github.com/stewdio/beep.js) - Beep is a JavaScript toolkit for building browser-based synthesizers.
+* [Rust Web Audio API](https://github.com/orottier/web-audio-api-rs) - A Rust implementation of the Web Audio API, for use in non-browser contexts.
 
 ## <span id="mir">Music Information Retrieval (MIR)</span>
 
