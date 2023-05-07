@@ -234,6 +234,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [MusicLM](https://google-research.github.io/seanet/musiclm/examples/) - MusicLM: Generating Music From Text.
 * [SingSong](https://storage.googleapis.com/sing-song/index.html) - SingSong: Generating musical accompaniments from singing.
 * [Riffusion App](https://github.com/riffusion/riffusion-app) - Riffusion is an app for real-time music generation with stable diffusion.
+* [RiffusionVST](https://github.com/mklingen/RiffusionVST) - A VST3 plugin for Riffusion based on JUCE.
 * [riffusionDJ](https://github.com/d3n7/riffusionDJ) - Multichannel Looper/Feedback System for Riffusion (with Automatic1111) made for live performance.
 * [Mozart](https://github.com/aashrafh/Mozart) - An optical music recognition (OMR) system. Converts sheet music to a machine-readable version. The aim of this project is to develop a sheet music reader. This is called Optical Music Recognition (OMR). Its objective is to convert sheet music to a machine-readable version. We take a simplified version where we convert an image of sheet music to a textual representation that can be further processed to produce midi files or audio files like wav or mp3.
 * [Muzic](https://github.com/microsoft/muzic) - Muzic: Music Understanding and Generation with Artificial Intelligence. **Muzic** is a research project on AI music that empowers music understanding and generation with deep learning and artificial intelligence. Muzic is pronounced as [ˈmjuːzeik] and '谬贼客' (in Chinese).
