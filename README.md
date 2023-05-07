@@ -323,5 +323,6 @@ This is a list of sound, audio and music development tools which contains machin
 * [DiffSinger](https://github.com/MoonInTheRiver/DiffSinger) - DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism.
 * [lessampler](https://www.gloomyghost.com/lessampler/#/) - lessampler is a Singing Voice Synthesizer. It provides complete pitch shifting, time stretching and other functions. Support multiple interface calls such as UTAU, Library, and Shine.
 * [Mellotron](https://github.com/NVIDIA/mellotron) - Mellotron: a multispeaker voice synthesis model based on Tacotron 2 GST that can make a voice emote and sing without emotive or singing training data.
+* [midi2voice](https://github.com/mathigatti/midi2voice) - Singing Synthesis from MIDI file.
 
 ## And more
