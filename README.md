@@ -161,6 +161,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [CompuFart](https://github.com/alexmfink/compufart) - Fart sound synthesizer and algorithm in Cmajor.
 * [py-js](https://github.com/shakfu/py-js) - Python3 externals for Max / MSP.
 * [pd-lua](https://github.com/agraef/pd-lua) - Lua bindings for Pd, updated for Lua 5.3+.
+* [Live 4 Life](https://github.com/Xon77/Live4Life) - A spatial performance tool for SuperCollider.
 
 ## <span id="sa">Spatial Audio (SA)</span>
 
