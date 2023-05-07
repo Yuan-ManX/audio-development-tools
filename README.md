@@ -159,6 +159,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [cStop](https://github.com/calgoheen/cStop) - cStop is a tape stop audio effect plugin available in AU & VST3 for Mac (Windows coming soon).
 * [CompuFart](https://github.com/alexmfink/compufart) - Fart sound synthesizer and algorithm in Cmajor.
 * [py-js](https://github.com/shakfu/py-js) - Python3 externals for Max / MSP.
+* [pd-lua](https://github.com/agraef/pd-lua) - Lua bindings for Pd, updated for Lua 5.3+.
 
 ## <span id="sa">Spatial Audio (SA)</span>
 
