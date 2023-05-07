@@ -118,6 +118,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [PyFLP](https://github.com/demberto/PyFLP) - FL Studio project file parser.
 * [Hip-Hop](https://github.com/lucianoiam/hiphop) - Library for writing audio plugins that run the UI in a web view. Based on DPF.
 * [MGT-python](https://github.com/fourMs/MGT-python) - Musical Gestures Toolbox for Python.
+* [LASP](https://github.com/keijiro/Lasp) - Low-latency Audio Signal Processing plugin for Unity.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
