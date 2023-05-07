@@ -237,6 +237,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Msanii](https://kinyugo.github.io/msanii-demo/) - Msanii: High Fidelity Music Synthesis on a Shoestring Budget.
 * [MusicLM](https://google-research.github.io/seanet/musiclm/examples/) - MusicLM: Generating Music From Text.
 * [SingSong](https://storage.googleapis.com/sing-song/index.html) - SingSong: Generating musical accompaniments from singing.
+* [Riffusion](https://github.com/riffusion/riffusion) - Riffusion is a library for real-time music and audio generation with stable diffusion.
 * [Riffusion App](https://github.com/riffusion/riffusion-app) - Riffusion is an app for real-time music generation with stable diffusion.
 * [RiffusionVST](https://github.com/mklingen/RiffusionVST) - A VST3 plugin for Riffusion based on JUCE.
 * [riffusionDJ](https://github.com/d3n7/riffusionDJ) - Multichannel Looper/Feedback System for Riffusion (with Automatic1111) made for live performance.
