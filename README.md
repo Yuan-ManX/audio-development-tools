@@ -115,6 +115,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Neural Amp Modeler Plug-in](https://github.com/sdatkinson/NeuralAmpModelerPlugin) - A VST3/AudioUnit plug-in for Neural Amp Modeler, built with iPlug2.
 * [lsp-dsp-lib](https://github.com/lsp-plugins/lsp-dsp-lib) - DSP library for signal processing.
 * [PyFLP](https://github.com/demberto/PyFLP) - FL Studio project file parser.
+* [Hip-Hop](https://github.com/lucianoiam/hiphop) - Library for writing audio plugins that run the UI in a web view. Based on DPF.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
