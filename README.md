@@ -114,6 +114,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [DPF](https://github.com/DISTRHO/DPF) - DISTRHO Plugin Framework. DPF is designed to make development of new plugins an easy and enjoyable task.
 * [Neural Amp Modeler Plug-in](https://github.com/sdatkinson/NeuralAmpModelerPlugin) - A VST3/AudioUnit plug-in for Neural Amp Modeler, built with iPlug2.
 * [lsp-dsp-lib](https://github.com/lsp-plugins/lsp-dsp-lib) - DSP library for signal processing.
+* [PyFLP](https://github.com/demberto/PyFLP) - FL Studio project file parser.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
