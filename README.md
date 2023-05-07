@@ -172,6 +172,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Kontakt-Public](https://github.com/Yaron-NI/Kontakt-Public) - Resources for Native Instruments Kontakt builders.
 * [PyLive](https://github.com/ideoforms/pylive) - Query and control Ableton Live from Python.
 * [ml-lib](https://github.com/irllabs/ml-lib) - A machine learning library for Max and Pure Data.
+* [Max-SDK](https://github.com/Cycling74/max-sdk) - Software Development Kit for Max by Cycling '74.
 
 ## <span id="sa">Spatial Audio (SA)</span>
 
