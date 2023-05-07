@@ -235,6 +235,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [carat](https://github.com/mrocamora/carat) - Computer-aided rhythm analysis toolbox.
 * [miditoolkit](https://github.com/YatingMusic/miditoolkit) - A python package for working with MIDI data.
 * [Midly](https://github.com/negamartin/midly) - A feature-complete MIDI parser and writer focused on speed.
+* [libf0](https://github.com/groupmm/libf0) - A Python Library for Fundamental Frequency Estimation in Music Recordings.
 
 ## <span id="mg">Music Generation (MG)</span>
 
