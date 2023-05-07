@@ -52,6 +52,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [VAD-python](https://github.com/marsbroshok/VAD-python) - Voice Activity Detector in Python. Python code to apply voice activity detector to wave file. Voice activity detector based on ration between energy in speech band and total energy.
 * [Diffsynth](https://github.com/hyakuchiki/diffsynth) - A Differentiable Musical Synthesizer in PyTorch.
 * [Realtime DDSP](https://github.com/hyakuchiki/realtimeDDSP) - Realtime (streaming) DDSP in PyTorch compatible with neutone.
+* [pc-ddsp](https://github.com/splinter21/pc-ddsp) - Pitch Controllable DDSP Vocoders.
 
 ## <span id="ag">Audio Generation (AG)</span>
 
