@@ -169,6 +169,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Dexed](https://github.com/asb2m10/dexed) - DX7 FM multi plaform/multi format plugin.
 * [Leapmotion For Max](https://github.com/JulesFrancoise/leapmotion-for-max) - Leapmotion external for Cycling'74 Max.
 * [Kontakt-Public](https://github.com/Yaron-NI/Kontakt-Public) - Resources for Native Instruments Kontakt builders.
+* [PyLive](https://github.com/ideoforms/pylive) - Query and control Ableton Live from Python.
 
 ## <span id="sa">Spatial Audio (SA)</span>
 
