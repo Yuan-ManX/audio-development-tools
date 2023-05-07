@@ -295,6 +295,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Elevenlabs](https://github.com/elevenlabs/elevenlabs-python) - The official Python API for ElevenLabs text-to-speech software. Eleven brings the most compelling, rich and lifelike voices to creators and developers in just a few lines of code.
 * [NaturalSpeech 2](https://speechresearch.github.io/naturalspeech2/) - NaturalSpeech 2: Latent Diffusion Models are Natural and Zero-Shot Speech and Singing Synthesizers.
 * [TorToiSe](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality.
+* [libvits-ncnn](https://github.com/Sg4Dylan/libvits-ncnn) - libvits-ncnn is an ncnn implementation of the VITS library that enables cross-platform GPU-accelerated speech synthesis.🎙️💻
 
 ## <span id="svs">Singing Voice Synthesis (SVS)</span>
 
