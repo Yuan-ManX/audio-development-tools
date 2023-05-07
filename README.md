@@ -221,6 +221,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Automatic Music Transcription (AMT) Tools](https://github.com/cwitkowitz/amt-tools) - Machine learning tools and framework for automatic music transcription.
 * [carat](https://github.com/mrocamora/carat) - Computer-aided rhythm analysis toolbox.
 * [miditoolkit](https://github.com/YatingMusic/miditoolkit) - A python package for working with MIDI data.
+* [Midly](https://github.com/negamartin/midly) - A feature-complete MIDI parser and writer focused on speed.
 
 ## <span id="mg">Music Generation (MG)</span>
 
