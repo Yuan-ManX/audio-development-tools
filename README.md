@@ -53,6 +53,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Diffsynth](https://github.com/hyakuchiki/diffsynth) - A Differentiable Musical Synthesizer in PyTorch.
 * [Realtime DDSP](https://github.com/hyakuchiki/realtimeDDSP) - Realtime (streaming) DDSP in PyTorch compatible with neutone.
 * [pc-ddsp](https://github.com/splinter21/pc-ddsp) - Pitch Controllable DDSP Vocoders.
+* [SSSSM-DDSP](https://github.com/hyakuchiki/SSSSM-DDSP) - Semi-supervised Synthesizer Sound Matching with Differentiable DSP.
 
 ## <span id="ag">Audio Generation (AG)</span>
 
