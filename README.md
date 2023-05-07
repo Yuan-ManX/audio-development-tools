@@ -201,6 +201,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [web-audio-beat-detector](https://github.com/chrisguttandin/web-audio-beat-detector) - A beat detection utility which is using the Web Audio API.
 * [Beep.js](https://github.com/stewdio/beep.js) - Beep is a JavaScript toolkit for building browser-based synthesizers.
 * [Rust Web Audio API](https://github.com/orottier/web-audio-api-rs) - A Rust implementation of the Web Audio API, for use in non-browser contexts.
+* [WASM Audio Decoders](https://github.com/eshaz/wasm-audio-decoders) - Browser and NodeJS Web Assembly audio decoder libraries that are highly optimized for size and performance.
 
 ## <span id="mir">Music Information Retrieval (MIR)</span>
 
