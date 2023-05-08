@@ -195,6 +195,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Visual Acoustic Matching](https://github.com/facebookresearch/visual-acoustic-matching) - We introduce the visual acoustic matching task, in which an audio clip is transformed to sound like it was recorded in a target environment. Given an image of the target environment and a waveform for the source audio, the goal is to re-synthesize the audio to match the target room acoustics as suggested by its visible geometry and materials. 
 * [FAST-RIR](https://github.com/anton-jeran/FAST-RIR) - This is the official implementation of our neural-network-based fast diffuse room impulse response generator (FAST-RIR) for generating room impulse responses (RIRs) for a given acoustic environment.
 * [pygsound](https://github.com/GAMMA-UMD/pygsound) - Impulse response generation based on state-of-the-art geometric sound propagation engine.
+* [RIRIS](https://github.com/eliaszea/RIRIS) - RIRIS is the MATLAB implementation of room impulse response interpolation using fast shearlet transforms.
 
 ## <span id="wap">Web Audio Processing (WAP)</span>
 
