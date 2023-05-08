@@ -196,6 +196,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [FAST-RIR](https://github.com/anton-jeran/FAST-RIR) - This is the official implementation of our neural-network-based fast diffuse room impulse response generator (FAST-RIR) for generating room impulse responses (RIRs) for a given acoustic environment.
 * [pygsound](https://github.com/GAMMA-UMD/pygsound) - Impulse response generation based on state-of-the-art geometric sound propagation engine.
 * [RIRIS](https://github.com/eliaszea/RIRIS) - RIRIS is the MATLAB implementation of room impulse response interpolation using fast shearlet transforms.
+* [parallel-reverb-raytracer](https://github.com/reuk/parallel-reverb-raytracer) - A raytracer for impulse responses (for reverb), influenced by raster graphics lighting techniques. 
 
 ## <span id="wap">Web Audio Processing (WAP)</span>
 
