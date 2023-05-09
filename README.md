@@ -277,6 +277,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [linuxwave](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux 🐧🎵
 * [Chord2Melody](https://github.com/tanreinama/chord2melody) - Automatic Music Generation AI.
 * [symbolic music diffusion](https://github.com/magenta/symbolic-music-diffusion) - Symbolic Music Generation with Diffusion Models.
+* [AI-Pokemon-Music](https://github.com/nickd16/AI-Pokemon-Music) - Using AI (Transformers) to make original/ recreate Pokémon music.
 
 ## <span id="asr">Speech Recognition (ASR)</span>
 
