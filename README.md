@@ -123,6 +123,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [LASP](https://github.com/keijiro/Lasp) - Low-latency Audio Signal Processing plugin for Unity.
 * [ASP](https://github.com/TUIlmenauAMS/ASP) - Audio Signal Processing Python Tools.
 * [TinyAudio](https://github.com/mrDIMAS/tinyaudio) - TinyAudio is a cross-platform audio output library.
+* [pymixconsole](https://github.com/csteinmetz1/pymixconsole) - Headless multitrack mixing console in Python.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
