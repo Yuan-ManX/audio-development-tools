@@ -121,6 +121,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [MGT-python](https://github.com/fourMs/MGT-python) - Musical Gestures Toolbox for Python.
 * [LASP](https://github.com/keijiro/Lasp) - Low-latency Audio Signal Processing plugin for Unity.
 * [ASP](https://github.com/TUIlmenauAMS/ASP) - Audio Signal Processing Python Tools.
+* [TinyAudio](https://github.com/mrDIMAS/tinyaudio) - TinyAudio is a cross-platform audio output library.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
