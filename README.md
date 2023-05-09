@@ -251,6 +251,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [miditoolkit](https://github.com/YatingMusic/miditoolkit) - A python package for working with MIDI data.
 * [Midly](https://github.com/negamartin/midly) - A feature-complete MIDI parser and writer focused on speed.
 * [libf0](https://github.com/groupmm/libf0) - A Python Library for Fundamental Frequency Estimation in Music Recordings.
+* [PyRoll](https://github.com/loua19/pyroll) - A lightweight research library for processing symbolic music (such as MIDI) into piano-roll format.
 
 ## <span id="mg">Music Generation (MG)</span>
 
