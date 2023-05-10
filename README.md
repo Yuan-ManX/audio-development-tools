@@ -125,6 +125,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [ASP](https://github.com/TUIlmenauAMS/ASP) - Audio Signal Processing Python Tools.
 * [TinyAudio](https://github.com/mrDIMAS/tinyaudio) - TinyAudio is a cross-platform audio output library.
 * [pymixconsole](https://github.com/csteinmetz1/pymixconsole) - Headless multitrack mixing console in Python.
+* [effects-plugin](https://github.com/elemaudio/effects-plugin) - An audio effects plugin template using Elementary and JUCE.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
