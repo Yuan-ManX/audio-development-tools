@@ -183,6 +183,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [ml-lib](https://github.com/irllabs/ml-lib) - A machine learning library for Max and Pure Data.
 * [Max-SDK](https://github.com/Cycling74/max-sdk) - Software Development Kit for Max by Cycling '74.
 * [pd-hvcc](https://github.com/timothyschoen/pd-hvcc) - Creating a gen~-like environment for Pd, based on the Heavy compiler.
+* [Kuroscillators](https://github.com/nolanlem/Kuroscillators) - MAX/MSP objects for audio and rhythmic synthesis using networks of coupled oscillators.
 
 ## <span id="sa">Spatial Audio (SA)</span>
 
