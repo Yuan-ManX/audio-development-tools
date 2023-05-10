@@ -287,6 +287,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [symbolic music diffusion](https://github.com/magenta/symbolic-music-diffusion) - Symbolic Music Generation with Diffusion Models.
 * [AI-Pokemon-Music](https://github.com/nickd16/AI-Pokemon-Music) - Using AI (Transformers) to make original/ recreate Pokémon music.
 * [WalkingBass](https://github.com/philxan/WalkingBass) - A MuseScore 3 plugin that generates a walking bass line.
+* [DeBussy](https://github.com/asigalov61/DeBussy) - Solo Piano Music AI Implementation.
 
 ## <span id="asr">Speech Recognition (ASR)</span>
 
