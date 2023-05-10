@@ -202,6 +202,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [pygsound](https://github.com/GAMMA-UMD/pygsound) - Impulse response generation based on state-of-the-art geometric sound propagation engine.
 * [RIRIS](https://github.com/eliaszea/RIRIS) - RIRIS is the MATLAB implementation of room impulse response interpolation using fast shearlet transforms.
 * [parallel-reverb-raytracer](https://github.com/reuk/parallel-reverb-raytracer) - A raytracer for impulse responses (for reverb), influenced by raster graphics lighting techniques. 
+* [Synth 3D](https://github.com/dafaronbi/Synth-3D) - VST Synthesizer with virtual oscillator objects placed in 3D space.
 
 ## <span id="wap">Web Audio Processing (WAP)</span>
 
