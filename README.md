@@ -232,6 +232,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [WASM Audio Decoders](https://github.com/eshaz/wasm-audio-decoders) - Browser and NodeJS Web Assembly audio decoder libraries that are highly optimized for size and performance.
 * [Chrome Music Lab](https://github.com/googlecreativelab/chrome-music-lab) - A collection of experiments for exploring how music works, all built with the Web Audio API.
 * [JavaScript Karplus-Strong](https://github.com/mrahtz/javascript-karplus-strong) - JavaScript/Web Audio implementation of Karplus-Strong guitar synthesis.
+* [tonejs-instruments](https://github.com/nbrosowsky/tonejs-instruments) - A small instrument sample library with quick-loader for tone.js.
 
 ## <span id="mir">Music Information Retrieval (MIR)</span>
 
