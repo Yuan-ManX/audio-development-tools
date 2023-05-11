@@ -317,6 +317,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Voice Lab](https://github.com/Voice-Lab/VoiceLab) - Voice Lab is an automated voice analysis software. What this software does is allow you to measure, manipulate, and visualize many voices at once, without messing with analysis parameters. You can also save all of your data, analysis parameters, manipulated voices, and full colour spectrograms and power spectra, with the press of one button.
 * [3D-Speaker](https://github.com/alibaba-damo-academy/3D-Speaker) - 3D-Speaker is an open-source toolkit for single- and multi-modal speaker verification, speaker recognition, and speaker diarization. All pretrained models are accessible on ModelScope.
 * [FunASR](https://github.com/alibaba-damo-academy/FunASR) - FunASR: A Fundamental End-to-End Speech Recognition Toolkit.
+* [Squeezeformer](https://github.com/upskyy/Squeezeformer) - An Efficient Transformer for Automatic Speech Recognition.
 
 ## <span id="tts">Speech Synthesis (TTS)</span>
 
