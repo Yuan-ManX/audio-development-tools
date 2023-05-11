@@ -129,6 +129,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [effects-plugin](https://github.com/elemaudio/effects-plugin) - An audio effects plugin template using Elementary and JUCE.
 * [miniaudio](https://github.com/mackron/miniaudio) - Audio playback and capture library written in C, in a single source file.
 * [AudioMass](https://github.com/pkalogiros/AudioMass) - Free full-featured web-based audio & waveform editing tool.
+* [Universal Android Music Player Sample](https://github.com/android/uamp) - A sample audio app for Android.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
