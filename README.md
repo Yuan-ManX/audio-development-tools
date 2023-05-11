@@ -128,6 +128,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [pymixconsole](https://github.com/csteinmetz1/pymixconsole) - Headless multitrack mixing console in Python.
 * [effects-plugin](https://github.com/elemaudio/effects-plugin) - An audio effects plugin template using Elementary and JUCE.
 * [miniaudio](https://github.com/mackron/miniaudio) - Audio playback and capture library written in C, in a single source file.
+* [AudioMass](https://github.com/pkalogiros/AudioMass) - Free full-featured web-based audio & waveform editing tool.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
