@@ -137,6 +137,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Polar](https://github.com/sgmackie/Polar) - Audio engine for CUDA processing (Windows/Linux).
 * [AudioToys](https://github.com/sgmackie/AudioToys) - DSP doodles for Unity.
 * [Audio-to-MIDI-converter](https://github.com/vaibhavnayel/Audio-to-MIDI-converter) - Program to detect pitch from wav files and write in time quantized MIDI.
+* [AudioTSM](https://github.com/Muges/audiotsm) - AudioTSM is a python library for real-time audio time-scale modification procedures, i.e. algorithms that change the speed of an audio signal without changing its pitch.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
