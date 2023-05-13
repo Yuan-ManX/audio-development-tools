@@ -135,6 +135,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Fourier](https://github.com/calebzulawski/fourier) - Fast Fourier transforms (FFTs) in Rust.
 * [ProtoFaust](https://github.com/mzuther/ProtoFaust) - DSP prototyping in Faust for the modular synthesizer VCV Rack.
 * [Polar](https://github.com/sgmackie/Polar) - Audio engine for CUDA processing (Windows/Linux).
+* [AudioToys](https://github.com/sgmackie/AudioToys) - DSP doodles for Unity.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
