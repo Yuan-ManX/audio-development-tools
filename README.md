@@ -136,6 +136,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [ProtoFaust](https://github.com/mzuther/ProtoFaust) - DSP prototyping in Faust for the modular synthesizer VCV Rack.
 * [Polar](https://github.com/sgmackie/Polar) - Audio engine for CUDA processing (Windows/Linux).
 * [AudioToys](https://github.com/sgmackie/AudioToys) - DSP doodles for Unity.
+* [Audio-to-MIDI-converter](https://github.com/vaibhavnayel/Audio-to-MIDI-converter) - Program to detect pitch from wav files and write in time quantized MIDI.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
