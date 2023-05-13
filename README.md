@@ -133,6 +133,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Universal Android Music Player Sample](https://github.com/android/uamp) - A sample audio app for Android.
 * [jsfx](https://github.com/chkhld/jsfx) - A free collection of JS (JesuSonic) plugins for Reaper.
 * [Fourier](https://github.com/calebzulawski/fourier) - Fast Fourier transforms (FFTs) in Rust.
+* [ProtoFaust](https://github.com/mzuther/ProtoFaust) - DSP prototyping in Faust for the modular synthesizer VCV Rack.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
