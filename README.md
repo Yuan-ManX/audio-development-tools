@@ -131,6 +131,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [miniaudio](https://github.com/mackron/miniaudio) - Audio playback and capture library written in C, in a single source file.
 * [AudioMass](https://github.com/pkalogiros/AudioMass) - Free full-featured web-based audio & waveform editing tool.
 * [Universal Android Music Player Sample](https://github.com/android/uamp) - A sample audio app for Android.
+* [jsfx](https://github.com/chkhld/jsfx) - A free collection of JS (JesuSonic) plugins for Reaper.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
