@@ -268,6 +268,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [PyRoll](https://github.com/loua19/pyroll) - A lightweight research library for processing symbolic music (such as MIDI) into piano-roll format.
 * [solfege.ai ✋ 🎹](https://github.com/instrumentbible/solfege.ai) - Detect solfege hand signs using machine learning ✋ 🎹
 * [libfmp](https://github.com/meinardmueller/libfmp) - Python package for teaching and learning Fundamentals of Music Processing (FMP).
+* [jams](https://github.com/marl/jams) - A JSON Annotated Music Specification for Reproducible MIR Research.
 
 ## <span id="mg">Music Generation (MG)</span>
 
