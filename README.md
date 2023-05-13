@@ -132,6 +132,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [AudioMass](https://github.com/pkalogiros/AudioMass) - Free full-featured web-based audio & waveform editing tool.
 * [Universal Android Music Player Sample](https://github.com/android/uamp) - A sample audio app for Android.
 * [jsfx](https://github.com/chkhld/jsfx) - A free collection of JS (JesuSonic) plugins for Reaper.
+* [Fourier](https://github.com/calebzulawski/fourier) - Fast Fourier transforms (FFTs) in Rust.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
