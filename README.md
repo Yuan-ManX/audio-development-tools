@@ -134,6 +134,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [jsfx](https://github.com/chkhld/jsfx) - A free collection of JS (JesuSonic) plugins for Reaper.
 * [Fourier](https://github.com/calebzulawski/fourier) - Fast Fourier transforms (FFTs) in Rust.
 * [ProtoFaust](https://github.com/mzuther/ProtoFaust) - DSP prototyping in Faust for the modular synthesizer VCV Rack.
+* [Polar](https://github.com/sgmackie/Polar) - Audio engine for CUDA processing (Windows/Linux).
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
