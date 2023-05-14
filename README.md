@@ -117,6 +117,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [WaveTools](https://github.com/djehuti/WaveTools) - WaveTools is a framework for manipulating audio files; WAVE files (.wav) in particular.
 * [SimplyCoreAudio](https://github.com/rnine/SimplyCoreAudio) - 🔊 A Swift framework that aims to make Core Audio use less tedious in macOS.
 * [Radium](https://github.com/kmatheussen/radium) - A graphical music editor. A next generation tracker.
+* [Bass Studio](https://github.com/nidefawl/bass-studio) - Bass Studio is a Digital Audio Workstation (DAW) written in C++. Windows, MacOS and Linux builds are provided. Both VST2 and CLAP plugin format are supported.
 * [DPF](https://github.com/DISTRHO/DPF) - DISTRHO Plugin Framework. DPF is designed to make development of new plugins an easy and enjoyable task.
 * [Neural Amp Modeler Plug-in](https://github.com/sdatkinson/NeuralAmpModelerPlugin) - A VST3/AudioUnit plug-in for Neural Amp Modeler, built with iPlug2.
 * [lsp-dsp-lib](https://github.com/lsp-plugins/lsp-dsp-lib) - DSP library for signal processing.
