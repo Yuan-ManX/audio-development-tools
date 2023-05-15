@@ -204,6 +204,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Kuroscillators](https://github.com/nolanlem/Kuroscillators) - MAX/MSP objects for audio and rhythmic synthesis using networks of coupled oscillators.
 * [ascii-audio](https://github.com/kylophone/ascii-audio) - Generates PCM audio from an ASCII string. Text is visible on the spectrogram image.
 * [BelaMiniMoogEmulation](https://github.com/lbros96/BelaMiniMoogEmulation) - A digital implementation of the Minimoog analog synthesizer with anti-aliased waveforms and a recreation of the moog ladder filter.
+* [Edisyn](https://github.com/eclab/edisyn) - Synthesizer Patch Editor.
 
 ## <span id="sa">Spatial Audio (SA)</span>
 
