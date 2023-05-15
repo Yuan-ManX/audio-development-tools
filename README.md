@@ -60,6 +60,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Multi Task Automatic-Synthesizer-Programming](https://github.com/dafaronbi/Multi-Task-Automatic-Synthesizer-Programming) - This is the code for the multi VST automatic synthesizer programming project.  
 * [NeuralNote](https://github.com/DamRsn/NeuralNote) - Audio Plugin for Audio to MIDI transcription using deep learning.  
 * [AudioDec](https://github.com/facebookresearch/AudioDec) - An Open-source Streaming High-fidelity Neural Audio Codec. 
+* [PaSST](https://github.com/kkoutini/PaSST) - Efficient Training of Audio Transformers with Patchout.
 
 ## <span id="ag">Audio Generation (AG)</span>
 
