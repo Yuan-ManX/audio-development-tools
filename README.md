@@ -141,6 +141,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Audio-to-MIDI-converter](https://github.com/vaibhavnayel/Audio-to-MIDI-converter) - Program to detect pitch from wav files and write in time quantized MIDI.
 * [AudioTSM](https://github.com/Muges/audiotsm) - AudioTSM is a python library for real-time audio time-scale modification procedures, i.e. algorithms that change the speed of an audio signal without changing its pitch.
 * [Multi-Filter-Delay](https://github.com/lbros96/Multi-Filter-Delay) - An original digital audio effect programmed through Juce/C++.
+* [convoLV2](https://github.com/x42/convoLV2) - convoLV2 is a LV2 plugin to convolve audio signals with zero latency.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
