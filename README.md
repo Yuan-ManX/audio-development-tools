@@ -1,6 +1,6 @@
 # Audio-Development-Tools (ADT)
 
-This is a list of sound, audio and music development tools which contains machine learning, audio generation, audio signal processing, sound synthesis, spatial audio, music information retrieval, music generation, speech recognition, speech synthesis, singing voice synthesis and more.
+This is a list of sound, audio and music development tools which contains machine learning, audio generation, audio signal processing, sound synthesis, game audio, digital audio workstation, spatial audio, music information retrieval, music generation, speech recognition, speech synthesis, singing voice synthesis and more.
 
 * [Machine Learning (ML)](#ml)
 * [Audio Generation (AG)](#ag)
