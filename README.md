@@ -62,6 +62,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [NeuralNote](https://github.com/DamRsn/NeuralNote) - Audio Plugin for Audio to MIDI transcription using deep learning.  
 * [AudioDec](https://github.com/facebookresearch/AudioDec) - An Open-source Streaming High-fidelity Neural Audio Codec. 
 * [PaSST](https://github.com/kkoutini/PaSST) - Efficient Training of Audio Transformers with Patchout.
+* [speech_data_augment](https://github.com/zzpDapeng/speech_data_augment) - A summary of speech data augment algorithms.
 
 ## <span id="ag">Audio Generation (AG)</span>
 
