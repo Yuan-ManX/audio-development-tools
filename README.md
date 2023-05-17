@@ -249,6 +249,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [parallel-reverb-raytracer](https://github.com/reuk/parallel-reverb-raytracer) - A raytracer for impulse responses (for reverb), influenced by raster graphics lighting techniques. 
 * [Synth 3D](https://github.com/dafaronbi/Synth-3D) - VST Synthesizer with virtual oscillator objects placed in 3D space.
 * [libBasicSOFA](https://github.com/superkittens/libBasicSOFA) - A very basic library for reading Spatially Oriented Format for Acoustics (SOFA) files, a format for storing HRTFs and/or BRIRs for binuaral audio reproduction.
+* [Mesh2HRTF](https://github.com/Any2HRTF/Mesh2HRTF) - Open software for the numerical calculation of head-related transfer functions.
 
 ## <span id="wap">Web Audio Processing (WAP)</span>
 
