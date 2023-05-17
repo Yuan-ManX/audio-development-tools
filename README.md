@@ -216,6 +216,7 @@ This is a list of sound, audio and music development tools which contains machin
 ## <span id="ga">Game Audio (GA)</span>
 
 * [LASP](https://github.com/keijiro/Lasp) - Low-latency Audio Signal Processing plugin for Unity.
+* [SoLoud](https://github.com/jarikomppa/soloud) - SoLoud is an easy to use, free, portable c/c++ audio engine for games.
 
 ## <span id="daw">Digital Audio Workstation (DAW)</span>
 
