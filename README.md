@@ -212,6 +212,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [ascii-audio](https://github.com/kylophone/ascii-audio) - Generates PCM audio from an ASCII string. Text is visible on the spectrogram image.
 * [BelaMiniMoogEmulation](https://github.com/lbros96/BelaMiniMoogEmulation) - A digital implementation of the Minimoog analog synthesizer with anti-aliased waveforms and a recreation of the moog ladder filter.
 * [Edisyn](https://github.com/eclab/edisyn) - Synthesizer Patch Editor.
+* [soundgen](https://github.com/tatters/soundgen) - R package for sound synthesis and acoustic analysis.
 
 ## <span id="ga">Game Audio (GA)</span>
 
