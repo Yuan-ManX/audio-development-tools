@@ -81,6 +81,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Oobleck](https://github.com/Harmonai-org/oobleck) - open soundstream-ish VAE codecs for downstream neural audio synthesis.
 * [USS](https://github.com/bytedance/uss) - This is the PyTorch implementation of the Universal Source Separation with Weakly labelled Data. The USS system can automatically detect and separate sound classes from a real recording. The USS system can separate up to hundreds of sound classes sound classes in a hierarchical ontology structure. 
 * [Diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers is the go-to library for state-of-the-art pretrained diffusion models for generating images, audio, and even 3D structures of molecules.
+* [Engine Simulator](https://github.com/ange-yaghi/engine-sim) - Combustion engine simulator that generates realistic audio.
 
 ## <span id="asp">Audio Signal Processing (ASP)</span>
 
