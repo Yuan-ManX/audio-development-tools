@@ -80,6 +80,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Im2Wav](https://github.com/RoySheffer/im2wav) - Image Guided Audio Generation. We propose Im2Wav, an image guided open-domain audio generation system. Given an input image or a sequence of images, Im2Wav generates a semantically relevant sound.
 * [Oobleck](https://github.com/Harmonai-org/oobleck) - open soundstream-ish VAE codecs for downstream neural audio synthesis.
 * [USS](https://github.com/bytedance/uss) - This is the PyTorch implementation of the Universal Source Separation with Weakly labelled Data. The USS system can automatically detect and separate sound classes from a real recording. The USS system can separate up to hundreds of sound classes sound classes in a hierarchical ontology structure. 
+* [Diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers is the go-to library for state-of-the-art pretrained diffusion models for generating images, audio, and even 3D structures of molecules.
 
 ## <span id="asp">Audio Signal Processing (ASP)</span>
 
