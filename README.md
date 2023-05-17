@@ -147,6 +147,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [convoLV2](https://github.com/x42/convoLV2) - convoLV2 is a LV2 plugin to convolve audio signals with zero latency.
 * [Cloud Seed](https://github.com/ValdemarOrn/CloudSeed) - Cloud Seed is an algorithmic reverb plugin built in C# and C++ for emulating huge, endless spaces and modulated echoes.
 * [Background Music](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
+* [audiowaveform](https://github.com/bbc/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
