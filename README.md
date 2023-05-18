@@ -379,6 +379,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Espresso](https://github.com/freewym/espresso) - Espresso is an open-source, modular, extensible end-to-end neural automatic speech recognition (ASR) toolkit based on the deep learning library PyTorch and the popular neural machine translation toolkit fairseq. 
 * [Leon](https://getleon.ai/) - 🧠 Leon is your open-source personal assistant.
 * [DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
+* [SpeechRecognition](https://github.com/Uberi/speech_recognition) - Speech recognition module for Python, supporting several engines and APIs, online and offline.
 * [annyang](https://www.talater.com/annyang/) - annyang is a tiny javascript library that lets your visitors control your site with voice commands. annyang supports multiple languages, has no dependencies, weighs just 2kb and is free to use.
 * [PocketSphinx](https://github.com/cmusphinx/pocketsphinx) - This is PocketSphinx, one of Carnegie Mellon University's open source large vocabulary, speaker-independent continuous speech recognition engines.
 * [Kara](https://github.com/emileclarkb/Kara) - Open Source Voice Assistant. Simply put, Kara is a voice assistant that steals 0% of your data so you stay free! She is a actively maintained, modular, and designed to customize.
