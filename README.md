@@ -219,6 +219,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [BelaMiniMoogEmulation](https://github.com/lbros96/BelaMiniMoogEmulation) - A digital implementation of the Minimoog analog synthesizer with anti-aliased waveforms and a recreation of the moog ladder filter.
 * [Edisyn](https://github.com/eclab/edisyn) - Synthesizer Patch Editor.
 * [soundgen](https://github.com/tatters/soundgen) - R package for sound synthesis and acoustic analysis.
+* [Cardinal](https://github.com/DISTRHO/Cardinal) - Virtual modular synthesizer plugin.
 
 ## <span id="ga">Game Audio (GA)</span>
 
