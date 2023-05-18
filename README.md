@@ -386,6 +386,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [3D-Speaker](https://github.com/alibaba-damo-academy/3D-Speaker) - 3D-Speaker is an open-source toolkit for single- and multi-modal speaker verification, speaker recognition, and speaker diarization. All pretrained models are accessible on ModelScope.
 * [FunASR](https://github.com/alibaba-damo-academy/FunASR) - FunASR: A Fundamental End-to-End Speech Recognition Toolkit.
 * [Squeezeformer](https://github.com/upskyy/Squeezeformer) - An Efficient Transformer for Automatic Speech Recognition.
+* [dejavu](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition in Python.
 
 ## <span id="tts">Speech Synthesis (TTS)</span>
 
