@@ -157,6 +157,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Hound](https://github.com/ruuda/hound) - A wav encoding and decoding library in Rust.
 * [rodio](https://github.com/RustAudio/rodio) - Rust audio playback library.
 * [CPAL](https://github.com/RustAudio/cpal) - Cross-platform audio I/O library in pure Rust.
+* [CSCore](https://github.com/filoe/cscore) - CSCore is a free .NET audio library which is completely written in C#.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
