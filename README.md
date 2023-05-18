@@ -285,6 +285,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [JavaScript Karplus-Strong](https://github.com/mrahtz/javascript-karplus-strong) - JavaScript/Web Audio implementation of Karplus-Strong guitar synthesis.
 * [tonejs-instruments](https://github.com/nbrosowsky/tonejs-instruments) - A small instrument sample library with quick-loader for tone.js.
 * [wavesurfer.js](https://github.com/wavesurfer-js/wavesurfer.js) - Navigable waveform built on Web Audio and Canvas.
+* [Aurora.js](https://github.com/audiocogs/aurora.js) - JavaScript audio decoding framework.
 
 ## <span id="mir">Music Information Retrieval (MIR)</span>
 
