@@ -65,6 +65,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [AudioDec](https://github.com/facebookresearch/AudioDec) - An Open-source Streaming High-fidelity Neural Audio Codec. 
 * [PaSST](https://github.com/kkoutini/PaSST) - Efficient Training of Audio Transformers with Patchout.
 * [speech_data_augment](https://github.com/zzpDapeng/speech_data_augment) - A summary of speech data augment algorithms.
+* [AugLy](https://github.com/facebookresearch/AugLy) - A data augmentations library for audio, image, text, and video.
 * [NeuraFuzz](https://github.com/mcomunita/neurafuzz) - Neural audio plugin trained on custom analog fuzz circuit design.
 
 ## <span id="ag">Audio Generation (AG)</span>
