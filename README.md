@@ -156,6 +156,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [lewton](https://github.com/RustAudio/lewton) - Vorbis decoder written in pure Rust.
 * [Hound](https://github.com/ruuda/hound) - A wav encoding and decoding library in Rust.
 * [rodio](https://github.com/RustAudio/rodio) - Rust audio playback library.
+* [CPAL](https://github.com/RustAudio/cpal) - Cross-platform audio I/O library in pure Rust.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
