@@ -259,6 +259,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Synth 3D](https://github.com/dafaronbi/Synth-3D) - VST Synthesizer with virtual oscillator objects placed in 3D space.
 * [libBasicSOFA](https://github.com/superkittens/libBasicSOFA) - A very basic library for reading Spatially Oriented Format for Acoustics (SOFA) files, a format for storing HRTFs and/or BRIRs for binuaral audio reproduction.
 * [Mesh2HRTF](https://github.com/Any2HRTF/Mesh2HRTF) - Open software for the numerical calculation of head-related transfer functions.
+* [OpenAL Soft](https://github.com/kcat/openal-soft) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
 
 ## <span id="wap">Web Audio Processing (WAP)</span>
 
