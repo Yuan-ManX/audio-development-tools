@@ -67,6 +67,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [speech_data_augment](https://github.com/zzpDapeng/speech_data_augment) - A summary of speech data augment algorithms.
 * [AugLy](https://github.com/facebookresearch/AugLy) - A data augmentations library for audio, image, text, and video.
 * [NeuraFuzz](https://github.com/mcomunita/neurafuzz) - Neural audio plugin trained on custom analog fuzz circuit design.
+* [Ultimate Vocal Remover GUI](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
 
 ## <span id="ag">Audio Generation (AG)</span>
 
