@@ -144,7 +144,6 @@ This is a list of sound, audio and music development tools which contains machin
 * [Fourier](https://github.com/calebzulawski/fourier) - Fast Fourier transforms (FFTs) in Rust.
 * [ProtoFaust](https://github.com/mzuther/ProtoFaust) - DSP prototyping in Faust for the modular synthesizer VCV Rack.
 * [Polar](https://github.com/sgmackie/Polar) - Audio engine for CUDA processing (Windows/Linux).
-* [AudioToys](https://github.com/sgmackie/AudioToys) - DSP doodles for Unity.
 * [Audio-to-MIDI-converter](https://github.com/vaibhavnayel/Audio-to-MIDI-converter) - Program to detect pitch from wav files and write in time quantized MIDI.
 * [AudioTSM](https://github.com/Muges/audiotsm) - AudioTSM is a python library for real-time audio time-scale modification procedures, i.e. algorithms that change the speed of an audio signal without changing its pitch.
 * [Multi-Filter-Delay](https://github.com/lbros96/Multi-Filter-Delay) - An original digital audio effect programmed through Juce/C++.
@@ -229,6 +228,7 @@ This is a list of sound, audio and music development tools which contains machin
 
 * [LASP](https://github.com/keijiro/Lasp) - Low-latency Audio Signal Processing plugin for Unity.
 * [SoLoud](https://github.com/jarikomppa/soloud) - SoLoud is an easy to use, free, portable c/c++ audio engine for games.
+* [AudioToys](https://github.com/sgmackie/AudioToys) - DSP doodles for Unity.
 
 ## <span id="daw">Digital Audio Workstation (DAW)</span>
 
@@ -242,6 +242,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Bass Studio](https://github.com/nidefawl/bass-studio) - Bass Studio is a Digital Audio Workstation (DAW) written in C++. Windows, MacOS and Linux builds are provided. Both VST2 and CLAP plugin format are supported.
 * [GridSound](https://github.com/gridsound/daw) - GridSound is a work-in-progress open-source digital audio workstation developed with HTML5 and more precisely with the new Web Audio API. 
 * [Meadowlark](https://github.com/MeadowlarkDAW/Meadowlark) - Meadowlark is a (work in progress) FREE and open-source DAW (Digital Audio Workstation) for Linux, Mac and Windows. It aims to be a powerful recording, composing, editing, sound designing, mixing, and mastering tool for artists around the world, while also being intuitive and customizable.
+* [Mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
 
 ## <span id="sa">Spatial Audio (SA)</span>
 
