@@ -293,6 +293,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [tonejs-instruments](https://github.com/nbrosowsky/tonejs-instruments) - A small instrument sample library with quick-loader for tone.js.
 * [wavesurfer.js](https://github.com/wavesurfer-js/wavesurfer.js) - Navigable waveform built on Web Audio and Canvas.
 * [Aurora.js](https://github.com/audiocogs/aurora.js) - JavaScript audio decoding framework.
+* [Pizzicato](https://github.com/alemangui/pizzicato) - Library to simplify the way you create and manipulate sounds with the Web Audio API.
 
 ## <span id="mir">Music Information Retrieval (MIR)</span>
 
