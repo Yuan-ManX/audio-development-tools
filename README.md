@@ -152,6 +152,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [audiowaveform](https://github.com/bbc/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files.
 * [Mutagen](https://github.com/quodlibet/mutagen) - Python module for handling audio metadata.
 * [lewton](https://github.com/RustAudio/lewton) - Vorbis decoder written in pure Rust.
+* [Hound](https://github.com/ruuda/hound) - A wav encoding and decoding library in Rust.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
