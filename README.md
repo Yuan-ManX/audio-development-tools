@@ -314,6 +314,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [solfege.ai ✋ 🎹](https://github.com/instrumentbible/solfege.ai) - Detect solfege hand signs using machine learning ✋ 🎹
 * [libfmp](https://github.com/meinardmueller/libfmp) - Python package for teaching and learning Fundamentals of Music Processing (FMP).
 * [jams](https://github.com/marl/jams) - A JSON Annotated Music Specification for Reproducible MIR Research.
+* [Piano Trainer](https://github.com/ZaneH/piano-trainer) - A music practice program with MIDI support.
 
 ## <span id="mg">Music Generation (MG)</span>
 
