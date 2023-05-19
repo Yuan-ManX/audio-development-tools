@@ -159,6 +159,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [rodio](https://github.com/RustAudio/rodio) - Rust audio playback library.
 * [CPAL](https://github.com/RustAudio/cpal) - Cross-platform audio I/O library in pure Rust.
 * [CSCore](https://github.com/filoe/cscore) - CSCore is a free .NET audio library which is completely written in C#.
+* [TinyOSC](https://github.com/mhroth/tinyosc) - A minimal Open Sound Control (OSC) library written in vanilla C.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
