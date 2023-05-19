@@ -69,6 +69,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [NeuraFuzz](https://github.com/mcomunita/neurafuzz) - Neural audio plugin trained on custom analog fuzz circuit design.
 * [Ultimate Vocal Remover GUI](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
 * [Frechet Audio Distance](https://github.com/gudgud96/frechet-audio-distance) - A lightweight library for Frechet Audio Distance calculation.
+* [LAPE](https://github.com/Sreyan88/LAPE) - A unified framework for Low-resource Audio Processing and Evaluation (SSL Pre-training and Downstream Fine-tuning).
 
 ## <span id="ag">Audio Generation (AG)</span>
 
