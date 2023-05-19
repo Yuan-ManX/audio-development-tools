@@ -217,6 +217,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Kontakt-Public](https://github.com/Yaron-NI/Kontakt-Public) - Resources for Native Instruments Kontakt builders.
 * [PyLive](https://github.com/ideoforms/pylive) - Query and control Ableton Live from Python.
 * [ml-lib](https://github.com/irllabs/ml-lib) - A machine learning library for Max and Pure Data.
+* [ZenGarden](https://github.com/mhroth/ZenGarden) - ZenGarden is a stand-alone library for running Pure Data patches.
 * [Max-SDK](https://github.com/Cycling74/max-sdk) - Software Development Kit for Max by Cycling '74.
 * [pd-hvcc](https://github.com/timothyschoen/pd-hvcc) - Creating a gen~-like environment for Pd, based on the Heavy compiler.
 * [Kuroscillators](https://github.com/nolanlem/Kuroscillators) - MAX/MSP objects for audio and rhythmic synthesis using networks of coupled oscillators.
