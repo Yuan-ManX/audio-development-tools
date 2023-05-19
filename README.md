@@ -161,6 +161,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [CSCore](https://github.com/filoe/cscore) - CSCore is a free .NET audio library which is completely written in C#.
 * [TinyOSC](https://github.com/mhroth/tinyosc) - A minimal Open Sound Control (OSC) library written in vanilla C.
 * [TinyWav](https://github.com/mhroth/tinywav) - A minimal C library for reading and writing (16b-int & 32b-float) WAV audio files.
+* [JAsioHost](https://github.com/mhroth/jasiohost) - A Java-based (Audio Stream Input/Output) ASIO host.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
