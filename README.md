@@ -230,6 +230,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Edisyn](https://github.com/eclab/edisyn) - Synthesizer Patch Editor.
 * [soundgen](https://github.com/tatters/soundgen) - R package for sound synthesis and acoustic analysis.
 * [Cardinal](https://github.com/DISTRHO/Cardinal) - Virtual modular synthesizer plugin.
+* [Flutter Echo Modeling](https://github.com/gdalsanto/flutter-echo-modeling) - This repository presents a Matlab demo for the synthesis of flutter echo.
 
 ## <span id="ga">Game Audio (GA)</span>
 
