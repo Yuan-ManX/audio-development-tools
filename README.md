@@ -239,6 +239,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [LASP](https://github.com/keijiro/Lasp) - Low-latency Audio Signal Processing plugin for Unity.
 * [SoLoud](https://github.com/jarikomppa/soloud) - SoLoud is an easy to use, free, portable c/c++ audio engine for games.
 * [AudioToys](https://github.com/sgmackie/AudioToys) - DSP doodles for Unity.
+* [Dolby.io Virtual World plugin for Unity](https://github.com/DolbyIO/comms-sdk-unity) - With the Dolby.io Virtual World plugin for Unity, you can easily integrate Dolby.io Spatial Audio, powered by Dolby Atmos technology into your virtual world applications.
 
 ## <span id="daw">Digital Audio Workstation (DAW)</span>
 
