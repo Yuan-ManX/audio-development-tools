@@ -68,6 +68,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [AugLy](https://github.com/facebookresearch/AugLy) - A data augmentations library for audio, image, text, and video.
 * [NeuraFuzz](https://github.com/mcomunita/neurafuzz) - Neural audio plugin trained on custom analog fuzz circuit design.
 * [Ultimate Vocal Remover GUI](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
+* [Frechet Audio Distance](https://github.com/gudgud96/frechet-audio-distance) - A lightweight library for Frechet Audio Distance calculation.
 
 ## <span id="ag">Audio Generation (AG)</span>
 
