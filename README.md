@@ -71,6 +71,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Frechet Audio Distance](https://github.com/gudgud96/frechet-audio-distance) - A lightweight library for Frechet Audio Distance calculation.
 * [LAPE](https://github.com/Sreyan88/LAPE) - A unified framework for Low-resource Audio Processing and Evaluation (SSL Pre-training and Downstream Fine-tuning).
 * [Azure SDK for Python](https://github.com/Azure/azure-sdk-for-python) - This repository is for active development of the Azure SDK for Python.
+* [Panotti](https://github.com/drscotthawley/panotti) - A multi-channel neural network audio classifier using Keras.
 
 ## <span id="ag">Audio Generation (AG)</span>
 
