@@ -72,6 +72,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [LAPE](https://github.com/Sreyan88/LAPE) - A unified framework for Low-resource Audio Processing and Evaluation (SSL Pre-training and Downstream Fine-tuning).
 * [Azure SDK for Python](https://github.com/Azure/azure-sdk-for-python) - This repository is for active development of the Azure SDK for Python.
 * [Panotti](https://github.com/drscotthawley/panotti) - A multi-channel neural network audio classifier using Keras.
+* [Allie](https://github.com/jim-schwoebel/allie) - Allie is a framework for building machine learning models from audio, text, image, video, or .CSV files.
 
 ## <span id="ag">Audio Generation (AG)</span>
 
