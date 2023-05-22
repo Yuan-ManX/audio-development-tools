@@ -409,6 +409,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [FunASR](https://github.com/alibaba-damo-academy/FunASR) - FunASR: A Fundamental End-to-End Speech Recognition Toolkit.
 * [Squeezeformer](https://github.com/upskyy/Squeezeformer) - An Efficient Transformer for Automatic Speech Recognition.
 * [dejavu](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition in Python.
+* [Vosk Speech Recognition Toolkit](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node.
 
 ## <span id="tts">Speech Synthesis (TTS)</span>
 
