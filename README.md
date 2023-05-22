@@ -220,6 +220,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [py-js](https://github.com/shakfu/py-js) - Python3 externals for Max / MSP.
 * [pd-lua](https://github.com/agraef/pd-lua) - Lua bindings for Pd, updated for Lua 5.3+.
 * [Live 4 Life](https://github.com/Xon77/Live4Life) - A spatial performance tool for SuperCollider.
+* [CaesarLooper](https://github.com/X2theL/CaesarLooper) - CaesarLooper is a SuperCollider clone of the Augustus Loop VST plugin by Expert Sleepers.
 * [Dexed](https://github.com/asb2m10/dexed) - DX7 FM multi plaform/multi format plugin.
 * [Leapmotion For Max](https://github.com/JulesFrancoise/leapmotion-for-max) - Leapmotion external for Cycling'74 Max.
 * [Kontakt-Public](https://github.com/Yaron-NI/Kontakt-Public) - Resources for Native Instruments Kontakt builders.
