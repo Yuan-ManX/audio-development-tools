@@ -282,6 +282,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [libBasicSOFA](https://github.com/superkittens/libBasicSOFA) - A very basic library for reading Spatially Oriented Format for Acoustics (SOFA) files, a format for storing HRTFs and/or BRIRs for binuaral audio reproduction.
 * [Mesh2HRTF](https://github.com/Any2HRTF/Mesh2HRTF) - Open software for the numerical calculation of head-related transfer functions.
 * [OpenAL Soft](https://github.com/kcat/openal-soft) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
+* [soundscape_IR](https://github.com/meil-brcas-org/soundscape_IR) - soundscape_IR is a python-based toolbox of soundscape information retrieval, aiming to assist in the analysis of soundscape recordings. 
 
 ## <span id="wap">Web Audio Processing (WAP)</span>
 
