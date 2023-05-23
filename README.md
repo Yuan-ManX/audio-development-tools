@@ -352,6 +352,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [libfmp](https://github.com/meinardmueller/libfmp) - Python package for teaching and learning Fundamentals of Music Processing (FMP).
 * [jams](https://github.com/marl/jams) - A JSON Annotated Music Specification for Reproducible MIR Research.
 * [Piano Trainer](https://github.com/ZaneH/piano-trainer) - A music practice program with MIDI support.
+* [quickly](https://github.com/frescobaldi/quickly) - A LilyPond library for python (slated to become the successor of python-ly).
 
 ## <span id="mg">Music Generation (MG)</span>
 
