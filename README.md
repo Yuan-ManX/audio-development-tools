@@ -76,6 +76,7 @@ This is a list of sound, audio and music development tools which contains machin
 
 ## <span id="ag">Audio Generation (AG)</span>
 
+* [SpeechGPT](https://github.com/0nutation/SpeechGPT) - SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities. 
 * [CLAPSpeech](https://clapspeech.github.io/) - CLAPSpeech: Learning Prosody from Text Context with Contrastive Language-Audio Pre-Training. 
 * [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head. 
 * [Bark](https://github.com/suno-ai/bark) - Bark is a transformer-based text-to-audio model created by Suno. Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects. 
