@@ -90,7 +90,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Oobleck](https://github.com/Harmonai-org/oobleck) - open soundstream-ish VAE codecs for downstream neural audio synthesis.
 * [USS](https://github.com/bytedance/uss) - This is the PyTorch implementation of the Universal Source Separation with Weakly labelled Data. The USS system can automatically detect and separate sound classes from a real recording. The USS system can separate up to hundreds of sound classes sound classes in a hierarchical ontology structure. 
 * [Diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers is the go-to library for state-of-the-art pretrained diffusion models for generating images, audio, and even 3D structures of molecules.
-* [Engine Simulator](https://github.com/ange-yaghi/engine-sim) - Combustion engine simulator that generates realistic audio.
+* [ONE-PEACE](https://github.com/OFA-Sys/ONE-PEACE) - A general representation modal across vision, audio, language modalities.
 
 ## <span id="asp">Audio Signal Processing (ASP)</span>
 
@@ -249,6 +249,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [AudioToys](https://github.com/sgmackie/AudioToys) - DSP doodles for Unity.
 * [Dolby.io Virtual World plugin for Unity](https://github.com/DolbyIO/comms-sdk-unity) - With the Dolby.io Virtual World plugin for Unity, you can easily integrate Dolby.io Spatial Audio, powered by Dolby Atmos technology into your virtual world applications.
 * [Dolby.io Virtual Worlds plugin for Unreal Engine](https://github.com/DolbyIO/comms-sdk-unreal) - With the Dolby.io Virtual Worlds plugin for Unreal Engine, you can easily integrate Dolby.io Spatial Audio, powered by Dolby Atmos technology into your virtual world applications.
+* [Engine Simulator](https://github.com/ange-yaghi/engine-sim) - Combustion engine simulator that generates realistic audio.
 
 ## <span id="daw">Digital Audio Workstation (DAW)</span>
 
