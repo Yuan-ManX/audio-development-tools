@@ -238,6 +238,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Cardinal](https://github.com/DISTRHO/Cardinal) - Virtual modular synthesizer plugin.
 * [Flutter Echo Modeling](https://github.com/gdalsanto/flutter-echo-modeling) - This repository presents a Matlab demo for the synthesis of flutter echo.
 * [OOPS](https://github.com/mulshine/OOPS) - OOPS is now LEAF! A C library for Audio synthesis and processing, intended for embedded applications, written using semi-OOP style.
+* [Sonic Pi Tool](https://github.com/emlyn/sonic-pi-tool) - 🎻 Controlling Sonic Pi from the command line, in Python.
 
 ## <span id="ga">Game Audio (GA)</span>
 
