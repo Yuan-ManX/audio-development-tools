@@ -76,6 +76,7 @@ This is a list of sound, audio and music development tools which contains machin
 
 ## <span id="ag">Audio Generation (AG)</span>
 
+* [CLAPSpeech](https://clapspeech.github.io/) - CLAPSpeech: Learning Prosody from Text Context with Contrastive Language-Audio Pre-Training. 
 * [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head. 
 * [Bark](https://github.com/suno-ai/bark) - Bark is a transformer-based text-to-audio model created by Suno. Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects. 
 * [TANGO](https://github.com/declare-lab/tango) - TANGO is a latent diffusion model (LDM) for text-to-audio (TTA) generation. TANGO can generate realistic audios including human sounds, animal sounds, natural and artificial sounds and sound effects from textual prompts.  
