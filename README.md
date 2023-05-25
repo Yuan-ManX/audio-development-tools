@@ -78,6 +78,7 @@ This is a list of sound, audio and music development tools which contains machin
 ## <span id="ag">Audio Generation (AG)</span>
 
 * [vschaos2](https://github.com/acids-ircam/vschaos2) - vschaos2: vintage neural audio synthesis. 
+* [Neural Resonator](https://github.com/rodrigodzf/neuralresonator) - Rigid-Body Sound Synthesis with Differentiable Modal Resonators.
 * [SoundStorm](https://google-research.github.io/seanet/soundstorm/examples/) - SoundStorm: Efficient Parallel Audio Generation.
 * [SpeechGPT](https://github.com/0nutation/SpeechGPT) - SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities.
 * [CLAPSpeech](https://clapspeech.github.io/) - CLAPSpeech: Learning Prosody from Text Context with Contrastive Language-Audio Pre-Training. 
