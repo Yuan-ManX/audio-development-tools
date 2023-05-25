@@ -428,6 +428,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [dejavu](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition in Python.
 * [Vosk Speech Recognition Toolkit](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node.
 * [OpenAV](https://github.com/DmitryRyumin/OpenAV) - An open-source library for recognition of speech commands in the user dictionary using audiovisual data of the speaker.
+* [MiniASR](https://github.com/vectominist/MiniASR) - A mini, simple, and fast end-to-end automatic speech recognition toolkit.
 
 ## <span id="tts">Speech Synthesis (TTS)</span>
 
