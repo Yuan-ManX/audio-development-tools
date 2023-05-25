@@ -73,6 +73,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Azure SDK for Python](https://github.com/Azure/azure-sdk-for-python) - This repository is for active development of the Azure SDK for Python.
 * [Panotti](https://github.com/drscotthawley/panotti) - A multi-channel neural network audio classifier using Keras.
 * [Allie](https://github.com/jim-schwoebel/allie) - Allie is a framework for building machine learning models from audio, text, image, video, or .CSV files.
+* [Torchplugins](https://github.com/rodrigodzf/torchplugins) - Max/MSP, PureData and Unity plugins to load Pytorch models.
 
 ## <span id="ag">Audio Generation (AG)</span>
 
