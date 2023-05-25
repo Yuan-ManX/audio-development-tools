@@ -400,6 +400,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [AI-Pokemon-Music](https://github.com/nickd16/AI-Pokemon-Music) - Using AI (Transformers) to make original/ recreate Pokémon music.
 * [WalkingBass](https://github.com/philxan/WalkingBass) - A MuseScore 3 plugin that generates a walking bass line.
 * [DeBussy](https://github.com/asigalov61/DeBussy) - Solo Piano Music AI Implementation.
+* [Writing music with ChatGPT](https://github.com/olaviinha/MusicWithChatGPT) - Tips and tools for writing music with the aid of ChatGPT.
 
 ## <span id="asr">Speech Recognition (ASR)</span>
 
