@@ -248,6 +248,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [sonicpi.vim](https://github.com/dermusikman/sonicpi.vim) - Sonic Pi plugin for Vim.
 * [Controlled-Chaos](https://github.com/JLenzy/Controlled-Chaos) - Max4Live Euclidian Rhythm Generator.
 * [KPStrong](https://github.com/JLenzy/KPStrong) - This is an implementation of a strummed Karplus-Strong synth, which runs as C++ in real-time on the Bela hardware.
+* [nn_tilde](https://github.com/acids-ircam/nn_tilde) - A max / Pd external for real-time ai audio processing.
 
 ## <span id="ga">Game Audio (GA)</span>
 
