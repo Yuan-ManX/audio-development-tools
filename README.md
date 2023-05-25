@@ -254,6 +254,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Dolby.io Virtual World plugin for Unity](https://github.com/DolbyIO/comms-sdk-unity) - With the Dolby.io Virtual World plugin for Unity, you can easily integrate Dolby.io Spatial Audio, powered by Dolby Atmos technology into your virtual world applications.
 * [Dolby.io Virtual Worlds plugin for Unreal Engine](https://github.com/DolbyIO/comms-sdk-unreal) - With the Dolby.io Virtual Worlds plugin for Unreal Engine, you can easily integrate Dolby.io Spatial Audio, powered by Dolby Atmos technology into your virtual world applications.
 * [Engine Simulator](https://github.com/ange-yaghi/engine-sim) - Combustion engine simulator that generates realistic audio.
+* [Jack Audio For Unity](https://github.com/rodrigodzf/Jack-Audio-For-Unity) - This library/plugin enables multichannel audio routing between Unity3D and JackAudio.
 
 ## <span id="daw">Digital Audio Workstation (DAW)</span>
 
