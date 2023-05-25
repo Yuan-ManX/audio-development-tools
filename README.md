@@ -366,6 +366,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [jams](https://github.com/marl/jams) - A JSON Annotated Music Specification for Reproducible MIR Research.
 * [Piano Trainer](https://github.com/ZaneH/piano-trainer) - A music practice program with MIDI support.
 * [quickly](https://github.com/frescobaldi/quickly) - A LilyPond library for python (slated to become the successor of python-ly).
+* [ChordSymbol](https://github.com/no-chris/chord-symbol) - The definitive chord symbol parser and renderer for Javascript/NodeJS.
 
 ## <span id="mg">Music Generation (MG)</span>
 
