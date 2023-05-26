@@ -453,6 +453,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [libvits-ncnn](https://github.com/Sg4Dylan/libvits-ncnn) - libvits-ncnn is an ncnn implementation of the VITS library that enables cross-platform GPU-accelerated speech synthesis.🎙️💻
 * [SAM](https://github.com/s-macke/SAM) - Software Automatic Mouth - Tiny Speech Synthesizer. Sam is a very small Text-To-Speech (TTS) program written in C, that runs on most popular platforms. 
 * [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) - 🦜 Simple and powerful voice changer for Linux, written in GTK 3.
+* [Euterpe](https://github.com/tachi-hi/euterpe) - Real-time Audio-to-audio Karaoke Generation System for Monaural Music.
 
 ## <span id="svs">Singing Voice Synthesis (SVS)</span>
 
