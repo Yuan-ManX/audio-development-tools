@@ -174,6 +174,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [TinyWav](https://github.com/mhroth/tinywav) - A minimal C library for reading and writing (16b-int & 32b-float) WAV audio files.
 * [JAsioHost](https://github.com/mhroth/jasiohost) - A Java-based (Audio Stream Input/Output) ASIO host.
 * [PyWavelets](https://github.com/PyWavelets/pywt) - PyWavelets is a free Open Source library for wavelet transforms in Python. Wavelets are mathematical basis functions that are localized in both time and frequency.
+* [ChowMultiTool](https://github.com/Chowdhury-DSP/ChowMultiTool) - Multi-Tool Audio Plugin.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
