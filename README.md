@@ -455,6 +455,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [SAM](https://github.com/s-macke/SAM) - Software Automatic Mouth - Tiny Speech Synthesizer. Sam is a very small Text-To-Speech (TTS) program written in C, that runs on most popular platforms. 
 * [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) - 🦜 Simple and powerful voice changer for Linux, written in GTK 3.
 * [Euterpe](https://github.com/tachi-hi/euterpe) - Real-time Audio-to-audio Karaoke Generation System for Monaural Music.
+* [YourTTS](https://github.com/Edresson/YourTTS) - Towards Zero-Shot Multi-Speaker TTS and Zero-Shot Voice Conversion for everyone.
 
 ## <span id="svs">Singing Voice Synthesis (SVS)</span>
 
