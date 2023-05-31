@@ -253,6 +253,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [nn_tilde](https://github.com/acids-ircam/nn_tilde) - A max / Pd external for real-time ai audio processing.
 * [gRainbow](https://github.com/bboettcher3/gRainbow) - A synthesizer that uses pitch detection to choose candidates for granular synthesis or sampling.
 * [SignalFlow](https://github.com/ideoforms/signalflow) - A sound synthesis framework for Python, designed for clear and concise expression of complex musical ideas.
+* [Syntheon](https://github.com/gudgud96/syntheon) - Parameter inference of music synthesizers to simplify sound design process. Supports Vital and Dexed.
 
 ## <span id="ga">Game Audio (GA)</span>
 
