@@ -60,6 +60,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [SSSSM-DDSP](https://github.com/hyakuchiki/SSSSM-DDSP) - Semi-supervised Synthesizer Sound Matching with Differentiable DSP.
 * [audacitorch](https://github.com/audacitorch/audacitorch) - PyTorch wrappers for using your model in audacity!
 * [Scyclone](https://github.com/Torsion-Audio/Scyclone) - Scyclone is an audio plugin that utilizes neural timbre transfer technology to offer a new approach to audio production. 
+* [Scyclone AI](https://github.com/Torsion-Audio/Scyclone-AI) - Create presets for Scyclone: a Real-time Neural Timbre Transfer Plug-in.
 * [Multi Task Automatic-Synthesizer-Programming](https://github.com/dafaronbi/Multi-Task-Automatic-Synthesizer-Programming) - This is the code for the multi VST automatic synthesizer programming project.  
 * [NeuralNote](https://github.com/DamRsn/NeuralNote) - Audio Plugin for Audio to MIDI transcription using deep learning.  
 * [AudioDec](https://github.com/facebookresearch/AudioDec) - An Open-source Streaming High-fidelity Neural Audio Codec. 
