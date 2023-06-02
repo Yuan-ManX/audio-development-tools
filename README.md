@@ -292,6 +292,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [LV2](https://github.com/lv2/lv2) - LV2 is a plugin standard for audio systems. It defines an extensible C API for plugins, and a format for self-contained "bundle" directories that contain plugins, metadata, and other resources.
 * [Ardour](https://github.com/Ardour/ardour) - Record, Edit, and Mix on Linux, macOS and Windows.
 * [LMMS](https://github.com/LMMS/lmms) - LMMS is a free cross-platform alternative to commercial programs like FL Studio®, which allow you to produce music with your computer. This includes the creation of melodies and beats, the synthesis and mixing of sounds, and arranging of samples. 
+* [Qtractor](https://github.com/rncbc/qtractor) - Qtractor is an Audio/MIDI multi-track sequencer application written in C++ with the Qt framework. Target platform is Linux, where the Jack Audio Connection Kit (JACK) for audio, and the Advanced Linux Sound Architecture (ALSA) for MIDI, are the main infrastructures to evolve as a fairly-featured Linux desktop audio workstation GUI, specially dedicated to the personal home-studio. 
 
 ## <span id="sa">Spatial Audio (SA)</span>
 
