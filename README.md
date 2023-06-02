@@ -290,6 +290,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
 * [Hybrid-DJ-Set](https://github.com/MikeMorenoDSP/Hybrid-DJ-Set) - Synchronize DJ software (Mixxx) with Pure Data for layering virtual instruments in a live performance.
 * [LV2](https://github.com/lv2/lv2) - LV2 is a plugin standard for audio systems. It defines an extensible C API for plugins, and a format for self-contained "bundle" directories that contain plugins, metadata, and other resources.
+* [Ardour](https://github.com/Ardour/ardour) - Record, Edit, and Mix on Linux, macOS and Windows.
 
 ## <span id="sa">Spatial Audio (SA)</span>
 
