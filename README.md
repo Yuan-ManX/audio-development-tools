@@ -291,6 +291,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Hybrid-DJ-Set](https://github.com/MikeMorenoDSP/Hybrid-DJ-Set) - Synchronize DJ software (Mixxx) with Pure Data for layering virtual instruments in a live performance.
 * [LV2](https://github.com/lv2/lv2) - LV2 is a plugin standard for audio systems. It defines an extensible C API for plugins, and a format for self-contained "bundle" directories that contain plugins, metadata, and other resources.
 * [Ardour](https://github.com/Ardour/ardour) - Record, Edit, and Mix on Linux, macOS and Windows.
+* [LMMS](https://github.com/LMMS/lmms) - LMMS is a free cross-platform alternative to commercial programs like FL Studio®, which allow you to produce music with your computer. This includes the creation of melodies and beats, the synthesis and mixing of sounds, and arranging of samples. 
 
 ## <span id="sa">Spatial Audio (SA)</span>
 
