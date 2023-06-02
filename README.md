@@ -279,6 +279,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [voodoohop-ableton-tools](https://github.com/voodoohop/voodoohop-ableton-tools) - Ableton Live Harmony and Tempo Tools. Augments Ableton Live with an intuitive visualization of musical harmony as well as allowing a track’s tempo dynamics to control the master tempo in real-time. 
 * [PyFLP](https://github.com/demberto/PyFLP) - FL Studio project file parser.
 * [vst3sdk](https://github.com/steinbergmedia/vst3sdk) - VST 3 Plug-In SDK.
+* [TuneFlow](https://github.com/tuneflow/tuneflow) - 🧠+🎧 Build your music algorithms and AI models with the next-gen DAW 🔥
 * [Radium](https://github.com/kmatheussen/radium) - A graphical music editor. A next generation tracker.
 * [Bass Studio](https://github.com/nidefawl/bass-studio) - Bass Studio is a Digital Audio Workstation (DAW) written in C++. Windows, MacOS and Linux builds are provided. Both VST2 and CLAP plugin format are supported.
 * [GridSound](https://github.com/gridsound/daw) - GridSound is a work-in-progress open-source digital audio workstation developed with HTML5 and more precisely with the new Web Audio API. 
