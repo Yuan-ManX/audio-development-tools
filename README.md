@@ -179,6 +179,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [RE201models](https://github.com/je3928/RE201models) - Digital models of the Roland RE201. VST3, AU plugins and source code.
 * [RtAudio](https://github.com/thestk/rtaudio) - A set of C++ classes that provide a common API for realtime audio input/output across Linux (native ALSA, JACK, PulseAudio and OSS), Macintosh OS X (CoreAudio and JACK), and Windows (DirectSound, ASIO, and WASAPI) operating systems.
 * [RtAudio-rs](https://github.com/BillyDM/rtaudio-rs) - Safe Rust wrapper and bindings to RtAudio.
+* [PFFFT](https://github.com/marton78/pffft) - A pretty fast FFT and fast convolution with PFFASTCONV.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
