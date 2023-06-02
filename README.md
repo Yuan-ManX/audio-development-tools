@@ -283,6 +283,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [GridSound](https://github.com/gridsound/daw) - GridSound is a work-in-progress open-source digital audio workstation developed with HTML5 and more precisely with the new Web Audio API. 
 * [Meadowlark](https://github.com/MeadowlarkDAW/Meadowlark) - Meadowlark is a (work in progress) FREE and open-source DAW (Digital Audio Workstation) for Linux, Mac and Windows. It aims to be a powerful recording, composing, editing, sound designing, mixing, and mastering tool for artists around the world, while also being intuitive and customizable.
 * [Mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
+* [Hybrid-DJ-Set](https://github.com/MikeMorenoDSP/Hybrid-DJ-Set) - Synchronize DJ software (Mixxx) with Pure Data for layering virtual instruments in a live performance.
 * [LV2](https://github.com/lv2/lv2) - LV2 is a plugin standard for audio systems. It defines an extensible C API for plugins, and a format for self-contained "bundle" directories that contain plugins, metadata, and other resources.
 
 ## <span id="sa">Spatial Audio (SA)</span>
