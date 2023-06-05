@@ -454,6 +454,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [OpenAV](https://github.com/DmitryRyumin/OpenAV) - An open-source library for recognition of speech commands in the user dictionary using audiovisual data of the speaker.
 * [MiniASR](https://github.com/vectominist/MiniASR) - A mini, simple, and fast end-to-end automatic speech recognition toolkit.
 * [UniSpeech](https://github.com/microsoft/UniSpeech) - UniSpeech - Large Scale Self-Supervised Learning for Speech.
+* [paasr](https://github.com/rafaelvalle/paasr) - Privacy Aware Automatic Speech Recognition.
 
 ## <span id="tts">Speech Synthesis (TTS)</span>
 
