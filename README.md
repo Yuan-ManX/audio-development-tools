@@ -480,6 +480,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [YourTTS](https://github.com/Edresson/YourTTS) - Towards Zero-Shot Multi-Speaker TTS and Zero-Shot Voice Conversion for everyone.
 * [ElevenLabs](https://github.com/elevenlabs/elevenlabs-python) - The official Python API for ElevenLabs text-to-speech software. Eleven brings the most compelling, rich and lifelike voices to creators and developers in just a few lines of code.
 * [Barkify](https://github.com/anyvoiceai/Barkify) - Barkify: an unoffical training implementation of Bark TTS by suno-ai.
+* [WeTTS](https://github.com/wenet-e2e/wetts) - Production First and Production Ready End-to-End Text-to-Speech Toolkit.
 
 ## <span id="svs">Singing Voice Synthesis (SVS)</span>
 
