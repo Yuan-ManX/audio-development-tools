@@ -183,6 +183,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [RtAudio-rs](https://github.com/BillyDM/rtaudio-rs) - Safe Rust wrapper and bindings to RtAudio.
 * [PFFFT](https://github.com/marton78/pffft) - A pretty fast FFT and fast convolution with PFFASTCONV.
 * [SHAART](https://github.com/drscotthawley/SHAART) - SHAART is a Python-based audio analysis toolkit, for educational purposes.
+* [TD-JUCE](https://github.com/DBraun/TD-JUCE) - JUCE audio and VSTs in TouchDesigner.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
