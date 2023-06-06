@@ -76,6 +76,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Allie](https://github.com/jim-schwoebel/allie) - Allie is a framework for building machine learning models from audio, text, image, video, or .CSV files.
 * [Torchplugins](https://github.com/rodrigodzf/torchplugins) - Max/MSP, PureData and Unity plugins to load Pytorch models.
 * [aeiou](https://github.com/drscotthawley/aeiou) - (ML) audio engineering i/o utils.
+* [BirdNET-Analyzer](https://github.com/kahst/BirdNET-Analyzer) - BirdNET analyzer for scientific audio data processing.
 
 ## <span id="ag">Audio Generation (AG)</span>
 
