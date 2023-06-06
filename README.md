@@ -184,6 +184,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [PFFFT](https://github.com/marton78/pffft) - A pretty fast FFT and fast convolution with PFFASTCONV.
 * [SHAART](https://github.com/drscotthawley/SHAART) - SHAART is a Python-based audio analysis toolkit, for educational purposes.
 * [TD-JUCE](https://github.com/DBraun/TD-JUCE) - JUCE audio and VSTs in TouchDesigner.
+* [JIVE](https://github.com/ImJimmi/JIVE) - JIVE is a bundle of JUCE modules centered around the desire to have a more modern approach to UI development.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
