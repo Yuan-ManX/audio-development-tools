@@ -485,6 +485,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [ElevenLabs](https://github.com/elevenlabs/elevenlabs-python) - The official Python API for ElevenLabs text-to-speech software. Eleven brings the most compelling, rich and lifelike voices to creators and developers in just a few lines of code.
 * [Barkify](https://github.com/anyvoiceai/Barkify) - Barkify: an unoffical training implementation of Bark TTS by suno-ai.
 * [WeTTS](https://github.com/wenet-e2e/wetts) - Production First and Production Ready End-to-End Text-to-Speech Toolkit.
+* [Piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system that sounds great and is optimized for the Raspberry Pi 4.
 
 ## <span id="svs">Singing Voice Synthesis (SVS)</span>
 
