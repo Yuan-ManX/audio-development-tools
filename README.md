@@ -458,6 +458,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [MiniASR](https://github.com/vectominist/MiniASR) - A mini, simple, and fast end-to-end automatic speech recognition toolkit.
 * [UniSpeech](https://github.com/microsoft/UniSpeech) - UniSpeech - Large Scale Self-Supervised Learning for Speech.
 * [paasr](https://github.com/rafaelvalle/paasr) - Privacy Aware Automatic Speech Recognition.
+* [whisper-timestamped](https://github.com/linto-ai/whisper-timestamped) - Multilingual Automatic Speech Recognition with word-level timestamps and confidence.
 
 ## <span id="tts">Speech Synthesis (TTS)</span>
 
