@@ -187,6 +187,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [TD-JUCE](https://github.com/DBraun/TD-JUCE) - JUCE audio and VSTs in TouchDesigner.
 * [JIVE](https://github.com/ImJimmi/JIVE) - JIVE is a bundle of JUCE modules centered around the desire to have a more modern approach to UI development.
 * [Amplituda](https://github.com/lincollincol/Amplituda) - Amplituda - an android library based on FFMPEG which process audio file and provide an array of samples.
+* [TagLib](https://github.com/taglib/taglib) - TagLib Audio Meta-Data Library.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
