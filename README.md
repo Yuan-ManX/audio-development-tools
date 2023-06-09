@@ -80,6 +80,7 @@ This is a list of sound, audio and music development tools which contains machin
 
 ## <span id="ag">Audio Generation (AG)</span>
 
+* [Audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a PyTorch library for deep learning research on audio generation. 
 * [vschaos2](https://github.com/acids-ircam/vschaos2) - vschaos2: vintage neural audio synthesis. 
 * [Neural Resonator](https://github.com/rodrigodzf/neuralresonator) - Rigid-Body Sound Synthesis with Differentiable Modal Resonators.
 * [SoundStorm](https://google-research.github.io/seanet/soundstorm/examples/) - SoundStorm: Efficient Parallel Audio Generation.
