@@ -395,6 +395,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Piano Trainer](https://github.com/ZaneH/piano-trainer) - A music practice program with MIDI support.
 * [quickly](https://github.com/frescobaldi/quickly) - A LilyPond library for python (slated to become the successor of python-ly).
 * [ChordSymbol](https://github.com/no-chris/chord-symbol) - The definitive chord symbol parser and renderer for Javascript/NodeJS.
+* [Midi Miner](https://github.com/ruiguo-bio/midi-miner) - Python MIDI track classifier and tonal tension calculation based on spiral array theory.
 
 ## <span id="mg">Music Generation (MG)</span>
 
