@@ -365,6 +365,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Pizzicato](https://github.com/alemangui/pizzicato) - Library to simplify the way you create and manipulate sounds with the Web Audio API.
 * [Pitch detection](https://github.com/cwilso/PitchDetect) - Pitch detection in Web Audio using autocorrelation.
 * [SAT](https://github.com/RicherMans/SAT) - Streaming Audiotransformers for online Audio tagging.
+* [WebAudioXML](https://github.com/hanslindetorp/WebAudioXML) - An XML syntax for building Web Audio API applications.
 
 ## <span id="mir">Music Information Retrieval (MIR)</span>
 
