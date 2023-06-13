@@ -191,6 +191,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [TagLib](https://github.com/taglib/taglib) - TagLib Audio Meta-Data Library.
 * [speexdsp](https://github.com/xiongyihui/speexdsp-python) - Speex Echo Canceller Python Library.
 * [PyPam](https://github.com/lifewatch/pypam) - Python Passive Acoustic Analysis tool for Passive Acoustic Monitoring (PAM).
+* [AudioTools](https://github.com/descriptinc/audiotools) - Object-oriented handling of audio data, with GPU-powered augmentations, and more.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
