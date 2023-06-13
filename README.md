@@ -190,6 +190,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Amplituda](https://github.com/lincollincol/Amplituda) - Amplituda - an android library based on FFMPEG which process audio file and provide an array of samples.
 * [TagLib](https://github.com/taglib/taglib) - TagLib Audio Meta-Data Library.
 * [speexdsp](https://github.com/xiongyihui/speexdsp-python) - Speex Echo Canceller Python Library.
+* [PyPam](https://github.com/lifewatch/pypam) - Python Passive Acoustic Analysis tool for Passive Acoustic Monitoring (PAM).
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
