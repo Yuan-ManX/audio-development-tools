@@ -101,6 +101,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [USS](https://github.com/bytedance/uss) - This is the PyTorch implementation of the Universal Source Separation with Weakly labelled Data. The USS system can automatically detect and separate sound classes from a real recording. The USS system can separate up to hundreds of sound classes sound classes in a hierarchical ontology structure. 
 * [Diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers is the go-to library for state-of-the-art pretrained diffusion models for generating images, audio, and even 3D structures of molecules.
 * [ONE-PEACE](https://github.com/OFA-Sys/ONE-PEACE) - A general representation modal across vision, audio, language modalities.
+* [tiny-audio-diffusion](https://github.com/crlandsc/tiny-audio-diffusion) - This is a repository for generating short audio samples and training waveform diffusion models on a GPU with less than 2GB VRAM.
 
 ## <span id="asp">Audio Signal Processing (ASP)</span>
 
