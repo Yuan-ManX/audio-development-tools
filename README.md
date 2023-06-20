@@ -193,6 +193,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [speexdsp](https://github.com/xiongyihui/speexdsp-python) - Speex Echo Canceller Python Library.
 * [PyPam](https://github.com/lifewatch/pypam) - Python Passive Acoustic Analysis tool for Passive Acoustic Monitoring (PAM).
 * [AudioTools](https://github.com/descriptinc/audiotools) - Object-oriented handling of audio data, with GPU-powered augmentations, and more.
+* [Equalize It](https://github.com/SmEgDm/equalize_it) - The project is VST-plugin for equalization. The user interface includes a spectrum analyzer, a filter control panel, frequency response curves, and level meters.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
