@@ -404,6 +404,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [quickly](https://github.com/frescobaldi/quickly) - A LilyPond library for python (slated to become the successor of python-ly).
 * [ChordSymbol](https://github.com/no-chris/chord-symbol) - The definitive chord symbol parser and renderer for Javascript/NodeJS.
 * [Midi Miner](https://github.com/ruiguo-bio/midi-miner) - Python MIDI track classifier and tonal tension calculation based on spiral array theory.
+* [Windows MIDI Services](https://github.com/microsoft/MIDI) - This project is the next-generation MIDI API for Windows, including MIDI 1.0, MIDI CI, and MIDI 2.0. It includes enhancements, a new USB class driver, new transports, and a suite of essential tools. 
 
 ## <span id="mg">Music Generation (MG)</span>
 
