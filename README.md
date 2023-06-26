@@ -500,6 +500,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [WeTTS](https://github.com/wenet-e2e/wetts) - Production First and Production Ready End-to-End Text-to-Speech Toolkit.
 * [Piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system that sounds great and is optimized for the Raspberry Pi 4.
 * [Voicebox](https://github.com/SpeechifyInc/Meta-voicebox) - The first generative AI model for speech to generalize across tasks with state-of-the-art performance.
+* [Fish Diffusion](https://github.com/fishaudio/fish-diffusion) - An easy to understand TTS / SVS / SVC framework.
 
 ## <span id="svs">Singing Voice Synthesis (SVS)</span>
 
