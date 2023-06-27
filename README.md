@@ -277,7 +277,8 @@ This is a list of sound, audio and music development tools which contains machin
 
 ## <span id="ga">Game Audio (GA)</span>
 
-* [Chunity](https://github.com/ccrma/chunity) - ChucK in Unity. Plugin for using ChucK in Unity. Available on the Unity Asset Store. 
+* [Chunity](https://github.com/ccrma/chunity) - ChucK in Unity. Plugin for using ChucK in Unity. Available on the Unity Asset Store.
+* [Raveler](https://github.com/usdivad/Raveler) - Wwise plugin that runs RAVE models, enabling real-time timbre transfer via neural audio synthesis in a game audio setting.
 * [LASP](https://github.com/keijiro/Lasp) - Low-latency Audio Signal Processing plugin for Unity.
 * [SoLoud](https://github.com/jarikomppa/soloud) - SoLoud is an easy to use, free, portable c/c++ audio engine for games.
 * [AudioToys](https://github.com/sgmackie/AudioToys) - DSP doodles for Unity.
