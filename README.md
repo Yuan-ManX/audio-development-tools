@@ -444,7 +444,8 @@ This is a list of sound, audio and music development tools which contains machin
 * [WalkingBass](https://github.com/philxan/WalkingBass) - A MuseScore 3 plugin that generates a walking bass line.
 * [DeBussy](https://github.com/asigalov61/DeBussy) - Solo Piano Music AI Implementation.
 * [Writing music with ChatGPT](https://github.com/olaviinha/MusicWithChatGPT) - Tips and tools for writing music with the aid of ChatGPT.
-* [Somax 2](https://github.com/DYCI2/Somax2) - Somax 2 is an application for musical improvisation and composition. 
+* [Somax 2](https://github.com/DYCI2/Somax2) - Somax 2 is an application for musical improvisation and composition.
+* [Polyrhythmix](https://github.com/dredozubov/polyrhythmix) - Polyrhythmix (Poly) is a command-line assistant designed to generate MIDI files from the description of drum parts. 
 
 ## <span id="asr">Speech Recognition (ASR)</span>
 
