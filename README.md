@@ -198,6 +198,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Equalize It](https://github.com/SmEgDm/equalize_it) - The project is VST-plugin for equalization. The user interface includes a spectrum analyzer, a filter control panel, frequency response curves, and level meters.
 * [JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux) - An audio effect processor for PipeWire and PulseAudio clients.
 * [FIRconv](https://github.com/davircarvalho/FIRconv) - Python implementations of Finite Impulse Response (FIR) filters.
+* [OpenDSP](https://github.com/midilab/opendsp) - Headless Linux embedded realtime OS for audio and video DSP.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
