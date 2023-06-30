@@ -411,7 +411,8 @@ This is a list of sound, audio and music development tools which contains machin
 * [ChordSymbol](https://github.com/no-chris/chord-symbol) - The definitive chord symbol parser and renderer for Javascript/NodeJS.
 * [Midi Miner](https://github.com/ruiguo-bio/midi-miner) - Python MIDI track classifier and tonal tension calculation based on spiral array theory.
 * [Windows MIDI Services](https://github.com/microsoft/MIDI) - This project is the next-generation MIDI API for Windows, including MIDI 1.0, MIDI CI, and MIDI 2.0. It includes enhancements, a new USB class driver, new transports, and a suite of essential tools.
-* [Parangonar](https://github.com/sildater/parangonar) - Parangonar is a Python package for note alignment of symbolic music. 
+* [Parangonar](https://github.com/sildater/parangonar) - Parangonar is a Python package for note alignment of symbolic music.
+* [musicparser](https://github.com/fosfrancesco/musicparser) - Deep learning based dependency parsing for music sequences.
 
 ## <span id="mg">Music Generation (MG)</span>
 
