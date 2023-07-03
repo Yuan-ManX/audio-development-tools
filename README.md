@@ -278,6 +278,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [SignalFlow](https://github.com/ideoforms/signalflow) - A sound synthesis framework for Python, designed for clear and concise expression of complex musical ideas.
 * [Syntheon](https://github.com/gudgud96/syntheon) - Parameter inference of music synthesizers to simplify sound design process. Supports Vital and Dexed.
 * [RnboJuceTemplate](https://github.com/mikegazzaruso/RnboJuceTemplate) - A JUCE Template including a minimal synthesizer created with MaxMSP's rnbo~, that encapsulates rnboObject's state into JUCE's AudioProcessor using modern AudioProcessorTreeValueState fashion.
+* [FluidSynth.clap](https://github.com/cannerycoders/fluidsynth.clap) - A clap-plugin bridge to fluidsynth.
 
 ## <span id="ga">Game Audio (GA)</span>
 
