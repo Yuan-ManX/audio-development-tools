@@ -79,6 +79,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [aeiou](https://github.com/drscotthawley/aeiou) - (ML) audio engineering i/o utils.
 * [BirdNET-Analyzer](https://github.com/kahst/BirdNET-Analyzer) - BirdNET analyzer for scientific audio data processing.
 * [spring-reverb-dl-models](https://github.com/francescopapaleo/spring-reverb-dl-models) - Virtual Analog Modelling of the Spring Reverb with Deep Learning.
+* [EVAR ~](https://github.com/nttcslab/eval-audio-repr) - EVAR ~ Evaluation package for Audio Representations.
 
 ## <span id="ag">Audio Generation (AG)</span>
 
