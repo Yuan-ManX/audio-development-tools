@@ -202,6 +202,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux) - An audio effect processor for PipeWire and PulseAudio clients.
 * [FIRconv](https://github.com/davircarvalho/FIRconv) - Python implementations of Finite Impulse Response (FIR) filters.
 * [OpenDSP](https://github.com/midilab/opendsp) - Headless Linux embedded realtime OS for audio and video DSP.
+* [ultralight-juce](https://github.com/maxgraf96/ultralight-juce) - Integrating the Ultralight C++/HTML renderer with JUCE for prettier UIs.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
@@ -282,7 +283,6 @@ This is a list of sound, audio and music development tools which contains machin
 * [Syntheon](https://github.com/gudgud96/syntheon) - Parameter inference of music synthesizers to simplify sound design process. Supports Vital and Dexed.
 * [RnboJuceTemplate](https://github.com/mikegazzaruso/RnboJuceTemplate) - A JUCE Template including a minimal synthesizer created with MaxMSP's rnbo~, that encapsulates rnboObject's state into JUCE's AudioProcessor using modern AudioProcessorTreeValueState fashion.
 * [FluidSynth.clap](https://github.com/cannerycoders/fluidsynth.clap) - A clap-plugin bridge to fluidsynth.
-* [ultralight-juce](https://github.com/maxgraf96/ultralight-juce) - Integrating the Ultralight C++/HTML renderer with JUCE for prettier UIs.
 
 ## <span id="ga">Game Audio (GA)</span>
 
