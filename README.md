@@ -59,6 +59,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Realtime DDSP](https://github.com/hyakuchiki/realtimeDDSP) - Realtime (streaming) DDSP in PyTorch compatible with neutone.
 * [pc-ddsp](https://github.com/splinter21/pc-ddsp) - Pitch Controllable DDSP Vocoders.
 * [SSSSM-DDSP](https://github.com/hyakuchiki/SSSSM-DDSP) - Semi-supervised Synthesizer Sound Matching with Differentiable DSP.
+* [GOLF](https://github.com/yoyololicon/golf) - A DDSP-based neural vocoder.
 * [audacitorch](https://github.com/audacitorch/audacitorch) - PyTorch wrappers for using your model in audacity!
 * [Scyclone](https://github.com/Torsion-Audio/Scyclone) - Scyclone is an audio plugin that utilizes neural timbre transfer technology to offer a new approach to audio production. 
 * [Scyclone AI](https://github.com/Torsion-Audio/Scyclone-AI) - Create presets for Scyclone: a Real-time Neural Timbre Transfer Plug-in.
