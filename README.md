@@ -491,6 +491,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [UniSpeech](https://github.com/microsoft/UniSpeech) - UniSpeech - Large Scale Self-Supervised Learning for Speech.
 * [paasr](https://github.com/rafaelvalle/paasr) - Privacy Aware Automatic Speech Recognition.
 * [whisper-timestamped](https://github.com/linto-ai/whisper-timestamped) - Multilingual Automatic Speech Recognition with word-level timestamps and confidence.
+* [DisVoice](https://github.com/jcvasquezc/DisVoice) - DisVoice is a python framework designed to compute features from speech files. Disvoice computes glottal, phonation, articulation, prosody, phonological, and features representation learnig strategies using autoencders.
 
 ## <span id="tts">Speech Synthesis (TTS)</span>
 
