@@ -457,7 +457,8 @@ This is a list of sound, audio and music development tools which contains machin
 * [DeBussy](https://github.com/asigalov61/DeBussy) - Solo Piano Music AI Implementation.
 * [Writing music with ChatGPT](https://github.com/olaviinha/MusicWithChatGPT) - Tips and tools for writing music with the aid of ChatGPT.
 * [Somax 2](https://github.com/DYCI2/Somax2) - Somax 2 is an application for musical improvisation and composition.
-* [Polyrhythmix](https://github.com/dredozubov/polyrhythmix) - Polyrhythmix (Poly) is a command-line assistant designed to generate MIDI files from the description of drum parts. 
+* [Polyrhythmix](https://github.com/dredozubov/polyrhythmix) - Polyrhythmix (Poly) is a command-line assistant designed to generate MIDI files from the description of drum parts.
+* [LaunchpadGPT](https://github.com/yunlong10/LaunchpadGPT/) - Language Model as Music Visualization Designer on Launchpad.
 
 ## <span id="asr">Speech Recognition (ASR)</span>
 
