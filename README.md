@@ -297,6 +297,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Engine Simulator](https://github.com/ange-yaghi/engine-sim) - Combustion engine simulator that generates realistic audio.
 * [Jack Audio For Unity](https://github.com/rodrigodzf/Jack-Audio-For-Unity) - This library/plugin enables multichannel audio routing between Unity3D and JackAudio.
 * [Voxel Plugin](https://github.com/Phyronnaz/VoxelPlugin) - Voxel Plugin allows to create fully volumetric, entirely destructible, infinite worlds in Unreal Engine. It is compatible with 4.24, 4.25, 4.26, 4.27 and Unreal 5.
+* [REV Unity](https://github.com/CrankcaseAudio/CrankcaseAudioREVUnity) - REV Unity Tachometer Demo.
 
 ## <span id="daw">Digital Audio Workstation (DAW)</span>
 
