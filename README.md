@@ -204,6 +204,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [OpenDSP](https://github.com/midilab/opendsp) - Headless Linux embedded realtime OS for audio and video DSP.
 * [ultralight-juce](https://github.com/maxgraf96/ultralight-juce) - Integrating the Ultralight C++/HTML renderer with JUCE for prettier UIs.
 * [Vult](https://github.com/vult-dsp/vult) - Vult is specially useful when programming Digital Signal Processing (DSP) algorithms like audio effects or synthesizers.
+* [CloudSeed [JUCE]](https://github.com/njazz/cloudseed-juce) - JUCE-based UI for CloudSeed VST plugin.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
