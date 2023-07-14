@@ -387,6 +387,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Pitch detection](https://github.com/cwilso/PitchDetect) - Pitch detection in Web Audio using autocorrelation.
 * [SAT](https://github.com/RicherMans/SAT) - Streaming Audiotransformers for online Audio tagging.
 * [WebAudioXML](https://github.com/hanslindetorp/WebAudioXML) - An XML syntax for building Web Audio API applications.
+* [FaustWasm](https://github.com/Fr0stbyteR/faustwasm) - The FaustWasm library presents a convenient, high-level API that wraps around Faust compiler. 
 
 ## <span id="mir">Music Information Retrieval (MIR)</span>
 
