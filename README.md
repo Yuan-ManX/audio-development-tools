@@ -526,6 +526,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system that sounds great and is optimized for the Raspberry Pi 4.
 * [Voicebox](https://github.com/SpeechifyInc/Meta-voicebox) - The first generative AI model for speech to generalize across tasks with state-of-the-art performance.
 * [Fish Diffusion](https://github.com/fishaudio/fish-diffusion) - An easy to understand TTS / SVS / SVC framework.
+* [TTS Generation WebUI](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation WebUI (Bark, MusicGen, Tortoise, RVC, Vocos, Demucs).
 
 ## <span id="svs">Singing Voice Synthesis (SVS)</span>
 
