@@ -206,6 +206,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Vult](https://github.com/vult-dsp/vult) - Vult is specially useful when programming Digital Signal Processing (DSP) algorithms like audio effects or synthesizers.
 * [CloudSeed [JUCE]](https://github.com/njazz/cloudseed-juce) - JUCE-based UI for CloudSeed VST plugin.
 * [TFliteTemplatePlugin](https://github.com/domenicostefani/TFlite-VSTplugin-template) - JUCE Template plugins to use TensorFlow lite for deep learning inference.
+* [DrumFixer](https://github.com/jatinchowdhury18/DrumFixer) - DrumFixer is an audio plugin designed to help mixing engineers achieve better sounding drums.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
