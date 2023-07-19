@@ -500,6 +500,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [whisper-timestamped](https://github.com/linto-ai/whisper-timestamped) - Multilingual Automatic Speech Recognition with word-level timestamps and confidence.
 * [DisVoice](https://github.com/jcvasquezc/DisVoice) - DisVoice is a python framework designed to compute features from speech files. Disvoice computes glottal, phonation, articulation, prosody, phonological, and features representation learnig strategies using autoencders.
 * [pypinyin](https://github.com/mozillazg/python-pinyin) - A Python tool for converting Chinese character to Pinyin.
+* [PyShengyun](https://github.com/yuyq96/pyshengyun) - A Python converter for Chinese Pinyin and Shengyun (initials and finals).
 
 ## <span id="tts">Speech Synthesis (TTS)</span>
 
