@@ -428,6 +428,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Parangonar](https://github.com/sildater/parangonar) - Parangonar is a Python package for note alignment of symbolic music.
 * [musicparser](https://github.com/fosfrancesco/musicparser) - Deep learning based dependency parsing for music sequences.
 * [musif](https://github.com/DIDONEproject/musif) - Music Feature Extraction and Analysis.
+* [pycompmusic](https://github.com/MTG/pycompmusic) - Tools to help researchers work with Dunya and CompMusic.
 
 ## <span id="mg">Music Generation (MG)</span>
 
