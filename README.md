@@ -303,6 +303,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Voxel Plugin](https://github.com/Phyronnaz/VoxelPlugin) - Voxel Plugin allows to create fully volumetric, entirely destructible, infinite worlds in Unreal Engine. It is compatible with 4.24, 4.25, 4.26, 4.27 and Unreal 5.
 * [REV Unity](https://github.com/CrankcaseAudio/CrankcaseAudioREVUnity) - REV Unity Tachometer Demo.
 * [Unity Audio Manager (UAM)](https://github.com/MathewHDYT/Unity-Audio-Manager) - 🔊 Used to play/change/stop/mute/... one or multiple sounds at a certain circumstance or event in 2D and 3D simply via. code.
+* [Audio-Manager-for-Unity](https://github.com/microsoft/Audio-Manager-for-Unity) - A tool for defining and executing audio behaviors in Unity in a node based editor.
 
 ## <span id="daw">Digital Audio Workstation (DAW)</span>
 
