@@ -433,6 +433,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [musicparser](https://github.com/fosfrancesco/musicparser) - Deep learning based dependency parsing for music sequences.
 * [musif](https://github.com/DIDONEproject/musif) - Music Feature Extraction and Analysis.
 * [pycompmusic](https://github.com/MTG/pycompmusic) - Tools to help researchers work with Dunya and CompMusic.
+* [CREPE notes](https://github.com/xavriley/crepe_notes) - Post-processing for CREPE to turn f0 pitch estimates into discrete notes (MIDI).
 
 ## <span id="mg">Music Generation (MG)</span>
 
