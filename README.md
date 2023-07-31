@@ -305,6 +305,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [REV Unity](https://github.com/CrankcaseAudio/CrankcaseAudioREVUnity) - REV Unity Tachometer Demo.
 * [Unity Audio Manager (UAM)](https://github.com/MathewHDYT/Unity-Audio-Manager) - 🔊 Used to play/change/stop/mute/... one or multiple sounds at a certain circumstance or event in 2D and 3D simply via. code.
 * [Audio-Manager-for-Unity](https://github.com/microsoft/Audio-Manager-for-Unity) - A tool for defining and executing audio behaviors in Unity in a node based editor.
+* [Unity Wwise Addressables](https://github.com/audiokinetic/WwiseUnityAddressables) - This package adds support for distributing and loading Wwise assets using the Unity Addressables System.
 * [rFXGen](https://github.com/raysan5/rfxgen) - A simple and easy-to-use fx sounds generator.
 
 ## <span id="daw">Digital Audio Workstation (DAW)</span>
