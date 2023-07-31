@@ -295,6 +295,8 @@ This is a list of sound, audio and music development tools which contains machin
 * [Chunity](https://github.com/ccrma/chunity) - ChucK in Unity. Plugin for using ChucK in Unity. Available on the Unity Asset Store.
 * [Raveler](https://github.com/usdivad/Raveler) - Wwise plugin that runs RAVE models, enabling real-time timbre transfer via neural audio synthesis in a game audio setting.
 * [LASP](https://github.com/keijiro/Lasp) - Low-latency Audio Signal Processing plugin for Unity.
+* [Reaper Tools](https://github.com/audiokinetic/Reaper-Tools) - Audiokinetic Reaper Tools Repository. Collection of extensions, scripts and tools for Reaper.
+* [ReaWwise](https://github.com/audiokinetic/ReaWwise) - ReaWwise is a REAPER extension that sound designers can use to transfer audio files from REAPER into Wwise projects. 
 * [SoLoud](https://github.com/jarikomppa/soloud) - SoLoud is an easy to use, free, portable c/c++ audio engine for games.
 * [AudioToys](https://github.com/sgmackie/AudioToys) - DSP doodles for Unity.
 * [Dolby.io Virtual World plugin for Unity](https://github.com/DolbyIO/comms-sdk-unity) - With the Dolby.io Virtual World plugin for Unity, you can easily integrate Dolby.io Spatial Audio, powered by Dolby Atmos technology into your virtual world applications.
@@ -306,7 +308,6 @@ This is a list of sound, audio and music development tools which contains machin
 * [Unity Audio Manager (UAM)](https://github.com/MathewHDYT/Unity-Audio-Manager) - 🔊 Used to play/change/stop/mute/... one or multiple sounds at a certain circumstance or event in 2D and 3D simply via. code.
 * [Audio-Manager-for-Unity](https://github.com/microsoft/Audio-Manager-for-Unity) - A tool for defining and executing audio behaviors in Unity in a node based editor.
 * [Unity Wwise Addressables](https://github.com/audiokinetic/WwiseUnityAddressables) - This package adds support for distributing and loading Wwise assets using the Unity Addressables System.
-* [Reaper Tools](https://github.com/audiokinetic/Reaper-Tools) - Audiokinetic Reaper Tools Repository. Collection of extensions, scripts and tools for Reaper.
 * [rFXGen](https://github.com/raysan5/rfxgen) - A simple and easy-to-use fx sounds generator.
 
 ## <span id="daw">Digital Audio Workstation (DAW)</span>
