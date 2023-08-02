@@ -298,6 +298,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Reaper Tools](https://github.com/audiokinetic/Reaper-Tools) - Audiokinetic Reaper Tools Repository. Collection of extensions, scripts and tools for Reaper.
 * [ReaWwise](https://github.com/audiokinetic/ReaWwise) - ReaWwise is a REAPER extension that sound designers can use to transfer audio files from REAPER into Wwise projects.
 * [WWISER](https://github.com/bnnm/wwiser) - A Wwise .bnk parser, to assist in handling audio from games using the Wwise engine.
+* [jsfxr for Wwise](https://github.com/decasteljau/jsfxr-for-wwise) - jsfxr (ported from sfxr) with added Wwise connectivity, embedded into Electron.
 * [SoLoud](https://github.com/jarikomppa/soloud) - SoLoud is an easy to use, free, portable c/c++ audio engine for games.
 * [AudioToys](https://github.com/sgmackie/AudioToys) - DSP doodles for Unity.
 * [Dolby.io Virtual World plugin for Unity](https://github.com/DolbyIO/comms-sdk-unity) - With the Dolby.io Virtual World plugin for Unity, you can easily integrate Dolby.io Spatial Audio, powered by Dolby Atmos technology into your virtual world applications.
