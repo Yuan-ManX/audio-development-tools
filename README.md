@@ -318,6 +318,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [reapy](https://github.com/RomeoDespres/reapy) - A pythonic wrapper for REAPER's ReaScript Python API.
 * [reaper-sdk](https://github.com/justinfrankel/reaper-sdk) - REAPER C/C++ extension SDK.
 * [ReaScripts](https://github.com/X-Raym/REAPER-ReaScripts) - X-Raym's Free and Open Source Scripts for Cockos REAPER.
+* [ReaScripts](https://github.com/Neutronic/ReaScripts) - Cockos REAPER scripts.
 * [ReaBlink](https://github.com/ak5k/reablink) - REAPER plug-in extension providing ReaScript bindings for Ableton Link session, and Ableton Link Test Plan compliant implementations for REAPER. 
 * [voodoohop-ableton-tools](https://github.com/voodoohop/voodoohop-ableton-tools) - Ableton Live Harmony and Tempo Tools. Augments Ableton Live with an intuitive visualization of musical harmony as well as allowing a track’s tempo dynamics to control the master tempo in real-time. 
 * [AbletonParsing](https://github.com/DBraun/AbletonParsing) - Parse an Ableton ASD clip file (warp markers and more) in Python.
