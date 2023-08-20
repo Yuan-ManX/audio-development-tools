@@ -297,6 +297,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Chunity](https://github.com/ccrma/chunity) - ChucK in Unity. Plugin for using ChucK in Unity. Available on the Unity Asset Store.
 * [Raveler](https://github.com/usdivad/Raveler) - Wwise plugin that runs RAVE models, enabling real-time timbre transfer via neural audio synthesis in a game audio setting.
 * [LASP](https://github.com/keijiro/Lasp) - Low-latency Audio Signal Processing plugin for Unity.
+* [pyreaper](https://github.com/r9y9/pyreaper) - A python wrapper for REAPER.
 * [Reaper Tools](https://github.com/audiokinetic/Reaper-Tools) - Audiokinetic Reaper Tools Repository. Collection of extensions, scripts and tools for Reaper.
 * [ReaWwise](https://github.com/audiokinetic/ReaWwise) - ReaWwise is a REAPER extension that sound designers can use to transfer audio files from REAPER into Wwise projects.
 * [WWISER](https://github.com/bnnm/wwiser) - A Wwise .bnk parser, to assist in handling audio from games using the Wwise engine.
