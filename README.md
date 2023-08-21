@@ -556,6 +556,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Voicebox](https://github.com/SpeechifyInc/Meta-voicebox) - The first generative AI model for speech to generalize across tasks with state-of-the-art performance.
 * [Fish Diffusion](https://github.com/fishaudio/fish-diffusion) - An easy to understand TTS / SVS / SVC framework.
 * [TTS Generation WebUI](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation WebUI (Bark, MusicGen, Tortoise, RVC, Vocos, Demucs).
+* [xVA Synth](https://github.com/DanRuta/xVA-Synth) - xVASynth 2.0 is a machine learning based speech synthesis app, using voices from characters/voice sets from video games.
 
 ## <span id="svs">Singing Voice Synthesis (SVS)</span>
 
