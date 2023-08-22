@@ -450,6 +450,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [CREPE notes](https://github.com/xavriley/crepe_notes) - Post-processing for CREPE to turn f0 pitch estimates into discrete notes (MIDI).
 * [Piano transcription](https://github.com/bytedance/piano_transcription) - Piano transcription is the task of transcribing piano recordings into MIDI files.
 * [pianotrans](https://github.com/azuwis/pianotrans) - Simple GUI for ByteDance's Piano Transcription with Pedals.
+* [PyABC](https://github.com/campagnola/pyabc) - Python package for parsing and analyzing ABC music notation.
 
 ## <span id="mg">Music Generation (MG)</span>
 
