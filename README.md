@@ -527,6 +527,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [PyShengyun](https://github.com/yuyq96/pyshengyun) - A Python converter for Chinese Pinyin and Shengyun (initials and finals).
 * [KaldiFeat](https://github.com/yuyq96/kaldifeat) - A light-weight Python library for computing Kaldi-style acoustic features based on NumPy.
 * [Gruut IPA](https://github.com/rhasspy/gruut-ipa) - Python library for manipulating pronunciations using the International Phonetic Alphabet (IPA).
+* [SALMONN](https://github.com/bytedance/SALMONN/) - Speech Audio Language Music Open Neural Network.
 
 ## <span id="tts">Speech Synthesis (TTS)</span>
 
