@@ -210,6 +210,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [DrumFixer](https://github.com/jatinchowdhury18/DrumFixer) - DrumFixer is an audio plugin designed to help mixing engineers achieve better sounding drums.
 * [BasicAudioPlayer](https://github.com/fabiovinotti/BasicAudioPlayer) - A Swift library that makes it easier to create AVAudioEngine-based audio players.
 * [PLAudioMixer](https://github.com/PatrickSCLin/PLAudioMixer) - Simple audio mixer based on AVAudioEngine offline rendering mode.
+* [estratto](https://github.com/AmberJBlue/estratto) - Estratto is a powerful and user-friendly Rust library designed for extracting rich audio features from digital audio signals.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
