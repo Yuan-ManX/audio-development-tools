@@ -293,6 +293,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [RnboJuceTemplate](https://github.com/mikegazzaruso/RnboJuceTemplate) - A JUCE Template including a minimal synthesizer created with MaxMSP's rnbo~, that encapsulates rnboObject's state into JUCE's AudioProcessor using modern AudioProcessorTreeValueState fashion.
 * [FluidSynth.clap](https://github.com/cannerycoders/fluidsynth.clap) - A clap-plugin bridge to fluidsynth.
 * [LaunchpadX](https://github.com/madskjeldgaard/launchpadx-sc) - A Simple SuperCollider interface for the Novation LaunchpadX controller.
+* [Faug](https://github.com/t2techno/Faug) - A Minimoog Model D emulation with the DSP portion written in Faust. Moog + Faust = Faug.
 
 ## <span id="ga">Game Audio (GA)</span>
 
