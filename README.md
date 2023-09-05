@@ -320,6 +320,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Unity Wwise Addressables](https://github.com/audiokinetic/WwiseUnityAddressables) - This package adds support for distributing and loading Wwise assets using the Unity Addressables System.
 * [rFXGen](https://github.com/raysan5/rfxgen) - A simple and easy-to-use fx sounds generator.
 * [uLipSync](https://github.com/hecomi/uLipSync) - MFCC-based LipSync plug-in for Unity using Job System and Burst Compiler.
+* [godot-fmod-integration](https://github.com/heraldofgargos/godot-fmod-integration) - FMOD Studio middleware integration and scripting API bindings for the Godot game engine.
 
 ## <span id="daw">Digital Audio Workstation (DAW)</span>
 
