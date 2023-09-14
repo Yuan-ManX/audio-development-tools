@@ -85,6 +85,7 @@ This is a list of sound, audio and music development tools which contains machin
 
 ## <span id="ag">Audio Generation (AG)</span>
 
+* [Stable Audio](https://www.stableaudio.com/) - Fast Timing-Conditioned Latent Audio Diffusion.
 * [WavJourney](https://github.com/Audio-AGI/WavJourney) - Compositional Audio Creation with Large Language Models.
 * [Audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a PyTorch library for deep learning research on audio generation.
 * [vschaos2](https://github.com/acids-ircam/vschaos2) - vschaos2: vintage neural audio synthesis. 
