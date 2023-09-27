@@ -416,7 +416,8 @@ This is a list of sound, audio and music development tools which contains machin
 * [WebAudioXML](https://github.com/hanslindetorp/WebAudioXML) - An XML syntax for building Web Audio API applications.
 * [FaustWasm](https://github.com/Fr0stbyteR/faustwasm) - The FaustWasm library presents a convenient, high-level API that wraps around Faust compiler.
 * [ContourViz](https://github.com/cjwit/contourviz) - A package that charts musical contours into a web-based interactive using music21 and D3.js.
-* [wave-resampler](https://github.com/rochars/wave-resampler) - PCM audio resampler written entirely in JavaScript. 
+* [wave-resampler](https://github.com/rochars/wave-resampler) - PCM audio resampler written entirely in JavaScript.
+* [useSound](https://github.com/joshwcomeau/use-sound) - A React Hook for playing sound effects. 
 
 ## <span id="mir">Music Information Retrieval (MIR)</span>
 
