@@ -537,6 +537,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [KaldiFeat](https://github.com/yuyq96/kaldifeat) - A light-weight Python library for computing Kaldi-style acoustic features based on NumPy.
 * [Gruut IPA](https://github.com/rhasspy/gruut-ipa) - Python library for manipulating pronunciations using the International Phonetic Alphabet (IPA).
 * [SALMONN](https://github.com/bytedance/SALMONN/) - Speech Audio Language Music Open Neural Network.
+* [PraatIO](https://github.com/timmahrt/praatIO) - A python library for working with praat, textgrids, time aligned audio transcripts, and audio files. It is primarily used for extracting features from and making manipulations on audio files given hierarchical time-aligned transcriptions (utterance > word > syllable > phone, etc).
 
 ## <span id="tts">Speech Synthesis (TTS)</span>
 
