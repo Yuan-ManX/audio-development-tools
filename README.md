@@ -298,6 +298,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [LaunchpadX](https://github.com/madskjeldgaard/launchpadx-sc) - A Simple SuperCollider interface for the Novation LaunchpadX controller.
 * [Faug](https://github.com/t2techno/Faug) - A Minimoog Model D emulation with the DSP portion written in Faust. Moog + Faust = Faug.
 * [blocks](https://github.com/dan-german/blocks) - blocks is a modular synthesizer available as standalone, VST3 & AU for Windows and macOS.
+* [Bessel's Trick](https://github.com/fcaspe/BesselsTrick) - Bessel's Trick is a Neural Audio Plugin for fast, live Tone Transformation of Musical Instrument sounds using Frequency Modulation (FM) synthesis.
 
 ## <span id="ga">Game Audio (GA)</span>
 
