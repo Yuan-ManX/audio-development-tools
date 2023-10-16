@@ -214,6 +214,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [estratto](https://github.com/AmberJBlue/estratto) - Estratto is a powerful and user-friendly Rust library designed for extracting rich audio features from digital audio signals.
 * [vampy](https://github.com/c4dm/vampy) - A wrapper allowing Vamp audio analysis plugins to be written in Python.
 * [SoundWave](https://github.com/bastienFalcou/SoundWave) - SoundWave is a customizable view representing sounds over time.
+* [PyAV](https://github.com/PyAV-Org/PyAV) - PyAV is a Pythonic binding for the FFmpeg libraries. 
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
