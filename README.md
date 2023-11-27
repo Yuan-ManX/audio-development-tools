@@ -85,6 +85,7 @@ This is a list of sound, audio and music development tools which contains machin
 
 ## <span id="ag">Audio Generation (AG)</span>
 
+* [Nendo](https://github.com/okio-ai/nendo) - The Nendo AI Audio Tool Suite.
 * [Stable Audio](https://www.stableaudio.com/) - Fast Timing-Conditioned Latent Audio Diffusion.
 * [WavJourney](https://github.com/Audio-AGI/WavJourney) - Compositional Audio Creation with Large Language Models.
 * [Audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a PyTorch library for deep learning research on audio generation.
