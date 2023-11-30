@@ -85,6 +85,7 @@ This is a list of sound, audio and music development tools which contains machin
 
 ## <span id="ag">Audio Generation (AG)</span>
 
+* [Amphion](https://github.com/open-mmlab/Amphion) - Amphion: An Open-Source Audio, Music, and Speech Generation Toolkit.
 * [Nendo](https://github.com/okio-ai/nendo) - The Nendo AI Audio Tool Suite.
 * [Stable Audio](https://www.stableaudio.com/) - Fast Timing-Conditioned Latent Audio Diffusion.
 * [WavJourney](https://github.com/Audio-AGI/WavJourney) - Compositional Audio Creation with Large Language Models.
