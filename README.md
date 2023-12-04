@@ -82,6 +82,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [spring-reverb-dl-models](https://github.com/francescopapaleo/spring-reverb-dl-models) - Virtual Analog Modelling of the Spring Reverb with Deep Learning.
 * [EVAR ~](https://github.com/nttcslab/eval-audio-repr) - EVAR ~ Evaluation package for Audio Representations.
 * [Julius](https://github.com/adefossez/julius) - Fast PyTorch based DSP for audio and 1D signals.
+* [NeuralDX7](https://github.com/Nintorac/NeuralDX7) - Random machine learning experiments related to the classic Yamaha DX7.
 
 ## <span id="ag">Audio Generation (AG)</span>
 
