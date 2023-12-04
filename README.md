@@ -594,5 +594,6 @@ This is a list of sound, audio and music development tools which contains machin
 * [MoeGoe](https://github.com/CjangCjengh/MoeGoe) - Executable file for VITS inference.
 * [Voice Conversion](https://github.com/ebadawy/voice_conversion) - Voice Conversion Using Speech-to-Speech Neuro-Style Transfer.
 * [WGANSing](https://github.com/MTG/WGANSing) - A Multi-Voice Singing Voice Synthesizer Based on the Wasserstein-GAN.
+* [clone-voice](https://github.com/jianchang512/clone-voice) - A sound cloning tool with a web interface to record audio using your patch or any sound.
 
 ## And more
