@@ -505,6 +505,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Polyrhythmix](https://github.com/dredozubov/polyrhythmix) - Polyrhythmix (Poly) is a command-line assistant designed to generate MIDI files from the description of drum parts.
 * [LaunchpadGPT](https://github.com/yunlong10/LaunchpadGPT/) - Language Model as Music Visualization Designer on Launchpad.
 * [Polyffusion](https://github.com/aik2mlj/polyffusion) - A Diffusion Model for Polyphonic Score Generation with Internal and External Controls.
+* [JAMMIN-GPT](https://github.com/supersational/JAMMIN-GPT) - Text-based Improvisation using LLMs in Ableton Live.
 
 ## <span id="asr">Speech Recognition (ASR)</span>
 
