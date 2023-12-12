@@ -467,6 +467,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Piano transcription](https://github.com/bytedance/piano_transcription) - Piano transcription is the task of transcribing piano recordings into MIDI files.
 * [pianotrans](https://github.com/azuwis/pianotrans) - Simple GUI for ByteDance's Piano Transcription with Pedals.
 * [PyABC](https://github.com/campagnola/pyabc) - Python package for parsing and analyzing ABC music notation.
+* [mir_ref](https://github.com/chrispla/mir_ref) - A Representation Evaluation Framework for Music Information Retrieval tasks.
 
 ## <span id="mg">Music Generation (MG)</span>
 
