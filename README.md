@@ -332,6 +332,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [godot-fmod-integration](https://github.com/heraldofgargos/godot-fmod-integration) - FMOD Studio middleware integration and scripting API bindings for the Godot game engine.
 * [FMOD Audio System](https://github.com/trevermock/fmod-audio-system) - Unity Audio System using FMOD.
 * [ww2ogg](https://github.com/hcs64/ww2ogg) - Convert AudioKinetic Wwise RIFF/RIFX Vorbis to standard Ogg Vorbis.
+* [Cavern](https://github.com/VoidXH/Cavern) - Object-based audio engine and codec pack with Dolby Atmos rendering, room correction, HRTF, one-click Unity audio takeover, and much more.
 
 ## <span id="daw">Digital Audio Workstation (DAW)</span>
 
