@@ -220,6 +220,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [SoundWave](https://github.com/bastienFalcou/SoundWave) - SoundWave is a customizable view representing sounds over time.
 * [PyAV](https://github.com/PyAV-Org/PyAV) - PyAV is a Pythonic binding for the FFmpeg libraries.
 * [audio-dsp](https://github.com/prayash/audio-dsp) - 🎧 Playing around with audio plugin development + DSP.
+* [openSMILE](https://github.com/audeering/opensmile) - openSMILE (open-source Speech and Music Interpretation by Large-space Extraction) is a complete and open-source toolkit for audio analysis, processing and classification especially targeted at speech and music applications.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
