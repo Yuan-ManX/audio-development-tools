@@ -388,6 +388,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [OpenAL Soft](https://github.com/kcat/openal-soft) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
 * [soundscape_IR](https://github.com/meil-brcas-org/soundscape_IR) - soundscape_IR is a python-based toolbox of soundscape information retrieval, aiming to assist in the analysis of soundscape recordings.
 * [Sounding Bodies](https://github.com/facebookresearch/SoundingBodies) - We present a model that can generate accurate 3D sound fields of human bodies from headset microphones and body pose as inputs.
+* [Soundscapy](https://github.com/MitchellAcoustics/Soundscapy) - A python library for analysing and visualising soundscape assessments.
 
 ## <span id="wap">Web Audio Processing (WAP)</span>
 
