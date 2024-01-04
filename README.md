@@ -86,6 +86,7 @@ This is a list of sound, audio and music development tools which contains machin
 
 ## <span id="ag">Audio Generation (AG)</span>
 
+* [Auffusion](https://github.com/happylittlecat2333/Auffusion) - Auffusion: Leveraging the Power of Diffusion and Large Language Models for Text-to-Audio Generation.
 * [Audiobox](https://audiobox.metademolab.com/) - Audiobox: Unified Audio Generation with Natural Language Prompts.
 * [Amphion](https://github.com/open-mmlab/Amphion) - Amphion: An Open-Source Audio, Music, and Speech Generation Toolkit.
 * [Nendo](https://github.com/okio-ai/nendo) - The Nendo AI Audio Tool Suite.
