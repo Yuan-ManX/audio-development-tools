@@ -516,6 +516,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Polyffusion](https://github.com/aik2mlj/polyffusion) - A Diffusion Model for Polyphonic Score Generation with Internal and External Controls.
 * [JAMMIN-GPT](https://github.com/supersational/JAMMIN-GPT) - Text-based Improvisation using LLMs in Ableton Live.
 * [Anticipatory](https://github.com/jthickstun/anticipation) - Anticipatory Music Transformer.
+* [MIDI Language Model](https://github.com/jeremyjordan/midi-lm) - Generative modeling of MIDI files.
 
 ## <span id="asr">Speech Recognition (ASR)</span>
 
