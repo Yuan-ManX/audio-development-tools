@@ -83,6 +83,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [EVAR ~](https://github.com/nttcslab/eval-audio-repr) - EVAR ~ Evaluation package for Audio Representations.
 * [Julius](https://github.com/adefossez/julius) - Fast PyTorch based DSP for audio and 1D signals.
 * [NeuralDX7](https://github.com/Nintorac/NeuralDX7) - Random machine learning experiments related to the classic Yamaha DX7.
+* [HANCE](https://github.com/hance-engine/hance-api) - HANCE offers top-quality signal-processing techniques developed by machine learning specialists, sound engineers, and audio processing experts. Our technology is designed to provide users with the highest possible audio experience by removing noise, reverb, and other signal impairments. 
 
 ## <span id="ag">Audio Generation (AG)</span>
 
