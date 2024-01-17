@@ -595,6 +595,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [TTS Generation WebUI](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation WebUI (Bark, MusicGen, Tortoise, RVC, Vocos, Demucs).
 * [xVA Synth](https://github.com/DanRuta/xVA-Synth) - xVASynth 2.0 is a machine learning based speech synthesis app, using voices from characters/voice sets from video games.
 * [PlayHT](https://github.com/playht/pyht) - PlayHT Python SDK -- Text-to-Speech Audio Streaming.
+* [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning).
 
 ## <span id="svs">Singing Voice Synthesis (SVS)</span>
 
