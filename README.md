@@ -225,6 +225,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [openSMILE](https://github.com/audeering/opensmile) - openSMILE (open-source Speech and Music Interpretation by Large-space Extraction) is a complete and open-source toolkit for audio analysis, processing and classification especially targeted at speech and music applications.
 * [Carla](https://github.com/falkTX/Carla) - Carla is a fully-featured audio plugin host, with support for many audio drivers and plugin formats.
 * [JUCE-HEAVY](https://github.com/o-g-sus/JUCE-HEAVY) - Template JUCE Project showing how to connect JUCE with Heavy C++ (HVCC) generated Source files.
+* [Dplug](https://github.com/AuburnSounds/Dplug) - Audio plugin framework. VST2/VST3/AU/AAX/LV2 for Linux/macOS/Windows.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
