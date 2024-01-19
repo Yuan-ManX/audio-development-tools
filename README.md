@@ -226,6 +226,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Carla](https://github.com/falkTX/Carla) - Carla is a fully-featured audio plugin host, with support for many audio drivers and plugin formats.
 * [JUCE-HEAVY](https://github.com/o-g-sus/JUCE-HEAVY) - Template JUCE Project showing how to connect JUCE with Heavy C++ (HVCC) generated Source files.
 * [Dplug](https://github.com/AuburnSounds/Dplug) - Audio plugin framework. VST2/VST3/AU/AAX/LV2 for Linux/macOS/Windows.
+* [DAWNet](https://github.com/shiehn/dawnet_client) - The DAWNet is a DAW(digit audio workstation) plugin that connects to a remote Google Colab or Script.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
