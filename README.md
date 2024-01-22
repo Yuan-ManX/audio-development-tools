@@ -85,6 +85,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [NeuralDX7](https://github.com/Nintorac/NeuralDX7) - Random machine learning experiments related to the classic Yamaha DX7.
 * [HANCE](https://github.com/hance-engine/hance-api) - HANCE offers top-quality signal-processing techniques developed by machine learning specialists, sound engineers, and audio processing experts. Our technology is designed to provide users with the highest possible audio experience by removing noise, reverb, and other signal impairments.
 * [IDEAW](https://github.com/PecholaL/IDEAW) - Robust Neural Audio Watermarking with Invertible Dual-Embedding.
+* [SyNEThesia](https://github.com/RunOrVeith/SyNEThesia) - SyNEThesia is a deep-learning-based music and sound visualizer, and a play of words on Synesthesia, a neurological condition where one perceives a stimulus in multiple ways (for example seeing sound). 
 
 ## <span id="ag">Audio Generation (AG)</span>
 
