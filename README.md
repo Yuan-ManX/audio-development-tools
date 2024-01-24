@@ -232,6 +232,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Dplug](https://github.com/AuburnSounds/Dplug) - Audio plugin framework. VST2/VST3/AU/AAX/LV2 for Linux/macOS/Windows.
 * [DAWNet](https://github.com/shiehn/dawnet_client) - The DAWNet is a DAW(digit audio workstation) plugin that connects to a remote Google Colab or Script.
 * [Fish Audio Preprocessor](https://github.com/fishaudio/audio-preprocess) - Preprocess Audio for training.
+* [clap-validator](https://github.com/free-audio/clap-validator) - An automatic CLAP validation and testing tool.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
