@@ -86,7 +86,8 @@ This is a list of sound, audio and music development tools which contains machin
 * [HANCE](https://github.com/hance-engine/hance-api) - HANCE offers top-quality signal-processing techniques developed by machine learning specialists, sound engineers, and audio processing experts. Our technology is designed to provide users with the highest possible audio experience by removing noise, reverb, and other signal impairments.
 * [IDEAW](https://github.com/PecholaL/IDEAW) - Robust Neural Audio Watermarking with Invertible Dual-Embedding.
 * [SyNEThesia](https://github.com/RunOrVeith/SyNEThesia) - SyNEThesia is a deep-learning-based music and sound visualizer, and a play of words on Synesthesia, a neurological condition where one perceives a stimulus in multiple ways (for example seeing sound).
-* [Voxaboxen](https://github.com/earthspecies/voxaboxen) - Voxaboxen is a deep learning framework designed to find the start and stop times of (possibly overlapping) sound events in a recording. 
+* [Voxaboxen](https://github.com/earthspecies/voxaboxen) - Voxaboxen is a deep learning framework designed to find the start and stop times of (possibly overlapping) sound events in a recording.
+* [vocal-separate](https://github.com/jianchang512/vocal-separate) - An extremely simple tool for separating vocals and background music, completely localized for web operation, using 2stems/4stems/5stems models. 
 
 ## <span id="ag">Audio Generation (AG)</span>
 
