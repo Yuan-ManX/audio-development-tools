@@ -233,6 +233,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [DAWNet](https://github.com/shiehn/dawnet_client) - The DAWNet is a DAW(digit audio workstation) plugin that connects to a remote Google Colab or Script.
 * [Fish Audio Preprocessor](https://github.com/fishaudio/audio-preprocess) - Preprocess Audio for training.
 * [clap-validator](https://github.com/free-audio/clap-validator) - An automatic CLAP validation and testing tool.
+* [DSP Testbench](https://github.com/AndrewJJ/DSP-Testbench) - A DSP Testbench for users of the JUCE framework.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
