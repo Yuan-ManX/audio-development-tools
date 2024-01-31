@@ -573,6 +573,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Gruut IPA](https://github.com/rhasspy/gruut-ipa) - Python library for manipulating pronunciations using the International Phonetic Alphabet (IPA).
 * [SALMONN](https://github.com/bytedance/SALMONN/) - Speech Audio Language Music Open Neural Network.
 * [PraatIO](https://github.com/timmahrt/praatIO) - A python library for working with praat, textgrids, time aligned audio transcripts, and audio files. It is primarily used for extracting features from and making manipulations on audio files given hierarchical time-aligned transcriptions (utterance > word > syllable > phone, etc).
+* [WhisperKit](https://github.com/argmaxinc/WhisperKit) - WhisperKit is a Swift package that integrates OpenAI's popular Whisper speech recognition model with Apple's CoreML framework for efficient, local inference on Apple devices.
 
 ## <span id="tts">Speech Synthesis (TTS)</span>
 
