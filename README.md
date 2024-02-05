@@ -406,7 +406,8 @@ This is a list of sound, audio and music development tools which contains machin
 * [soundscape_IR](https://github.com/meil-brcas-org/soundscape_IR) - soundscape_IR is a python-based toolbox of soundscape information retrieval, aiming to assist in the analysis of soundscape recordings.
 * [Sounding Bodies](https://github.com/facebookresearch/SoundingBodies) - We present a model that can generate accurate 3D sound fields of human bodies from headset microphones and body pose as inputs.
 * [Soundscapy](https://github.com/MitchellAcoustics/Soundscapy) - A python library for analysing and visualising soundscape assessments.
-* [ambiX](https://github.com/kronihias/ambix) - cross-platform Ambisonic VST, LV2 plug-ins with variable order for use in Digital Audio Workstations like Reaper or Ardour or as Jack standalone applications. 
+* [ambiX](https://github.com/kronihias/ambix) - cross-platform Ambisonic VST, LV2 plug-ins with variable order for use in Digital Audio Workstations like Reaper or Ardour or as Jack standalone applications.
+* [HOAC](https://github.com/chris-hld/hoac) - Higher-Order Ambisonics Codec for Spatial Audio.
 
 ## <span id="wap">Web Audio Processing (WAP)</span>
 
