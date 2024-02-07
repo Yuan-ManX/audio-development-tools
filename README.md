@@ -610,6 +610,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [xVA Synth](https://github.com/DanRuta/xVA-Synth) - xVASynth 2.0 is a machine learning based speech synthesis app, using voices from characters/voice sets from video games.
 * [PlayHT](https://github.com/playht/pyht) - PlayHT Python SDK -- Text-to-Speech Audio Streaming.
 * [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning).
+* [MetaVoice-1B](https://github.com/metavoiceio/metavoice-src) - MetaVoice-1B is a 1.2B parameter base model trained on 100K hours of speech for TTS (text-to-speech).
 
 ## <span id="svs">Singing Voice Synthesis (SVS)</span>
 
