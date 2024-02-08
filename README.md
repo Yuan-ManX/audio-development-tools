@@ -120,6 +120,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers is the go-to library for state-of-the-art pretrained diffusion models for generating images, audio, and even 3D structures of molecules.
 * [ONE-PEACE](https://github.com/OFA-Sys/ONE-PEACE) - A general representation modal across vision, audio, language modalities.
 * [tiny-audio-diffusion](https://github.com/crlandsc/tiny-audio-diffusion) - This is a repository for generating short audio samples and training waveform diffusion models on a GPU with less than 2GB VRAM.
+* [stable-audio-tools](https://github.com/Stability-AI/stable-audio-tools) - Generative models for conditional audio generation.
 
 ## <span id="asp">Audio Signal Processing (ASP)</span>
 
