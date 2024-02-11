@@ -614,6 +614,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [MetaVoice-1B](https://github.com/metavoiceio/metavoice-src) - MetaVoice-1B is a 1.2B parameter base model trained on 100K hours of speech for TTS (text-to-speech).
 * [RAD-MMM](https://github.com/NVIDIA/RAD-MMM) - A TTS model that makes a speaker speak new languages.
 * [BUD-E](https://github.com/LAION-AI/natural_voice_assistant) - A conversational and empathic AI Voice Assistant.
+* [Bridge-TTS](https://github.com/thu-ml/Bridge-TTS) - Schrodinger Bridges Beat Diffusion Models on Text-to-Speech Synthesis.
 
 ## <span id="svs">Singing Voice Synthesis (SVS)</span>
 
