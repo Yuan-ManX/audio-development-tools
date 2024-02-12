@@ -237,6 +237,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [clap-validator](https://github.com/free-audio/clap-validator) - An automatic CLAP validation and testing tool.
 * [DSP Testbench](https://github.com/AndrewJJ/DSP-Testbench) - A DSP Testbench for users of the JUCE framework.
 * [Coupler](https://github.com/coupler-rs/coupler) - Coupler is a framework for writing audio plugins in Rust. It currently supports the VST3 and CLAP APIs, with plans to support AUv2 and AAX in the near future.
+* [PyOgg](https://github.com/TeamPyOgg/PyOgg) - PyOgg provides Python bindings for Xiph.org’s Opus, Vorbis and FLAC audio file formats as well as their Ogg container format.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
