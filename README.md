@@ -617,6 +617,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [RAD-MMM](https://github.com/NVIDIA/RAD-MMM) - A TTS model that makes a speaker speak new languages.
 * [BUD-E](https://github.com/LAION-AI/natural_voice_assistant) - A conversational and empathic AI Voice Assistant.
 * [Bridge-TTS](https://github.com/thu-ml/Bridge-TTS) - Schrodinger Bridges Beat Diffusion Models on Text-to-Speech Synthesis.
+* [lina-speech](https://github.com/theodorblackbird/lina-speech) - linear attention based text-to-speech.
 
 ## <span id="svs">Singing Voice Synthesis (SVS)</span>
 
