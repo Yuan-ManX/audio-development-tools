@@ -121,6 +121,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [ONE-PEACE](https://github.com/OFA-Sys/ONE-PEACE) - A general representation modal across vision, audio, language modalities.
 * [tiny-audio-diffusion](https://github.com/crlandsc/tiny-audio-diffusion) - This is a repository for generating short audio samples and training waveform diffusion models on a GPU with less than 2GB VRAM.
 * [stable-audio-tools](https://github.com/Stability-AI/stable-audio-tools) - Generative models for conditional audio generation.
+* [CTAG](https://github.com/PapayaResearch/ctag) - Creative Text-to-Audio Generation via Synthesizer Programming.
 
 ## <span id="asp">Audio Signal Processing (ASP)</span>
 
