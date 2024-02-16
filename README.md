@@ -354,6 +354,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [FMOD Audio System](https://github.com/trevermock/fmod-audio-system) - Unity Audio System using FMOD.
 * [ww2ogg](https://github.com/hcs64/ww2ogg) - Convert AudioKinetic Wwise RIFF/RIFX Vorbis to standard Ogg Vorbis.
 * [Cavern](https://github.com/VoidXH/Cavern) - Object-based audio engine and codec pack with Dolby Atmos rendering, room correction, HRTF, one-click Unity audio takeover, and much more.
+* [RNBO Unity Audio Plugin](https://github.com/Cycling74/rnbo.unity.audioplugin) - RNBO Adapter for Unity's Native Audio Plugin.
 
 ## <span id="daw">Digital Audio Workstation (DAW)</span>
 
