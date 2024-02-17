@@ -241,6 +241,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [PyOgg](https://github.com/TeamPyOgg/PyOgg) - PyOgg provides Python bindings for Xiph.org’s Opus, Vorbis and FLAC audio file formats as well as their Ogg container format.
 * [streamlit-audiorecorder](https://github.com/theevann/streamlit-audiorecorder) - An audio Recorder for streamlit.
 * [DtBlkFx](https://github.com/dozius/DtBlkFx) - DtBlkFx is a Fast-Fourier-Transform (FFT) based VST plug-in.
+* [Smartelectronix](https://github.com/bdejong/smartelectronix) - Open source versions of all bram @ smartelectronix plugins.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
