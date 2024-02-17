@@ -240,6 +240,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Coupler](https://github.com/coupler-rs/coupler) - Coupler is a framework for writing audio plugins in Rust. It currently supports the VST3 and CLAP APIs, with plans to support AUv2 and AAX in the near future.
 * [PyOgg](https://github.com/TeamPyOgg/PyOgg) - PyOgg provides Python bindings for Xiph.org’s Opus, Vorbis and FLAC audio file formats as well as their Ogg container format.
 * [streamlit-audiorecorder](https://github.com/theevann/streamlit-audiorecorder) - An audio Recorder for streamlit.
+* [DtBlkFx](https://github.com/dozius/DtBlkFx) - DtBlkFx is a Fast-Fourier-Transform (FFT) based VST plug-in.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
