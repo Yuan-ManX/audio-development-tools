@@ -502,6 +502,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [pianotrans](https://github.com/azuwis/pianotrans) - Simple GUI for ByteDance's Piano Transcription with Pedals.
 * [PyABC](https://github.com/campagnola/pyabc) - Python package for parsing and analyzing ABC music notation.
 * [mir_ref](https://github.com/chrispla/mir_ref) - A Representation Evaluation Framework for Music Information Retrieval tasks.
+* [MIDITrackView](https://github.com/AudioKit/MIDITrackView) - Displays the notes of a MIDI file and follows along with playback.
 
 ## <span id="mg">Music Generation (MG)</span>
 
