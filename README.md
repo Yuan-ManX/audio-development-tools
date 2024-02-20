@@ -389,6 +389,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [LMMS](https://github.com/LMMS/lmms) - LMMS is a free cross-platform alternative to commercial programs like FL Studio®, which allow you to produce music with your computer. This includes the creation of melodies and beats, the synthesis and mixing of sounds, and arranging of samples. 
 * [Qtractor](https://github.com/rncbc/qtractor) - Qtractor is an Audio/MIDI multi-track sequencer application written in C++ with the Qt framework. Target platform is Linux, where the Jack Audio Connection Kit (JACK) for audio, and the Advanced Linux Sound Architecture (ALSA) for MIDI, are the main infrastructures to evolve as a fairly-featured Linux desktop audio workstation GUI, specially dedicated to the personal home-studio.
 * [smart-audio-mixer](https://github.com/kuouu/smart-audio-mixer) - A modern digital audio workstation(DAW) using C++/JUCE.
+* [OpenVINO™ AI Plugins for Audacity](https://github.com/intel/openvino-plugins-ai-audacity) - A set of AI-enabled effects, generators, and analyzers for Audacity.
 
 ## <span id="sa">Spatial Audio (SA)</span>
 
