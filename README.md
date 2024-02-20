@@ -242,6 +242,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [streamlit-audiorecorder](https://github.com/theevann/streamlit-audiorecorder) - An audio Recorder for streamlit.
 * [DtBlkFx](https://github.com/dozius/DtBlkFx) - DtBlkFx is a Fast-Fourier-Transform (FFT) based VST plug-in.
 * [Smartelectronix](https://github.com/bdejong/smartelectronix) - Open source versions of all bram @ smartelectronix plugins.
+* [Cookiejuce](https://github.com/madskjeldgaard/Cookiejuce) - A command line tool for generating modern JUCE projects with CMake.
 
 ## <span id="ss">Sound Synthesis (SS)</span>
 
