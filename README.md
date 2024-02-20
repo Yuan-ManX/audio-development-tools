@@ -546,6 +546,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [JAMMIN-GPT](https://github.com/supersational/JAMMIN-GPT) - Text-based Improvisation using LLMs in Ableton Live.
 * [Anticipatory](https://github.com/jthickstun/anticipation) - Anticipatory Music Transformer.
 * [MIDI Language Model](https://github.com/jeremyjordan/midi-lm) - Generative modeling of MIDI files.
+* [modulo](https://github.com/francesco-di-maggio/modulo) - A Toolkit for Tinkering with Digital Musical Instruments.
 
 ## <span id="asr">Speech Recognition (ASR)</span>
 
