@@ -506,6 +506,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [PyABC](https://github.com/campagnola/pyabc) - Python package for parsing and analyzing ABC music notation.
 * [mir_ref](https://github.com/chrispla/mir_ref) - A Representation Evaluation Framework for Music Information Retrieval tasks.
 * [MIDITrackView](https://github.com/AudioKit/MIDITrackView) - Displays the notes of a MIDI file and follows along with playback.
+* [iimrp](https://github.com/Intelligent-Instruments-Lab/iimrp) - Magnetic Resonator Piano tools from the Intelligent Instruments Lab.
 
 ## <span id="mg">Music Generation (MG)</span>
 
