@@ -90,6 +90,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [vocal-separate](https://github.com/jianchang512/vocal-separate) - An extremely simple tool for separating vocals and background music, completely localized for web operation, using 2stems/4stems/5stems models.
 * [Speech-enhancement](https://github.com/vbelz/Speech-enhancement) - Deep learning for audio denoising.
 * [SNAC](https://github.com/hubertsiuzdak/snac) - Multi-Scale Neural Audio Codec (SNAC) compressess 44.1 kHz audio into discrete codes at a low bitrate.
+* [Supervoice GPT](https://github.com/ex3ndr/supervoice-gpt) - A GPT model that converts from text to phonemes with durations that is suitable to feed into voice synthesizer.
 
 ## <span id="ag">Audio Generation (AG)</span>
 
