@@ -553,6 +553,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Anticipatory](https://github.com/jthickstun/anticipation) - Anticipatory Music Transformer.
 * [MIDI Language Model](https://github.com/jeremyjordan/midi-lm) - Generative modeling of MIDI files.
 * [modulo](https://github.com/francesco-di-maggio/modulo) - A Toolkit for Tinkering with Digital Musical Instruments.
+* [MusicLang](https://github.com/MusicLang/musiclang) - MusicLang which simply stands for "music language" is a Python framework implementing a new language for tonal music. This language allows composers to load, write, transform and predict symbolic music in a simple, condensed and high level manner.
 
 ## <span id="asr">Speech Recognition (ASR)</span>
 
