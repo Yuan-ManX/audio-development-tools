@@ -638,6 +638,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Bridge-TTS](https://github.com/thu-ml/Bridge-TTS) - Schrodinger Bridges Beat Diffusion Models on Text-to-Speech Synthesis.
 * [lina-speech](https://github.com/theodorblackbird/lina-speech) - linear attention based text-to-speech.
 * [ZMM-TTS](https://github.com/nii-yamagishilab/ZMM-TTS) - Zero-shot Multilingual and Multispeaker Speech Synthesis Conditioned on Self-supervised Discrete Speech Representations.
+* [RealtimeTTS](https://github.com/KoljaB/RealtimeTTS) - RealtimeTTS is a state-of-the-art text-to-speech (TTS) library designed for real-time applications.
 
 ## <span id="svs">Singing Voice Synthesis (SVS)</span>
 
