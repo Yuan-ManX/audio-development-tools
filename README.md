@@ -91,6 +91,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Speech-enhancement](https://github.com/vbelz/Speech-enhancement) - Deep learning for audio denoising.
 * [SNAC](https://github.com/hubertsiuzdak/snac) - Multi-Scale Neural Audio Codec (SNAC) compressess 44.1 kHz audio into discrete codes at a low bitrate.
 * [Supervoice GPT](https://github.com/ex3ndr/supervoice-gpt) - A GPT model that converts from text to phonemes with durations that is suitable to feed into voice synthesizer.
+* [AudioEditing](https://github.com/HilaManor/AudioEditingCode) - Zero-Shot Unsupervised and Text-Based Audio Editing Using DDPM Inversion.
 
 ## <span id="ag">Audio Generation (AG)</span>
 
