@@ -127,6 +127,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [stable-audio-tools](https://github.com/Stability-AI/stable-audio-tools) - Generative models for conditional audio generation.
 * [CTAG](https://github.com/PapayaResearch/ctag) - Creative Text-to-Audio Generation via Synthesizer Programming.
 * [Audiogen Codec](https://github.com/AudiogenAI/agc) - A low compression 48khz stereo neural audio codec for general audio, optimizing for audio fidelity 🎵.
+* [WavCraft](https://github.com/JinhuaLiang/WavCraft) - WavCraft is an AI agent for audio creation and editing.
 
 ## <span id="asp">Audio Signal Processing (ASP)</span>
 
