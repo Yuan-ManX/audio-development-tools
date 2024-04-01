@@ -93,6 +93,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Supervoice GPT](https://github.com/ex3ndr/supervoice-gpt) - A GPT model that converts from text to phonemes with durations that is suitable to feed into voice synthesizer.
 * [AudioEditing](https://github.com/HilaManor/AudioEditingCode) - Zero-Shot Unsupervised and Text-Based Audio Editing Using DDPM Inversion.
 * [MAX-Audio-Classifier](https://github.com/IBM/MAX-Audio-Classifier) - IBM Developer Model Asset Exchange: Audio Classifier.
+* [anira](https://github.com/tu-studio/anira) - an architecture for neural network inference in real-time audio applications.
 
 ## <span id="ag">Audio Generation (AG)</span>
 
