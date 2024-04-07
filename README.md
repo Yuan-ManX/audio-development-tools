@@ -367,6 +367,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [ww2ogg](https://github.com/hcs64/ww2ogg) - Convert AudioKinetic Wwise RIFF/RIFX Vorbis to standard Ogg Vorbis.
 * [Cavern](https://github.com/VoidXH/Cavern) - Object-based audio engine and codec pack with Dolby Atmos rendering, room correction, HRTF, one-click Unity audio takeover, and much more.
 * [RNBO Unity Audio Plugin](https://github.com/Cycling74/rnbo.unity.audioplugin) - RNBO Adapter for Unity's Native Audio Plugin.
+* [RNBO MetaSounds](https://github.com/Cycling74/RNBOMetasound) - RNBO adapter that implements metasound nodes.
 
 ## <span id="daw">Digital Audio Workstation (DAW)</span>
 
