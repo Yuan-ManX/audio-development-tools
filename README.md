@@ -603,6 +603,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [WhisperKit](https://github.com/argmaxinc/WhisperKit) - WhisperKit is a Swift package that integrates OpenAI's popular Whisper speech recognition model with Apple's CoreML framework for efficient, local inference on Apple devices.
 * [Language-Codec](https://github.com/jishengpeng/languagecodec) - Reducing the Gaps Between Discrete Codec Representation and Speech Language Models.
 * [PPGs](https://github.com/interactiveaudiolab/ppgs) - Training, evaluation, and inference of neural phonetic posteriorgrams (PPGs) in PyTorch.
+* [Whisper Burn](https://github.com/Gadersd/whisper-burn) - Rust Implementation of OpenAI's Whisper Transcription Model.
 
 ## <span id="tts">Speech Synthesis (TTS)</span>
 
