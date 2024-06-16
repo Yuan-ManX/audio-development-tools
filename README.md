@@ -429,6 +429,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [ambiX](https://github.com/kronihias/ambix) - cross-platform Ambisonic VST, LV2 plug-ins with variable order for use in Digital Audio Workstations like Reaper or Ardour or as Jack standalone applications.
 * [HOAC](https://github.com/chris-hld/hoac) - Higher-Order Ambisonics Codec for Spatial Audio.
 * [OpenSoundLab](https://github.com/ludzeller/OpenSoundLab) - OpenSoundLab (OSL) makes modular sound patching three dimensional in a mixed reality experience using Meta Quest's passthrough mode.
+* [SEE-2-SOUND🔊](https://github.com/see2sound/see2sound) - Zero-Shot Spatial Environment-to-Spatial Sound.
 
 ## <span id="wap">Web Audio Processing (WAP)</span>
 
