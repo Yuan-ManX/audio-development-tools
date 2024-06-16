@@ -610,6 +610,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [PPGs](https://github.com/interactiveaudiolab/ppgs) - Training, evaluation, and inference of neural phonetic posteriorgrams (PPGs) in PyTorch.
 * [Whisper Burn](https://github.com/Gadersd/whisper-burn) - Rust Implementation of OpenAI's Whisper Transcription Model.
 * [TeleSpeech-ASR](https://github.com/Tele-AI/TeleSpeech-ASR) - TeleSpeech-ASR is pre-trained with 300,000 hours of unlabeled multi-dialect speech data and fine-tuned using 30 types of internal labeled data, breaking the dilemma that a single model can only recognize a specific single dialect.
+* [Speech-Emotion-Recognition](https://github.com/Renovamen/Speech-Emotion-Recognition) - Speech emotion recognition implemented in Keras (LSTM, CNN, SVM, MLP).
 
 ## <span id="tts">Speech Synthesis (TTS)</span>
 
