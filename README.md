@@ -648,6 +648,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [ZMM-TTS](https://github.com/nii-yamagishilab/ZMM-TTS) - Zero-shot Multilingual and Multispeaker Speech Synthesis Conditioned on Self-supervised Discrete Speech Representations.
 * [RealtimeTTS](https://github.com/KoljaB/RealtimeTTS) - RealtimeTTS is a state-of-the-art text-to-speech (TTS) library designed for real-time applications.
 * [StableTTS](https://github.com/KdaiP/StableTTS) - Next-generation TTS model using flow-matching and DiT, inspired by Stable Diffusion 3.
+* [ChatTTS](https://github.com/2noise/ChatTTS) - ChatTTS is a generative speech model for daily dialogue.
 
 ## <span id="svs">Singing Voice Synthesis (SVS)</span>
 
