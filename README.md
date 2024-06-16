@@ -95,6 +95,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [MAX-Audio-Classifier](https://github.com/IBM/MAX-Audio-Classifier) - IBM Developer Model Asset Exchange: Audio Classifier.
 * [anira](https://github.com/tu-studio/anira) - an architecture for neural network inference in real-time audio applications.
 * [FakeSound](https://github.com/FakeSoundData/FakeSound) - Deepfake General Audio Detection.
+* [Audio Mamba](https://github.com/kaistmm/Audio-Mamba-AuM) - Bidirectional State Space Model for Audio Representation Learning.
 
 ## <span id="ag">Audio Generation (AG)</span>
 
