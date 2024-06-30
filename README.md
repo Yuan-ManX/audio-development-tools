@@ -696,6 +696,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [StyleTTS 2](https://github.com/yl4579/StyleTTS2) - StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models.
 * [Matcha-TTS](https://github.com/shivammehta25/Matcha-TTS) - Matcha-TTS: A fast TTS architecture with conditional flow matching.
 * [MahaTTS](https://github.com/dubverse-ai/MahaTTS) - MahaTTS: An Open-Source Large Speech Generation Model.
+* [MeloTTS](https://github.com/myshell-ai/MeloTTS) - MeloTTS is a high-quality multi-lingual text-to-speech library by MyShell.ai.
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
