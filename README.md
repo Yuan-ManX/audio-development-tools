@@ -693,6 +693,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [RealtimeTTS](https://github.com/KoljaB/RealtimeTTS) - RealtimeTTS is a state-of-the-art text-to-speech (TTS) library designed for real-time applications.
 * [StableTTS](https://github.com/KdaiP/StableTTS) - Next-generation TTS model using flow-matching and DiT, inspired by Stable Diffusion 3.
 * [ChatTTS](https://github.com/2noise/ChatTTS) - ChatTTS is a generative speech model for daily dialogue.
+* [StyleTTS 2](https://github.com/yl4579/StyleTTS2) - StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models.
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
