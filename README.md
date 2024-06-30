@@ -2,6 +2,8 @@
 
 This is a list of sound, audio and music development tools which contains machine learning, audio generation, audio signal processing, sound synthesis, game audio, digital audio workstation, spatial audio, music information retrieval, music generation, speech recognition, speech synthesis, singing voice synthesis and more.
 
+## Table of Contents
+
 * [Machine Learning (ML)](#ml)
 * [Audio Generation (AG)](#ag)
 * [Audio Signal Processing (ASP)](#asp)
@@ -16,7 +18,10 @@ This is a list of sound, audio and music development tools which contains machin
 * [Speech Synthesis (TTS)](#tts)
 * [Singing Voice Synthesis (SVS)](#svs)
 
-## <span id="ml">Machine Learning (ML)</span>
+
+## Project List
+
+### <span id="ml">Machine Learning (ML)</span>
 
 * [librosa](https://librosa.org/doc/latest/index.html) - Librosa is a python package for music and audio analysis. It provides the building blocks necessary to create music information retrieval systems.
 * [Essentia](http://essentia.upf.edu/) - Essentia is an open-source C++ library for audio analysis and audio-based music information retrieval released under the Affero GPLv3 license. It contains an extensive collection of reusable algorithms which implement audio input/output functionality, standard digital signal processing blocks, statistical characterization of data, and a large set of spectral, temporal, tonal and high-level music descriptors. C++ library for audio and music analysis, description and synthesis, including Python bindings.
@@ -99,7 +104,10 @@ This is a list of sound, audio and music development tools which contains machin
 * [SSAMBA](https://github.com/SiavashShams/ssamba) - SSAMBA: Self-Supervised Audio Representation Learning with Mamba State Space Model.
 * [SLAM-LLM](https://github.com/X-LANCE/SLAM-LLM) - SLAM-LLM is a deep learning toolkit that allows researchers and developers to train custom multimodal large language model (MLLM), focusing on Speech, Language, Audio, Music processing.
 
-## <span id="ag">Audio Generation (AG)</span>
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
+
+### <span id="ag">Audio Generation (AG)</span>
 
 * [AudioLCM](https://github.com/liuhuadai/AudioLCM) - Text-to-Audio Generation with Latent Consistency Models.
 * [Auffusion](https://github.com/happylittlecat2333/Auffusion) - Auffusion: Leveraging the Power of Diffusion and Large Language Models for Text-to-Audio Generation.
@@ -135,7 +143,10 @@ This is a list of sound, audio and music development tools which contains machin
 * [Audiogen Codec](https://github.com/AudiogenAI/agc) - A low compression 48khz stereo neural audio codec for general audio, optimizing for audio fidelity 🎵.
 * [WavCraft](https://github.com/JinhuaLiang/WavCraft) - WavCraft is an AI agent for audio creation and editing.
 
-## <span id="asp">Audio Signal Processing (ASP)</span>
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
+
+### <span id="asp">Audio Signal Processing (ASP)</span>
 
 * [SouPyX](https://github.com/Yuan-ManX/SouPyX) - SouPyX is a very colourful space for audio exploration, suitable for research and exploration in a variety of audio fields. In SouPyX you can carry out research and exploration in audio processing, sound synthesis, audio effects, spatial audio, audio visualisation, AI audio and much more.
 * [SoundFile](https://pysoundfile.readthedocs.io/en/latest/) - SoundFile is an audio library based on libsndfile, CFFI and NumPy.
@@ -257,7 +268,10 @@ This is a list of sound, audio and music development tools which contains machin
 * [Cookiejuce](https://github.com/madskjeldgaard/Cookiejuce) - A command line tool for generating modern JUCE projects with CMake.
 * [auglib](https://github.com/audeering/auglib) - auglib is an augmentation library, which provides transforms to modify audio signals and files.
 
-## <span id="ss">Sound Synthesis (SS)</span>
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
+
+### <span id="ss">Sound Synthesis (SS)</span>
 
 * [Csound](https://csound.com/) - Csound is a sound and music computing system which was originally developed by Barry Vercoe in 1985 at MIT Media Lab. Since the 90s, it has been developed by a group of core developers.
 * [Pure Data](https://puredata.info/) - **Pure Data** ( **Pd** ) is a [visual programming language](https://en.wikipedia.org/wiki/Visual_programming_language "Visual programming language") developed by [Miller Puckette](https://en.wikipedia.org/wiki/Miller_Puckette "Miller Puckette") in the 1990s for creating [interactive](https://en.wikipedia.org/wiki/Interaction "Interaction") [computer music](https://en.wikipedia.org/wiki/Computer_music "Computer music") and [multimedia](https://en.wikipedia.org/wiki/Multimedia "Multimedia") works. While Puckette is the main author of the program, Pd is an [open-source](https://en.wikipedia.org/wiki/Open-source_software "Open-source software") project with a large developer base working on new extensions. It is released under [BSD-3-Clause](https://en.wikipedia.org/wiki/BSD_licenses "BSD licenses"). It runs on [Linux](https://en.wikipedia.org/wiki/Linux "Linux"), [MacOS](https://en.wikipedia.org/wiki/MacOS "MacOS"), [iOS](https://en.wikipedia.org/wiki/IOS "IOS"), [Android](https://en.wikipedia.org/wiki/Android_(operating_system)) "Android (operating system)") and [Windows](https://en.wikipedia.org/wiki/Windows "Windows"). Ports exist for [FreeBSD](https://en.wikipedia.org/wiki/FreeBSD "FreeBSD") and [IRIX](https://en.wikipedia.org/wiki/IRIX "IRIX").
@@ -342,7 +356,10 @@ This is a list of sound, audio and music development tools which contains machin
 * [blocks](https://github.com/dan-german/blocks) - blocks is a modular synthesizer available as standalone, VST3 & AU for Windows and macOS.
 * [Bessel's Trick](https://github.com/fcaspe/BesselsTrick) - Bessel's Trick is a Neural Audio Plugin for fast, live Tone Transformation of Musical Instrument sounds using Frequency Modulation (FM) synthesis.
 
-## <span id="ga">Game Audio (GA)</span>
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
+
+### <span id="ga">Game Audio (GA)</span>
 
 * [Chunity](https://github.com/ccrma/chunity) - ChucK in Unity. Plugin for using ChucK in Unity. Available on the Unity Asset Store.
 * [Raveler](https://github.com/usdivad/Raveler) - Wwise plugin that runs RAVE models, enabling real-time timbre transfer via neural audio synthesis in a game audio setting.
@@ -374,7 +391,10 @@ This is a list of sound, audio and music development tools which contains machin
 * [RNBO Unity Audio Plugin](https://github.com/Cycling74/rnbo.unity.audioplugin) - RNBO Adapter for Unity's Native Audio Plugin.
 * [RNBO MetaSounds](https://github.com/Cycling74/RNBOMetasound) - RNBO adapter that implements metasound nodes.
 
-## <span id="daw">Digital Audio Workstation (DAW)</span>
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
+
+### <span id="daw">Digital Audio Workstation (DAW)</span>
 
 * [Audacity](https://github.com/audacity/audacity) - Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems. 
 * [Tracktion](https://github.com/Tracktion/tracktion_engine) - Tracktion is a cross-platform based open source audio workstation with an intuitive user interface and powerful audio editing and mixing functions.
@@ -405,7 +425,10 @@ This is a list of sound, audio and music development tools which contains machin
 * [smart-audio-mixer](https://github.com/kuouu/smart-audio-mixer) - A modern digital audio workstation(DAW) using C++/JUCE.
 * [OpenVINO™ AI Plugins for Audacity](https://github.com/intel/openvino-plugins-ai-audacity) - A set of AI-enabled effects, generators, and analyzers for Audacity.
 
-## <span id="sa">Spatial Audio (SA)</span>
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
+
+### <span id="sa">Spatial Audio (SA)</span>
 
 * [spaudiopy](https://spaudiopy.readthedocs.io/en/latest/index.html) - Spatial Audio Python Package. The focus (so far) is on spatial audio encoders and decoders. The package includes e.g. spherical harmonics processing and (binaural renderings of) loudspeaker decoders, such as VBAP and AllRAD.
 * [Spatial_Audio_Framework (SAF)](https://leomccormack.github.io/Spatial_Audio_Framework/) - The Spatial_Audio_Framework (SAF) is an open-source and cross-platform framework for developing spatial audio related algorithms and software in C/C++. Originally intended as a resource for researchers in the field, the framework has gradually grown into a rather large and well-documented codebase comprising a number of distinct [**modules**](https://github.com/leomccormack/Spatial_Audio_Framework/blob/master/framework/modules); with each module targeting a specific sub-field of spatial audio (e.g. Ambisonics encoding/decoding, spherical array processing, amplitude-panning, HRIR processing, room simulation, etc.).
@@ -434,7 +457,10 @@ This is a list of sound, audio and music development tools which contains machin
 * [OpenSoundLab](https://github.com/ludzeller/OpenSoundLab) - OpenSoundLab (OSL) makes modular sound patching three dimensional in a mixed reality experience using Meta Quest's passthrough mode.
 * [SEE-2-SOUND🔊](https://github.com/see2sound/see2sound) - Zero-Shot Spatial Environment-to-Spatial Sound.
 
-## <span id="wap">Web Audio Processing (WAP)</span>
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
+
+### <span id="wap">Web Audio Processing (WAP)</span>
 
 * [WebRTC Audio Processing](https://github.com/xiongyihui/python-webrtc-audio-processing) - Python binding of WebRTC Audio Processing.
 * [WebChucK](https://github.com/ccrma/webchuck) - WebChucK brings ChucK, a strongly-timed audio programming language, to the web! ChucK's C++ source code has been compiled down to WebAssembly (WASM) and runs via the AudioWorkletNode interface of the Web Audio API.
@@ -479,7 +505,10 @@ This is a list of sound, audio and music development tools which contains machin
 * [Naph.js](https://github.com/potistudio/naph.js) - Naph is a Node.js Library that Allow Hosting Native Audio Plugins (VST, VST3, AAX, AU).
 * [audio-worklet-loader](https://github.com/leviance/audio-worklet-loader) - Audio Worklet loader for webpack.
 
-## <span id="mir">Music Information Retrieval (MIR)</span>
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
+
+### <span id="mir">Music Information Retrieval (MIR)</span>
 
 * [Madmom](https://github.com/CPJKU/madmom) - Madmom is an audio signal processing library written in Python with a strong focus on music information retrieval (MIR) tasks.
 * [Beets](https://beets.io/) - Beets is the media library management system for obsessive music geeks. music library manager and MusicBrainz tagger.
@@ -525,7 +554,10 @@ This is a list of sound, audio and music development tools which contains machin
 * [iimrp](https://github.com/Intelligent-Instruments-Lab/iimrp) - Magnetic Resonator Piano tools from the Intelligent Instruments Lab.
 * [Music Encoding Initiative (MEI)](https://github.com/music-encoding/music-encoding) - The Music Encoding Initiative (MEI) is an open-source effort to define a system for encoding musical documents in a machine-readable structure. 
 
-## <span id="mg">Music Generation (MG)</span>
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
+
+### <span id="mg">Music Generation (MG)</span>
 
 * [isobar](https://github.com/ideoforms/isobar) - isobar is a Python library for creating and manipulating musical patterns, designed for use in algorithmic composition, generative music and sonification. It makes it quick and easy to express complex musical ideas, and can send and receive events from various different sources including MIDI, MIDI files, and OSC.
 * [MusPy](https://salu133445.github.io/muspy/) - MusPy is an open source Python library for symbolic music generation. It provides essential tools for developing a music generation system, including dataset management, data I/O, data preprocessing and model evaluation.
@@ -568,7 +600,10 @@ This is a list of sound, audio and music development tools which contains machin
 * [modulo](https://github.com/francesco-di-maggio/modulo) - A Toolkit for Tinkering with Digital Musical Instruments.
 * [MusicLang](https://github.com/MusicLang/musiclang) - MusicLang which simply stands for "music language" is a Python framework implementing a new language for tonal music. This language allows composers to load, write, transform and predict symbolic music in a simple, condensed and high level manner.
 
-## <span id="asr">Speech Recognition (ASR)</span>
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
+
+### <span id="asr">Speech Recognition (ASR)</span>
 
 * [Kaldi](http://kaldi-asr.org/) - Kaldi is a toolkit for speech recognition, intended for use by speech recognition researchers and professionals.
 * [PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA/Streaming ASR with punctuation, influential TTS with text frontend, Speaker Verification System, End-to-End Speech Translation and Keyword Spotting.
@@ -614,7 +649,10 @@ This is a list of sound, audio and music development tools which contains machin
 * [TeleSpeech-ASR](https://github.com/Tele-AI/TeleSpeech-ASR) - TeleSpeech-ASR is pre-trained with 300,000 hours of unlabeled multi-dialect speech data and fine-tuned using 30 types of internal labeled data, breaking the dilemma that a single model can only recognize a specific single dialect.
 * [Speech-Emotion-Recognition](https://github.com/Renovamen/Speech-Emotion-Recognition) - Speech emotion recognition implemented in Keras (LSTM, CNN, SVM, MLP).
 
-## <span id="tts">Speech Synthesis (TTS)</span>
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
+
+### <span id="tts">Speech Synthesis (TTS)</span>
 
 * [VALL-E](https://valle-demo.github.io/) - VALL-E: Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.
 * [SpeechGPT](https://github.com/0nutation/SpeechGPT) - SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities.
@@ -656,7 +694,10 @@ This is a list of sound, audio and music development tools which contains machin
 * [StableTTS](https://github.com/KdaiP/StableTTS) - Next-generation TTS model using flow-matching and DiT, inspired by Stable Diffusion 3.
 * [ChatTTS](https://github.com/2noise/ChatTTS) - ChatTTS is a generative speech model for daily dialogue.
 
-## <span id="svs">Singing Voice Synthesis (SVS)</span>
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
+
+### <span id="svs">Singing Voice Synthesis (SVS)</span>
 
 * [NNSVS](https://nnsvs.github.io/) - Neural network-based singing voice synthesis library for research.
 * [Muskit](https://github.com/SJTMusicTeam/Muskits) - Muskit is an open-source music processing toolkit. Currently we mostly focus on benchmarking the end-to-end singing voice synthesis and expect to extend more tasks in the future. Muskit employs [pytorch](http://pytorch.org/) as a deep learning engine and also follows [ESPnet](https://github.com/espnet/espnet) and [Kaldi](http://kaldi-asr.org/) style data processing, and recipes to provide a complete setup for various music processing experiments.
@@ -676,4 +717,6 @@ This is a list of sound, audio and music development tools which contains machin
 * [clone-voice](https://github.com/jianchang512/clone-voice) - A sound cloning tool with a web interface to record audio using your patch or any sound.
 * [OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 
-## And more
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
+
+
