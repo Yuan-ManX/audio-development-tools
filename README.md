@@ -96,6 +96,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [anira](https://github.com/tu-studio/anira) - an architecture for neural network inference in real-time audio applications.
 * [FakeSound](https://github.com/FakeSoundData/FakeSound) - Deepfake General Audio Detection.
 * [Audio Mamba](https://github.com/kaistmm/Audio-Mamba-AuM) - Bidirectional State Space Model for Audio Representation Learning.
+* [SSAMBA](https://github.com/SiavashShams/ssamba) - SSAMBA: Self-Supervised Audio Representation Learning with Mamba State Space Model.
 * [SLAM-LLM](https://github.com/X-LANCE/SLAM-LLM) - SLAM-LLM is a deep learning toolkit that allows researchers and developers to train custom multimodal large language model (MLLM), focusing on Speech, Language, Audio, Music processing.
 
 ## <span id="ag">Audio Generation (AG)</span>
