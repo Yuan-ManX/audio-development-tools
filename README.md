@@ -700,6 +700,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [MeloTTS](https://github.com/myshell-ai/MeloTTS) - MeloTTS is a high-quality multi-lingual text-to-speech library by MyShell.ai.
 * [OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 * [MetaVoice-1B](https://github.com/metavoiceio/metavoice-src) - MetaVoice-1B is a 1.2B parameter base model trained on 100K hours of speech for TTS (text-to-speech).
+* [DEX-TTS](https://github.com/winddori2002/DEX-TTS) - Diffusion-based EXpressive Text-to-Speech with Style Modeling on Time Variability.
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
