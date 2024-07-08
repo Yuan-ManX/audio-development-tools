@@ -103,6 +103,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Audio Mamba](https://github.com/kaistmm/Audio-Mamba-AuM) - Bidirectional State Space Model for Audio Representation Learning.
 * [SSAMBA](https://github.com/SiavashShams/ssamba) - SSAMBA: Self-Supervised Audio Representation Learning with Mamba State Space Model.
 * [SLAM-LLM](https://github.com/X-LANCE/SLAM-LLM) - SLAM-LLM is a deep learning toolkit that allows researchers and developers to train custom multimodal large language model (MLLM), focusing on Speech, Language, Audio, Music processing.
+* [MIDI2vec](https://github.com/midi-ld/midi2vec) - MIDI2vec: Learning Embeddings for MIDI Vector Space Representations.
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
