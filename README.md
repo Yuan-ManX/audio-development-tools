@@ -144,6 +144,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [CTAG](https://github.com/PapayaResearch/ctag) - Creative Text-to-Audio Generation via Synthesizer Programming.
 * [Audiogen Codec](https://github.com/AudiogenAI/agc) - A low compression 48khz stereo neural audio codec for general audio, optimizing for audio fidelity 🎵.
 * [WavCraft](https://github.com/JinhuaLiang/WavCraft) - WavCraft is an AI agent for audio creation and editing.
+* [FoleyCrafter](https://github.com/open-mmlab/FoleyCrafter) - FoleyCrafter: Bring Silent Videos to Life with Lifelike and Synchronized Sounds.
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
