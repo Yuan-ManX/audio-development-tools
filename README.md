@@ -705,6 +705,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 * [MetaVoice-1B](https://github.com/metavoiceio/metavoice-src) - MetaVoice-1B is a 1.2B parameter base model trained on 100K hours of speech for TTS (text-to-speech).
 * [DEX-TTS](https://github.com/winddori2002/DEX-TTS) - Diffusion-based EXpressive Text-to-Speech with Style Modeling on Time Variability.
+* [CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
