@@ -652,6 +652,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Whisper Burn](https://github.com/Gadersd/whisper-burn) - Rust Implementation of OpenAI's Whisper Transcription Model.
 * [TeleSpeech-ASR](https://github.com/Tele-AI/TeleSpeech-ASR) - TeleSpeech-ASR is pre-trained with 300,000 hours of unlabeled multi-dialect speech data and fine-tuned using 30 types of internal labeled data, breaking the dilemma that a single model can only recognize a specific single dialect.
 * [Speech-Emotion-Recognition](https://github.com/Renovamen/Speech-Emotion-Recognition) - Speech emotion recognition implemented in Keras (LSTM, CNN, SVM, MLP).
+* [SwiftSpeech](https://github.com/Cay-Zhang/SwiftSpeech) - A speech recognition framework designed for SwiftUI.
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
