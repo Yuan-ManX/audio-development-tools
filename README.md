@@ -654,6 +654,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Speech-Emotion-Recognition](https://github.com/Renovamen/Speech-Emotion-Recognition) - Speech emotion recognition implemented in Keras (LSTM, CNN, SVM, MLP).
 * [SwiftSpeech](https://github.com/Cay-Zhang/SwiftSpeech) - A speech recognition framework designed for SwiftUI.
 * [SenseVoice](https://github.com/FunAudioLLM/SenseVoice) - SenseVoice is a speech foundation model with multiple speech understanding capabilities, including automatic speech recognition (ASR), spoken language identification (LID), speech emotion recognition (SER), and audio event detection (AED).
+* [SenseVoice.cpp](https://github.com/lovemefan/SenseVoice.cpp) - Port of Funasr's Sense-voice model in C/C++.
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
