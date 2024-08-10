@@ -427,6 +427,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Qtractor](https://github.com/rncbc/qtractor) - Qtractor is an Audio/MIDI multi-track sequencer application written in C++ with the Qt framework. Target platform is Linux, where the Jack Audio Connection Kit (JACK) for audio, and the Advanced Linux Sound Architecture (ALSA) for MIDI, are the main infrastructures to evolve as a fairly-featured Linux desktop audio workstation GUI, specially dedicated to the personal home-studio.
 * [smart-audio-mixer](https://github.com/kuouu/smart-audio-mixer) - A modern digital audio workstation(DAW) using C++/JUCE.
 * [OpenVINO™ AI Plugins for Audacity](https://github.com/intel/openvino-plugins-ai-audacity) - A set of AI-enabled effects, generators, and analyzers for Audacity.
+* [Jackdaw](https://github.com/chvolow24/jackdaw) - A stripped-down, keyboard-focused digital audio workstation (DAW) taking some design cues from non-linear video editors like Avid.
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
