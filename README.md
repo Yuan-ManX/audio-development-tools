@@ -558,7 +558,8 @@ This is a list of sound, audio and music development tools which contains machin
 * [MIDITrackView](https://github.com/AudioKit/MIDITrackView) - Displays the notes of a MIDI file and follows along with playback.
 * [iimrp](https://github.com/Intelligent-Instruments-Lab/iimrp) - Magnetic Resonator Piano tools from the Intelligent Instruments Lab.
 * [Music Encoding Initiative (MEI)](https://github.com/music-encoding/music-encoding) - The Music Encoding Initiative (MEI) is an open-source effort to define a system for encoding musical documents in a machine-readable structure.
-* [musical-key-finder](https://github.com/jackmcarthur/musical-key-finder) - A python project that uses Librosa and other libraries to analyze the key that a song (an .mp3) is in, i.e. F major or C# minor, using the Krumhansl-Schmuckler key-finding algorithm. 
+* [musical-key-finder](https://github.com/jackmcarthur/musical-key-finder) - A python project that uses Librosa and other libraries to analyze the key that a song (an .mp3) is in, i.e. F major or C# minor, using the Krumhansl-Schmuckler key-finding algorithm.
+* [midi-db](https://github.com/ltgcgo/midi-db) - 🎹 Data concerning MIDI standards. 
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
