@@ -270,6 +270,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [Smartelectronix](https://github.com/bdejong/smartelectronix) - Open source versions of all bram @ smartelectronix plugins.
 * [Cookiejuce](https://github.com/madskjeldgaard/Cookiejuce) - A command line tool for generating modern JUCE projects with CMake.
 * [auglib](https://github.com/audeering/auglib) - auglib is an augmentation library, which provides transforms to modify audio signals and files.
+* [klang](https://github.com/nashaudio/klang) - klang is a language for the design and development of realtime audio processes in C++.
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
