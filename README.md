@@ -429,6 +429,7 @@ This is a list of sound, audio and music development tools which contains machin
 * [smart-audio-mixer](https://github.com/kuouu/smart-audio-mixer) - A modern digital audio workstation(DAW) using C++/JUCE.
 * [OpenVINO™ AI Plugins for Audacity](https://github.com/intel/openvino-plugins-ai-audacity) - A set of AI-enabled effects, generators, and analyzers for Audacity.
 * [Jackdaw](https://github.com/chvolow24/jackdaw) - A stripped-down, keyboard-focused digital audio workstation (DAW) taking some design cues from non-linear video editors like Avid.
+* [ossia score](https://github.com/ossia/score) - An intermedia sequencer supporting audio (VST, VST3, LV2, JSFX, etc.) as well as video and hardware control (OSC, MIDI, DMX, NDI, MQTT, CoAP, etc.) 
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
