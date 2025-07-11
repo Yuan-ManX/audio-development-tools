@@ -17,6 +17,7 @@ Audio Development Tools (ADT) is a project for advancing sound, speech, and musi
 * [Speech Recognition (ASR)](#asr)
 * [Speech Synthesis (TTS)](#tts)
 * [Singing Voice Synthesis (SVS)](#svs)
+* [Audio Evaluation](#ae)
 
 
 ## Project List
@@ -740,4 +741,11 @@ Audio Development Tools (ADT) is a project for advancing sound, speech, and musi
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
+
+### <span id="ae">Audio Evaluation</span>
+
+* [librosa](https://librosa.org/doc/latest/index.html) - Librosa is a python package for music and audio analysis. It provides the building blocks necessary to create music information retrieval systems.
+
+
+<p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
