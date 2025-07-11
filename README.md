@@ -746,6 +746,7 @@ Audio Development Tools (ADT) is a project for advancing sound, speech, and musi
 
 * [JiWER](https://github.com/jitsi/jiwer) - JiWER is a simple and fast python package to evaluate an automatic speech recognition system. It supports the following measures:word error rate (WER)、match error rate (MER)、word information lost (WIL)、word information preserved (WIP)、character error rate (CER). Evaluate your speech-to-text system with similarity measures such as word error rate (WER).
 * [librosa](https://librosa.org/doc/latest/index.html) - Librosa is a python package for music and audio analysis. It provides the building blocks necessary to create music information retrieval systems.
+* [Parselmouth](https://github.com/YannickJadoul/Parselmouth) - Parselmouth - Praat in Python, the Pythonic way. Parselmouth is a Python library for the Praat software.
 
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
